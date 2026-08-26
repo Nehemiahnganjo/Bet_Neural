@@ -1,0 +1,222 @@
+[
+  {
+    "league": "la_liga",
+    "home_team": "Real Madrid CF",
+    "away_team": "Real Sociedad de Fútbol",
+    "commence_time": "2026-08-26T19:00:00Z",
+    "bookmaker": "football-data",
+    "home_odds": 0.0,
+    "draw_odds": 0.0,
+    "away_odds": 0.0,
+    "source": "football_data"
+  },
+  {
+    "league": "la_liga",
+    "home_team": "RC Celta de Vigo",
+    "away_team": "CA Osasuna",
+    "commence_time": "2026-08-27T18:30:00Z",
+    "bookmaker": "football-data",
+    "home_odds": 0.0,
+    "draw_odds": 0.0,
+    "away_odds": 0.0,
+    "source": "football_data"
+  },
+  {
+    "league": "la_liga",
+    "home_team": "FC Barcelona",
+    "away_team": "Athletic Club",
+    "commence_time": "2026-08-27T19:00:00Z",
+    "bookmaker": "football-data",
+    "home_odds": 0.0,
+    "draw_odds": 0.0,
+    "away_odds": 0.0,
+    "source": "football_data"
+  },
+  {
+    "league": "la_liga",
+    "home_team": "Real Racing Club de Santander",
+    "away_team": "Elche CF",
+    "commence_time": "2026-08-28T17:00:00Z",
+    "bookmaker": "football-data",
+    "home_odds": 0.0,
+    "draw_odds": 0.0,
+    "away_odds": 0.0,
+    "source": "football_data"
+  },
+  {
+    "league": "la_liga",
+    "home_team": "Deportivo Alavés",
+    "away_team": "Villarreal CF",
+    "commence_time": "2026-08-28T19:30:00Z",
+    "bookmaker": "football-data",
+    "home_odds": 0.0,
+    "draw_odds": 0.0,
+    "away_odds": 0.0,
+    "source": "football_data"
+  },
+  {
+    "league": "la_liga",
+    "home_team": "Levante UD",
+    "away_team": "Real Betis Balompié",
+    "commence_time": "2026-08-29T15:00:00Z",
+    "bookmaker": "football-data",
+    "home_odds": 0.0,
+    "draw_odds": 0.0,
+    "away_odds": 0.0,
+    "source": "football_data"
+  },
+  {
+    "league": "la_liga",
+    "home_team": "Real Sociedad de Fútbol",
+    "away_team": "RCD Espanyol de Barcelona",
+    "commence_time": "2026-08-29T17:00:00Z",
+    "bookmaker": "football-data",
+    "home_odds": 0.0,
+    "draw_odds": 0.0,
+    "away_odds": 0.0,
+    "source": "football_data"
+  },
+  {
+    "league": "la_liga",
+    "home_team": "Sevilla FC",
+    "away_team": "Club Atlético de Madrid",
+    "commence_time": "2026-08-29T19:30:00Z",
+    "bookmaker": "football-data",
+    "home_odds": 0.0,
+    "draw_odds": 0.0,
+    "away_odds": 0.0,
+    "source": "football_data"
+  },
+  {
+    "league": "la_liga",
+    "home_team": "Real Madrid CF",
+    "away_team": "Málaga CF",
+    "commence_time": "2026-08-30T15:00:00Z",
+    "bookmaker": "football-data",
+    "home_odds": 0.0,
+    "draw_odds": 0.0,
+    "away_odds": 0.0,
+    "source": "football_data"
+  },
+  {
+    "league": "la_liga",
+    "home_team": "RC Deportivo La Coruña",
+    "away_team": "Valencia CF",
+    "commence_time": "2026-08-30T17:30:00Z",
+    "bookmaker": "football-data",
+    "home_odds": 0.0,
+    "draw_odds": 0.0,
+    "away_odds": 0.0,
+    "source": "football_data"
+  },
+  {
+    "league": "la_liga",
+    "home_team": "RC Celta de Vigo",
+    "away_team": "Athletic Club",
+    "commence_time": "2026-08-30T19:30:00Z",
+    "bookmaker": "football-data",
+    "home_odds": 0.0,
+    "draw_odds": 0.0,
+    "away_odds": 0.0,
+    "source": "football_data"
+  },
+  {
+    "league": "la_liga",
+    "home_team": "CA Osasuna",
+    "away_team": "Getafe CF",
+    "commence_time": "2026-08-31T17:30:00Z",
+    "bookmaker": "football-data",
+    "home_odds": 0.0,
+    "draw_odds": 0.0,
+    "away_odds": 0.0,
+    "source": "football_data"
+  },
+  {
+    "league": "la_liga",
+    "home_team": "FC Barcelona",
+    "away_team": "Rayo Vallecano de Madrid",
+    "commence_time": "2026-08-31T19:30:00Z",
+    "bookmaker": "football-data",
+    "home_odds": 0.0,
+    "draw_odds": 0.0,
+    "away_odds": 0.0,
+    "source": "football_data"
+  },
+  {
+    "league": "la_liga",
+    "home_team": "Real Sociedad de Fútbol",
+    "away_team": "RC Celta de Vigo",
+    "commence_time": "2026-09-03T19:00:00Z",
+    "bookmaker": "football-data",
+    "home_odds": 0.0,
+    "draw_odds": 0.0,
+    "away_odds": 0.0,
+    "source": "football_data"
+  },
+  {
+    "league": "la_liga",
+    "home_team": "Real Betis Balompié",
+    "away_team": "Real Madrid CF",
+    "commence_time": "2026-09-04T19:00:00Z",
+    "bookmaker": "football-data",
+    "home_odds": 0.0,
+    "draw_odds": 0.0,
+    "away_odds": 0.0,
+    "source": "football_data"
+  },
+  {
+    "league": "la_liga",
+    "home_team": "Athletic Club",
+    "away_team": "Club Atlético de Madrid",
+    "commence_time": "2026-09-05T14:15:00Z",
+    "bookmaker": "football-data",
+    "home_odds": 0.0,
+    "draw_odds": 0.0,
+    "away_odds": 0.0,
+    "source": "football_data"
+  },
+  {
+    "league": "la_liga",
+    "home_team": "Rayo Vallecano de Madrid",
+    "away_team": "Real Racing Club de Santander",
+    "commence_time": "2026-09-05T16:30:00Z",
+    "bookmaker": "football-data",
+    "home_odds": 0.0,
+    "draw_odds": 0.0,
+    "away_odds": 0.0,
+    "source": "football_data"
+  },
+  {
+    "league": "la_liga",
+    "home_team": "Villarreal CF",
+    "away_team": "RC Deportivo La Coruña",
+    "commence_time": "2026-09-05T19:00:00Z",
+    "bookmaker": "football-data",
+    "home_odds": 0.0,
+    "draw_odds": 0.0,
+    "away_odds": 0.0,
+    "source": "football_data"
+  },
+  {
+    "league": "la_liga",
+    "home_team": "Valencia CF",
+    "away_team": "FC Barcelona",
+    "commence_time": "2026-09-06T14:15:00Z",
+    "bookmaker": "football-data",
+    "home_odds": 0.0,
+    "draw_odds": 0.0,
+    "away_odds": 0.0,
+    "source": "football_data"
+  },
+  {
+    "league": "la_liga",
+    "home_team": "Deportivo Alavés",
+    "away_team": "CA Osasuna",
+    "commence_time": "2026-09-06T16:30:00Z",
+    "bookmaker": "football-data",
+    "home_odds": 0.0,
+    "draw_odds": 0.0,
+    "away_odds": 0.0,
+    "source": "football_data"
+  }
+]

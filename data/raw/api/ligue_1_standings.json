@@ -1,0 +1,182 @@
+[
+  {
+    "position": 1,
+    "team": "olympique de marseille",
+    "played": 1,
+    "won": 1,
+    "drawn": 0,
+    "lost": 0,
+    "points": 3,
+    "gd": 4
+  },
+  {
+    "position": 2,
+    "team": "racing club de lens",
+    "played": 1,
+    "won": 1,
+    "drawn": 0,
+    "lost": 0,
+    "points": 3,
+    "gd": 3
+  },
+  {
+    "position": 3,
+    "team": "lille osc",
+    "played": 1,
+    "won": 1,
+    "drawn": 0,
+    "lost": 0,
+    "points": 3,
+    "gd": 2
+  },
+  {
+    "position": 3,
+    "team": "olympique lyonnais",
+    "played": 1,
+    "won": 1,
+    "drawn": 0,
+    "lost": 0,
+    "points": 3,
+    "gd": 2
+  },
+  {
+    "position": 5,
+    "team": "as monaco fc",
+    "played": 1,
+    "won": 1,
+    "drawn": 0,
+    "lost": 0,
+    "points": 3,
+    "gd": 1
+  },
+  {
+    "position": 6,
+    "team": "le mans fc",
+    "played": 1,
+    "won": 0,
+    "drawn": 1,
+    "lost": 0,
+    "points": 1,
+    "gd": 0
+  },
+  {
+    "position": 6,
+    "team": "paris saint-germain fc",
+    "played": 1,
+    "won": 0,
+    "drawn": 1,
+    "lost": 0,
+    "points": 1,
+    "gd": 0
+  },
+  {
+    "position": 6,
+    "team": "stade brestois 29",
+    "played": 1,
+    "won": 0,
+    "drawn": 1,
+    "lost": 0,
+    "points": 1,
+    "gd": 0
+  },
+  {
+    "position": 6,
+    "team": "stade rennais fc 1901",
+    "played": 1,
+    "won": 0,
+    "drawn": 1,
+    "lost": 0,
+    "points": 1,
+    "gd": 0
+  },
+  {
+    "position": 10,
+    "team": "es troyes ac",
+    "played": 1,
+    "won": 0,
+    "drawn": 1,
+    "lost": 0,
+    "points": 1,
+    "gd": 0
+  },
+  {
+    "position": 10,
+    "team": "fc lorient",
+    "played": 1,
+    "won": 0,
+    "drawn": 1,
+    "lost": 0,
+    "points": 1,
+    "gd": 0
+  },
+  {
+    "position": 10,
+    "team": "ogc nice",
+    "played": 1,
+    "won": 0,
+    "drawn": 1,
+    "lost": 0,
+    "points": 1,
+    "gd": 0
+  },
+  {
+    "position": 10,
+    "team": "paris fc",
+    "played": 1,
+    "won": 0,
+    "drawn": 1,
+    "lost": 0,
+    "points": 1,
+    "gd": 0
+  },
+  {
+    "position": 14,
+    "team": "le havre ac",
+    "played": 1,
+    "won": 0,
+    "drawn": 0,
+    "lost": 1,
+    "points": 0,
+    "gd": -1
+  },
+  {
+    "position": 15,
+    "team": "angers sco",
+    "played": 1,
+    "won": 0,
+    "drawn": 0,
+    "lost": 1,
+    "points": 0,
+    "gd": -2
+  },
+  {
+    "position": 15,
+    "team": "toulouse fc",
+    "played": 1,
+    "won": 0,
+    "drawn": 0,
+    "lost": 1,
+    "points": 0,
+    "gd": -2
+  },
+  {
+    "position": 17,
+    "team": "aj auxerre",
+    "played": 1,
+    "won": 0,
+    "drawn": 0,
+    "lost": 1,
+    "points": 0,
+    "gd": -3
+  },
+  {
+    "position": 18,
+    "team": "rc strasbourg alsace",
+    "played": 1,
+    "won": 0,
+    "drawn": 0,
+    "lost": 1,
+    "points": 0,
+    "gd": -4
+  }
+]

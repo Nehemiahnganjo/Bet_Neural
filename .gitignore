@@ -1,0 +1,19 @@
+# Secrets
+.env
+
+# Elo ratings (runtime state, not source code)
+elo_ratings.json
+
+# API response cache
+.api_cache/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Rust
+bet_neural_gui/target/
+
+# Test artifacts
+.pytest_cache/

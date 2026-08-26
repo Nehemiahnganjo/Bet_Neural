@@ -1,0 +1,965 @@
+[
+  {
+    "home_team": "rc strasbourg alsace",
+    "away_team": "racing club de lens",
+    "result": "D",
+    "home_score": 1,
+    "away_score": 1,
+    "date_utc": "2026-02-27T19:45:00Z",
+    "league": "ligue_1"
+  },
+  {
+    "home_team": "stade rennais fc 1901",
+    "away_team": "toulouse fc",
+    "result": "H",
+    "home_score": 1,
+    "away_score": 0,
+    "date_utc": "2026-02-28T16:00:00Z",
+    "league": "ligue_1"
+  },
+  {
+    "home_team": "as monaco fc",
+    "away_team": "angers sco",
+    "result": "H",
+    "home_score": 2,
+    "away_score": 0,
+    "date_utc": "2026-02-28T18:00:00Z",
+    "league": "ligue_1"
+  },
+  {
+    "home_team": "le havre ac",
+    "away_team": "paris saint-germain fc",
+    "result": "A",
+    "home_score": 0,
+    "away_score": 1,
+    "date_utc": "2026-02-28T20:05:00Z",
+    "league": "ligue_1"
+  },
+  {
+    "home_team": "paris fc",
+    "away_team": "ogc nice",
+    "result": "H",
+    "home_score": 1,
+    "away_score": 0,
+    "date_utc": "2026-03-01T14:00:00Z",
+    "league": "ligue_1"
+  },
+  {
+    "home_team": "fc lorient",
+    "away_team": "aj auxerre",
+    "result": "D",
+    "home_score": 2,
+    "away_score": 2,
+    "date_utc": "2026-03-01T16:15:00Z",
+    "league": "ligue_1"
+  },
+  {
+    "home_team": "fc metz",
+    "away_team": "stade brestois 29",
+    "result": "A",
+    "home_score": 0,
+    "away_score": 1,
+    "date_utc": "2026-03-01T16:15:00Z",
+    "league": "ligue_1"
+  },
+  {
+    "home_team": "lille osc",
+    "away_team": "fc nantes",
+    "result": "H",
+    "home_score": 1,
+    "away_score": 0,
+    "date_utc": "2026-03-01T16:15:00Z",
+    "league": "ligue_1"
+  },
+  {
+    "home_team": "olympique de marseille",
+    "away_team": "olympique lyonnais",
+    "result": "H",
+    "home_score": 3,
+    "away_score": 2,
+    "date_utc": "2026-03-01T19:45:00Z",
+    "league": "ligue_1"
+  },
+  {
+    "home_team": "paris saint-germain fc",
+    "away_team": "as monaco fc",
+    "result": "A",
+    "home_score": 1,
+    "away_score": 3,
+    "date_utc": "2026-03-06T19:45:00Z",
+    "league": "ligue_1"
+  },
+  {
+    "home_team": "fc nantes",
+    "away_team": "angers sco",
+    "result": "A",
+    "home_score": 0,
+    "away_score": 1,
+    "date_utc": "2026-03-07T16:00:00Z",
+    "league": "ligue_1"
+  },
+  {
+    "home_team": "aj auxerre",
+    "away_team": "rc strasbourg alsace",
+    "result": "D",
+    "home_score": 0,
+    "away_score": 0,
+    "date_utc": "2026-03-07T18:00:00Z",
+    "league": "ligue_1"
+  },
+  {
+    "home_team": "toulouse fc",
+    "away_team": "olympique de marseille",
+    "result": "A",
+    "home_score": 0,
+    "away_score": 1,
+    "date_utc": "2026-03-07T20:05:00Z",
+    "league": "ligue_1"
+  },
+  {
+    "home_team": "racing club de lens",
+    "away_team": "fc metz",
+    "result": "H",
+    "home_score": 3,
+    "away_score": 0,
+    "date_utc": "2026-03-08T14:00:00Z",
+    "league": "ligue_1"
+  },
+  {
+    "home_team": "ogc nice",
+    "away_team": "stade rennais fc 1901",
+    "result": "A",
+    "home_score": 0,
+    "away_score": 4,
+    "date_utc": "2026-03-08T16:15:00Z",
+    "league": "ligue_1"
+  },
+  {
+    "home_team": "lille osc",
+    "away_team": "fc lorient",
+    "result": "D",
+    "home_score": 1,
+    "away_score": 1,
+    "date_utc": "2026-03-08T16:15:00Z",
+    "league": "ligue_1"
+  },
+  {
+    "home_team": "stade brestois 29",
+    "away_team": "le havre ac",
+    "result": "H",
+    "home_score": 2,
+    "away_score": 0,
+    "date_utc": "2026-03-08T16:15:00Z",
+    "league": "ligue_1"
+  },
+  {
+    "home_team": "olympique lyonnais",
+    "away_team": "paris fc",
+    "result": "D",
+    "home_score": 1,
+    "away_score": 1,
+    "date_utc": "2026-03-08T19:45:00Z",
+    "league": "ligue_1"
+  },
+  {
+    "home_team": "olympique de marseille",
+    "away_team": "aj auxerre",
+    "result": "H",
+    "home_score": 1,
+    "away_score": 0,
+    "date_utc": "2026-03-13T19:45:00Z",
+    "league": "ligue_1"
+  },
+  {
+    "home_team": "fc lorient",
+    "away_team": "racing club de lens",
+    "result": "H",
+    "home_score": 2,
+    "away_score": 1,
+    "date_utc": "2026-03-14T16:00:00Z",
+    "league": "ligue_1"
+  },
+  {
+    "home_team": "angers sco",
+    "away_team": "ogc nice",
+    "result": "A",
+    "home_score": 0,
+    "away_score": 2,
+    "date_utc": "2026-03-14T18:00:00Z",
+    "league": "ligue_1"
+  },
+  {
+    "home_team": "as monaco fc",
+    "away_team": "stade brestois 29",
+    "result": "H",
+    "home_score": 2,
+    "away_score": 0,
+    "date_utc": "2026-03-14T20:05:00Z",
+    "league": "ligue_1"
+  },
+  {
+    "home_team": "rc strasbourg alsace",
+    "away_team": "paris fc",
+    "result": "D",
+    "home_score": 0,
+    "away_score": 0,
+    "date_utc": "2026-03-15T14:00:00Z",
+    "league": "ligue_1"
+  },
+  {
+    "home_team": "le havre ac",
+    "away_team": "olympique lyonnais",
+    "result": "D",
+    "home_score": 0,
+    "away_score": 0,
+    "date_utc": "2026-03-15T16:15:00Z",
+    "league": "ligue_1"
+  },
+  {
+    "home_team": "fc metz",
+    "away_team": "toulouse fc",
+    "result": "A",
+    "home_score": 3,
+    "away_score": 4,
+    "date_utc": "2026-03-15T16:15:00Z",
+    "league": "ligue_1"
+  },
+  {
+    "home_team": "stade rennais fc 1901",
+    "away_team": "lille osc",
+    "result": "A",
+    "home_score": 1,
+    "away_score": 2,
+    "date_utc": "2026-03-15T19:45:00Z",
+    "league": "ligue_1"
+  },
+  {
+    "home_team": "racing club de lens",
+    "away_team": "angers sco",
+    "result": "H",
+    "home_score": 5,
+    "away_score": 1,
+    "date_utc": "2026-03-20T19:45:00Z",
+    "league": "ligue_1"
+  },
+  {
+    "home_team": "toulouse fc",
+    "away_team": "fc lorient",
+    "result": "H",
+    "home_score": 1,
+    "away_score": 0,
+    "date_utc": "2026-03-21T16:00:00Z",
+    "league": "ligue_1"
+  },
+  {
+    "home_team": "aj auxerre",
+    "away_team": "stade brestois 29",
+    "result": "H",
+    "home_score": 3,
+    "away_score": 0,
+    "date_utc": "2026-03-21T18:00:00Z",
+    "league": "ligue_1"
+  },
+  {
+    "home_team": "ogc nice",
+    "away_team": "paris saint-germain fc",
+    "result": "A",
+    "home_score": 0,
+    "away_score": 4,
+    "date_utc": "2026-03-21T20:05:00Z",
+    "league": "ligue_1"
+  },
+  {
+    "home_team": "olympique lyonnais",
+    "away_team": "as monaco fc",
+    "result": "A",
+    "home_score": 1,
+    "away_score": 2,
+    "date_utc": "2026-03-22T14:00:00Z",
+    "league": "ligue_1"
+  },
+  {
+    "home_team": "paris fc",
+    "away_team": "le havre ac",
+    "result": "H",
+    "home_score": 3,
+    "away_score": 2,
+    "date_utc": "2026-03-22T16:15:00Z",
+    "league": "ligue_1"
+  },
+  {
+    "home_team": "olympique de marseille",
+    "away_team": "lille osc",
+    "result": "A",
+    "home_score": 1,
+    "away_score": 2,
+    "date_utc": "2026-03-22T16:15:00Z",
+    "league": "ligue_1"
+  },
+  {
+    "home_team": "stade rennais fc 1901",
+    "away_team": "fc metz",
+    "result": "D",
+    "home_score": 0,
+    "away_score": 0,
+    "date_utc": "2026-03-22T16:15:00Z",
+    "league": "ligue_1"
+  },
+  {
+    "home_team": "fc nantes",
+    "away_team": "rc strasbourg alsace",
+    "result": "A",
+    "home_score": 2,
+    "away_score": 3,
+    "date_utc": "2026-03-22T19:45:00Z",
+    "league": "ligue_1"
+  },
+  {
+    "home_team": "paris saint-germain fc",
+    "away_team": "toulouse fc",
+    "result": "H",
+    "home_score": 3,
+    "away_score": 1,
+    "date_utc": "2026-04-03T18:45:00Z",
+    "league": "ligue_1"
+  },
+  {
+    "home_team": "rc strasbourg alsace",
+    "away_team": "ogc nice",
+    "result": "H",
+    "home_score": 3,
+    "away_score": 1,
+    "date_utc": "2026-04-04T15:00:00Z",
+    "league": "ligue_1"
+  },
+  {
+    "home_team": "stade brestois 29",
+    "away_team": "stade rennais fc 1901",
+    "result": "A",
+    "home_score": 3,
+    "away_score": 4,
+    "date_utc": "2026-04-04T17:00:00Z",
+    "league": "ligue_1"
+  },
+  {
+    "home_team": "lille osc",
+    "away_team": "racing club de lens",
+    "result": "H",
+    "home_score": 3,
+    "away_score": 0,
+    "date_utc": "2026-04-04T19:05:00Z",
+    "league": "ligue_1"
+  },
+  {
+    "home_team": "angers sco",
+    "away_team": "olympique lyonnais",
+    "result": "D",
+    "home_score": 0,
+    "away_score": 0,
+    "date_utc": "2026-04-05T13:00:00Z",
+    "league": "ligue_1"
+  },
+  {
+    "home_team": "le havre ac",
+    "away_team": "aj auxerre",
+    "result": "D",
+    "home_score": 1,
+    "away_score": 1,
+    "date_utc": "2026-04-05T15:15:00Z",
+    "league": "ligue_1"
+  },
+  {
+    "home_team": "fc lorient",
+    "away_team": "paris fc",
+    "result": "D",
+    "home_score": 1,
+    "away_score": 1,
+    "date_utc": "2026-04-05T15:15:00Z",
+    "league": "ligue_1"
+  },
+  {
+    "home_team": "fc metz",
+    "away_team": "fc nantes",
+    "result": "D",
+    "home_score": 0,
+    "away_score": 0,
+    "date_utc": "2026-04-05T15:15:00Z",
+    "league": "ligue_1"
+  },
+  {
+    "home_team": "as monaco fc",
+    "away_team": "olympique de marseille",
+    "result": "H",
+    "home_score": 2,
+    "away_score": 1,
+    "date_utc": "2026-04-05T18:45:00Z",
+    "league": "ligue_1"
+  },
+  {
+    "home_team": "paris fc",
+    "away_team": "as monaco fc",
+    "result": "H",
+    "home_score": 4,
+    "away_score": 1,
+    "date_utc": "2026-04-10T17:00:00Z",
+    "league": "ligue_1"
+  },
+  {
+    "home_team": "olympique de marseille",
+    "away_team": "fc metz",
+    "result": "H",
+    "home_score": 3,
+    "away_score": 1,
+    "date_utc": "2026-04-10T19:05:00Z",
+    "league": "ligue_1"
+  },
+  {
+    "home_team": "aj auxerre",
+    "away_team": "fc nantes",
+    "result": "D",
+    "home_score": 0,
+    "away_score": 0,
+    "date_utc": "2026-04-11T17:00:00Z",
+    "league": "ligue_1"
+  },
+  {
+    "home_team": "stade rennais fc 1901",
+    "away_team": "angers sco",
+    "result": "H",
+    "home_score": 2,
+    "away_score": 1,
+    "date_utc": "2026-04-11T19:05:00Z",
+    "league": "ligue_1"
+  },
+  {
+    "home_team": "toulouse fc",
+    "away_team": "lille osc",
+    "result": "A",
+    "home_score": 0,
+    "away_score": 4,
+    "date_utc": "2026-04-12T15:15:00Z",
+    "league": "ligue_1"
+  },
+  {
+    "home_team": "ogc nice",
+    "away_team": "le havre ac",
+    "result": "D",
+    "home_score": 1,
+    "away_score": 1,
+    "date_utc": "2026-04-12T15:15:00Z",
+    "league": "ligue_1"
+  },
+  {
+    "home_team": "olympique lyonnais",
+    "away_team": "fc lorient",
+    "result": "H",
+    "home_score": 2,
+    "away_score": 0,
+    "date_utc": "2026-04-12T18:45:00Z",
+    "league": "ligue_1"
+  },
+  {
+    "home_team": "racing club de lens",
+    "away_team": "toulouse fc",
+    "result": "H",
+    "home_score": 3,
+    "away_score": 2,
+    "date_utc": "2026-04-17T18:45:00Z",
+    "league": "ligue_1"
+  },
+  {
+    "home_team": "fc lorient",
+    "away_team": "olympique de marseille",
+    "result": "H",
+    "home_score": 2,
+    "away_score": 0,
+    "date_utc": "2026-04-18T15:00:00Z",
+    "league": "ligue_1"
+  },
+  {
+    "home_team": "angers sco",
+    "away_team": "le havre ac",
+    "result": "D",
+    "home_score": 1,
+    "away_score": 1,
+    "date_utc": "2026-04-18T17:00:00Z",
+    "league": "ligue_1"
+  },
+  {
+    "home_team": "lille osc",
+    "away_team": "ogc nice",
+    "result": "D",
+    "home_score": 0,
+    "away_score": 0,
+    "date_utc": "2026-04-18T19:05:00Z",
+    "league": "ligue_1"
+  },
+  {
+    "home_team": "as monaco fc",
+    "away_team": "aj auxerre",
+    "result": "D",
+    "home_score": 2,
+    "away_score": 2,
+    "date_utc": "2026-04-19T13:00:00Z",
+    "league": "ligue_1"
+  },
+  {
+    "home_team": "fc metz",
+    "away_team": "paris fc",
+    "result": "A",
+    "home_score": 1,
+    "away_score": 3,
+    "date_utc": "2026-04-19T15:15:00Z",
+    "league": "ligue_1"
+  },
+  {
+    "home_team": "fc nantes",
+    "away_team": "stade brestois 29",
+    "result": "D",
+    "home_score": 1,
+    "away_score": 1,
+    "date_utc": "2026-04-19T15:15:00Z",
+    "league": "ligue_1"
+  },
+  {
+    "home_team": "rc strasbourg alsace",
+    "away_team": "stade rennais fc 1901",
+    "result": "A",
+    "home_score": 0,
+    "away_score": 3,
+    "date_utc": "2026-04-19T15:15:00Z",
+    "league": "ligue_1"
+  },
+  {
+    "home_team": "paris saint-germain fc",
+    "away_team": "olympique lyonnais",
+    "result": "A",
+    "home_score": 1,
+    "away_score": 2,
+    "date_utc": "2026-04-19T18:45:00Z",
+    "league": "ligue_1"
+  },
+  {
+    "home_team": "paris saint-germain fc",
+    "away_team": "fc nantes",
+    "result": "H",
+    "home_score": 3,
+    "away_score": 0,
+    "date_utc": "2026-04-22T17:00:00Z",
+    "league": "ligue_1"
+  },
+  {
+    "home_team": "stade brestois 29",
+    "away_team": "racing club de lens",
+    "result": "D",
+    "home_score": 3,
+    "away_score": 3,
+    "date_utc": "2026-04-24T18:45:00Z",
+    "league": "ligue_1"
+  },
+  {
+    "home_team": "olympique lyonnais",
+    "away_team": "aj auxerre",
+    "result": "H",
+    "home_score": 3,
+    "away_score": 2,
+    "date_utc": "2026-04-25T13:00:00Z",
+    "league": "ligue_1"
+  },
+  {
+    "home_team": "angers sco",
+    "away_team": "paris saint-germain fc",
+    "result": "A",
+    "home_score": 0,
+    "away_score": 3,
+    "date_utc": "2026-04-25T17:00:00Z",
+    "league": "ligue_1"
+  },
+  {
+    "home_team": "toulouse fc",
+    "away_team": "as monaco fc",
+    "result": "D",
+    "home_score": 2,
+    "away_score": 2,
+    "date_utc": "2026-04-25T19:05:00Z",
+    "league": "ligue_1"
+  },
+  {
+    "home_team": "fc lorient",
+    "away_team": "rc strasbourg alsace",
+    "result": "A",
+    "home_score": 2,
+    "away_score": 3,
+    "date_utc": "2026-04-26T13:00:00Z",
+    "league": "ligue_1"
+  },
+  {
+    "home_team": "le havre ac",
+    "away_team": "fc metz",
+    "result": "D",
+    "home_score": 4,
+    "away_score": 4,
+    "date_utc": "2026-04-26T15:15:00Z",
+    "league": "ligue_1"
+  },
+  {
+    "home_team": "paris fc",
+    "away_team": "lille osc",
+    "result": "A",
+    "home_score": 0,
+    "away_score": 1,
+    "date_utc": "2026-04-26T15:15:00Z",
+    "league": "ligue_1"
+  },
+  {
+    "home_team": "stade rennais fc 1901",
+    "away_team": "fc nantes",
+    "result": "H",
+    "home_score": 2,
+    "away_score": 1,
+    "date_utc": "2026-04-26T15:15:00Z",
+    "league": "ligue_1"
+  },
+  {
+    "home_team": "olympique de marseille",
+    "away_team": "ogc nice",
+    "result": "D",
+    "home_score": 1,
+    "away_score": 1,
+    "date_utc": "2026-04-26T18:45:00Z",
+    "league": "ligue_1"
+  },
+  {
+    "home_team": "fc nantes",
+    "away_team": "olympique de marseille",
+    "result": "H",
+    "home_score": 3,
+    "away_score": 0,
+    "date_utc": "2026-05-02T13:00:00Z",
+    "league": "ligue_1"
+  },
+  {
+    "home_team": "paris saint-germain fc",
+    "away_team": "fc lorient",
+    "result": "D",
+    "home_score": 2,
+    "away_score": 2,
+    "date_utc": "2026-05-02T15:00:00Z",
+    "league": "ligue_1"
+  },
+  {
+    "home_team": "fc metz",
+    "away_team": "as monaco fc",
+    "result": "A",
+    "home_score": 1,
+    "away_score": 2,
+    "date_utc": "2026-05-02T17:00:00Z",
+    "league": "ligue_1"
+  },
+  {
+    "home_team": "ogc nice",
+    "away_team": "racing club de lens",
+    "result": "D",
+    "home_score": 1,
+    "away_score": 1,
+    "date_utc": "2026-05-02T19:05:00Z",
+    "league": "ligue_1"
+  },
+  {
+    "home_team": "lille osc",
+    "away_team": "le havre ac",
+    "result": "D",
+    "home_score": 1,
+    "away_score": 1,
+    "date_utc": "2026-05-03T13:00:00Z",
+    "league": "ligue_1"
+  },
+  {
+    "home_team": "aj auxerre",
+    "away_team": "angers sco",
+    "result": "H",
+    "home_score": 3,
+    "away_score": 1,
+    "date_utc": "2026-05-03T15:15:00Z",
+    "league": "ligue_1"
+  },
+  {
+    "home_team": "paris fc",
+    "away_team": "stade brestois 29",
+    "result": "H",
+    "home_score": 4,
+    "away_score": 0,
+    "date_utc": "2026-05-03T15:15:00Z",
+    "league": "ligue_1"
+  },
+  {
+    "home_team": "rc strasbourg alsace",
+    "away_team": "toulouse fc",
+    "result": "A",
+    "home_score": 1,
+    "away_score": 2,
+    "date_utc": "2026-05-03T15:15:00Z",
+    "league": "ligue_1"
+  },
+  {
+    "home_team": "olympique lyonnais",
+    "away_team": "stade rennais fc 1901",
+    "result": "H",
+    "home_score": 4,
+    "away_score": 2,
+    "date_utc": "2026-05-03T18:45:00Z",
+    "league": "ligue_1"
+  },
+  {
+    "home_team": "racing club de lens",
+    "away_team": "fc nantes",
+    "result": "H",
+    "home_score": 1,
+    "away_score": 0,
+    "date_utc": "2026-05-08T18:45:00Z",
+    "league": "ligue_1"
+  },
+  {
+    "home_team": "le havre ac",
+    "away_team": "olympique de marseille",
+    "result": "A",
+    "home_score": 0,
+    "away_score": 1,
+    "date_utc": "2026-05-10T19:00:00Z",
+    "league": "ligue_1"
+  },
+  {
+    "home_team": "aj auxerre",
+    "away_team": "ogc nice",
+    "result": "H",
+    "home_score": 2,
+    "away_score": 1,
+    "date_utc": "2026-05-10T19:00:00Z",
+    "league": "ligue_1"
+  },
+  {
+    "home_team": "as monaco fc",
+    "away_team": "lille osc",
+    "result": "A",
+    "home_score": 0,
+    "away_score": 1,
+    "date_utc": "2026-05-10T19:00:00Z",
+    "league": "ligue_1"
+  },
+  {
+    "home_team": "fc metz",
+    "away_team": "fc lorient",
+    "result": "A",
+    "home_score": 0,
+    "away_score": 4,
+    "date_utc": "2026-05-10T19:00:00Z",
+    "league": "ligue_1"
+  },
+  {
+    "home_team": "toulouse fc",
+    "away_team": "olympique lyonnais",
+    "result": "H",
+    "home_score": 2,
+    "away_score": 1,
+    "date_utc": "2026-05-10T19:00:00Z",
+    "league": "ligue_1"
+  },
+  {
+    "home_team": "paris saint-germain fc",
+    "away_team": "stade brestois 29",
+    "result": "H",
+    "home_score": 1,
+    "away_score": 0,
+    "date_utc": "2026-05-10T19:00:00Z",
+    "league": "ligue_1"
+  },
+  {
+    "home_team": "angers sco",
+    "away_team": "rc strasbourg alsace",
+    "result": "D",
+    "home_score": 1,
+    "away_score": 1,
+    "date_utc": "2026-05-10T19:00:00Z",
+    "league": "ligue_1"
+  },
+  {
+    "home_team": "stade rennais fc 1901",
+    "away_team": "paris fc",
+    "result": "H",
+    "home_score": 2,
+    "away_score": 1,
+    "date_utc": "2026-05-10T19:00:00Z",
+    "league": "ligue_1"
+  },
+  {
+    "home_team": "stade brestois 29",
+    "away_team": "rc strasbourg alsace",
+    "result": "A",
+    "home_score": 1,
+    "away_score": 2,
+    "date_utc": "2026-05-13T17:00:00Z",
+    "league": "ligue_1"
+  },
+  {
+    "home_team": "racing club de lens",
+    "away_team": "paris saint-germain fc",
+    "result": "A",
+    "home_score": 0,
+    "away_score": 2,
+    "date_utc": "2026-05-13T19:00:00Z",
+    "league": "ligue_1"
+  },
+  {
+    "home_team": "fc lorient",
+    "away_team": "le havre ac",
+    "result": "A",
+    "home_score": 0,
+    "away_score": 2,
+    "date_utc": "2026-05-17T19:00:00Z",
+    "league": "ligue_1"
+  },
+  {
+    "home_team": "paris fc",
+    "away_team": "paris saint-germain fc",
+    "result": "H",
+    "home_score": 2,
+    "away_score": 1,
+    "date_utc": "2026-05-17T19:00:00Z",
+    "league": "ligue_1"
+  },
+  {
+    "home_team": "ogc nice",
+    "away_team": "fc metz",
+    "result": "D",
+    "home_score": 0,
+    "away_score": 0,
+    "date_utc": "2026-05-17T19:00:00Z",
+    "league": "ligue_1"
+  },
+  {
+    "home_team": "olympique lyonnais",
+    "away_team": "racing club de lens",
+    "result": "A",
+    "home_score": 0,
+    "away_score": 4,
+    "date_utc": "2026-05-17T19:00:00Z",
+    "league": "ligue_1"
+  },
+  {
+    "home_team": "olympique de marseille",
+    "away_team": "stade rennais fc 1901",
+    "result": "H",
+    "home_score": 3,
+    "away_score": 1,
+    "date_utc": "2026-05-17T19:00:00Z",
+    "league": "ligue_1"
+  },
+  {
+    "home_team": "lille osc",
+    "away_team": "aj auxerre",
+    "result": "A",
+    "home_score": 0,
+    "away_score": 2,
+    "date_utc": "2026-05-17T19:00:00Z",
+    "league": "ligue_1"
+  },
+  {
+    "home_team": "rc strasbourg alsace",
+    "away_team": "as monaco fc",
+    "result": "H",
+    "home_score": 5,
+    "away_score": 4,
+    "date_utc": "2026-05-17T19:00:00Z",
+    "league": "ligue_1"
+  },
+  {
+    "home_team": "stade brestois 29",
+    "away_team": "angers sco",
+    "result": "D",
+    "home_score": 1,
+    "away_score": 1,
+    "date_utc": "2026-05-17T19:00:00Z",
+    "league": "ligue_1"
+  },
+  {
+    "home_team": "olympique de marseille",
+    "away_team": "rc strasbourg alsace",
+    "result": "H",
+    "home_score": 4,
+    "away_score": 0,
+    "date_utc": "2026-08-21T18:45:00Z",
+    "league": "ligue_1"
+  },
+  {
+    "home_team": "racing club de lens",
+    "away_team": "aj auxerre",
+    "result": "H",
+    "home_score": 5,
+    "away_score": 2,
+    "date_utc": "2026-08-22T15:15:00Z",
+    "league": "ligue_1"
+  },
+  {
+    "home_team": "le mans fc",
+    "away_team": "stade brestois 29",
+    "result": "D",
+    "home_score": 2,
+    "away_score": 2,
+    "date_utc": "2026-08-22T18:45:00Z",
+    "league": "ligue_1"
+  },
+  {
+    "home_team": "es troyes ac",
+    "away_team": "paris fc",
+    "result": "D",
+    "home_score": 0,
+    "away_score": 0,
+    "date_utc": "2026-08-22T18:45:00Z",
+    "league": "ligue_1"
+  },
+  {
+    "home_team": "ogc nice",
+    "away_team": "fc lorient",
+    "result": "D",
+    "home_score": 0,
+    "away_score": 0,
+    "date_utc": "2026-08-22T18:45:00Z",
+    "league": "ligue_1"
+  },
+  {
+    "home_team": "toulouse fc",
+    "away_team": "olympique lyonnais",
+    "result": "A",
+    "home_score": 0,
+    "away_score": 2,
+    "date_utc": "2026-08-22T18:45:00Z",
+    "league": "ligue_1"
+  },
+  {
+    "home_team": "angers sco",
+    "away_team": "lille osc",
+    "result": "A",
+    "home_score": 0,
+    "away_score": 2,
+    "date_utc": "2026-08-23T13:00:00Z",
+    "league": "ligue_1"
+  },
+  {
+    "home_team": "le havre ac",
+    "away_team": "as monaco fc",
+    "result": "A",
+    "home_score": 0,
+    "away_score": 1,
+    "date_utc": "2026-08-23T15:15:00Z",
+    "league": "ligue_1"
+  },
+  {
+    "home_team": "stade rennais fc 1901",
+    "away_team": "paris saint-germain fc",
+    "result": "D",
+    "home_score": 2,
+    "away_score": 2,
+    "date_utc": "2026-08-23T18:45:00Z",
+    "league": "ligue_1"
+  }
+]

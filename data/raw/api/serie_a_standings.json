@@ -1,0 +1,202 @@
+[
+  {
+    "position": 1,
+    "team": "as roma",
+    "played": 1,
+    "won": 1,
+    "drawn": 0,
+    "lost": 0,
+    "points": 3,
+    "gd": 4
+  },
+  {
+    "position": 2,
+    "team": "fc internazionale milano",
+    "played": 1,
+    "won": 1,
+    "drawn": 0,
+    "lost": 0,
+    "points": 3,
+    "gd": 3
+  },
+  {
+    "position": 3,
+    "team": "ssc napoli",
+    "played": 1,
+    "won": 1,
+    "drawn": 0,
+    "lost": 0,
+    "points": 3,
+    "gd": 2
+  },
+  {
+    "position": 3,
+    "team": "us lecce",
+    "played": 1,
+    "won": 1,
+    "drawn": 0,
+    "lost": 0,
+    "points": 3,
+    "gd": 2
+  },
+  {
+    "position": 5,
+    "team": "ac milan",
+    "played": 1,
+    "won": 1,
+    "drawn": 0,
+    "lost": 0,
+    "points": 3,
+    "gd": 1
+  },
+  {
+    "position": 5,
+    "team": "atalanta bc",
+    "played": 1,
+    "won": 1,
+    "drawn": 0,
+    "lost": 0,
+    "points": 3,
+    "gd": 1
+  },
+  {
+    "position": 7,
+    "team": "cagliari calcio",
+    "played": 1,
+    "won": 1,
+    "drawn": 0,
+    "lost": 0,
+    "points": 3,
+    "gd": 1
+  },
+  {
+    "position": 7,
+    "team": "juventus fc",
+    "played": 1,
+    "won": 1,
+    "drawn": 0,
+    "lost": 0,
+    "points": 3,
+    "gd": 1
+  },
+  {
+    "position": 7,
+    "team": "ss lazio",
+    "played": 1,
+    "won": 1,
+    "drawn": 0,
+    "lost": 0,
+    "points": 3,
+    "gd": 1
+  },
+  {
+    "position": 10,
+    "team": "como 1907",
+    "played": 1,
+    "won": 0,
+    "drawn": 1,
+    "lost": 0,
+    "points": 1,
+    "gd": 0
+  },
+  {
+    "position": 10,
+    "team": "udinese calcio",
+    "played": 1,
+    "won": 0,
+    "drawn": 1,
+    "lost": 0,
+    "points": 1,
+    "gd": 0
+  },
+  {
+    "position": 12,
+    "team": "us sassuolo calcio",
+    "played": 1,
+    "won": 0,
+    "drawn": 0,
+    "lost": 1,
+    "points": 0,
+    "gd": -1
+  },
+  {
+    "position": 12,
+    "team": "torino fc",
+    "played": 1,
+    "won": 0,
+    "drawn": 0,
+    "lost": 1,
+    "points": 0,
+    "gd": -1
+  },
+  {
+    "position": 14,
+    "team": "bologna fc 1909",
+    "played": 1,
+    "won": 0,
+    "drawn": 0,
+    "lost": 1,
+    "points": 0,
+    "gd": -1
+  },
+  {
+    "position": 14,
+    "team": "frosinone calcio",
+    "played": 1,
+    "won": 0,
+    "drawn": 0,
+    "lost": 1,
+    "points": 0,
+    "gd": -1
+  },
+  {
+    "position": 14,
+    "team": "parma calcio 1913",
+    "played": 1,
+    "won": 0,
+    "drawn": 0,
+    "lost": 1,
+    "points": 0,
+    "gd": -1
+  },
+  {
+    "position": 17,
+    "team": "genoa cfc",
+    "played": 1,
+    "won": 0,
+    "drawn": 0,
+    "lost": 1,
+    "points": 0,
+    "gd": -2
+  },
+  {
+    "position": 17,
+    "team": "venezia fc",
+    "played": 1,
+    "won": 0,
+    "drawn": 0,
+    "lost": 1,
+    "points": 0,
+    "gd": -2
+  },
+  {
+    "position": 19,
+    "team": "ac monza",
+    "played": 1,
+    "won": 0,
+    "drawn": 0,
+    "lost": 1,
+    "points": 0,
+    "gd": -3
+  },
+  {
+    "position": 20,
+    "team": "acf fiorentina",
+    "played": 1,
+    "won": 0,
+    "drawn": 0,
+    "lost": 1,
+    "points": 0,
+    "gd": -4
+  }
+]

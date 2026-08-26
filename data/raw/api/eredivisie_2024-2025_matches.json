@@ -1,0 +1,1028 @@
+[
+  {
+    "home_team": "telstar 1963",
+    "away_team": "nac breda",
+    "result": "H",
+    "home_score": 3,
+    "away_score": 0,
+    "date_utc": "2026-02-27T19:00:00Z",
+    "league": "eredivisie"
+  },
+  {
+    "home_team": "sc heerenveen",
+    "away_team": "sparta rotterdam",
+    "result": "H",
+    "home_score": 2,
+    "away_score": 1,
+    "date_utc": "2026-02-28T15:30:00Z",
+    "league": "eredivisie"
+  },
+  {
+    "home_team": "heracles almelo",
+    "away_team": "psv",
+    "result": "A",
+    "home_score": 1,
+    "away_score": 3,
+    "date_utc": "2026-02-28T17:45:00Z",
+    "league": "eredivisie"
+  },
+  {
+    "home_team": "nec",
+    "away_team": "fortuna sittard",
+    "result": "A",
+    "home_score": 2,
+    "away_score": 3,
+    "date_utc": "2026-02-28T20:00:00Z",
+    "league": "eredivisie"
+  },
+  {
+    "home_team": "pec zwolle",
+    "away_team": "afc ajax",
+    "result": "D",
+    "home_score": 0,
+    "away_score": 0,
+    "date_utc": "2026-03-01T11:15:00Z",
+    "league": "eredivisie"
+  },
+  {
+    "home_team": "fc volendam",
+    "away_team": "fc groningen",
+    "result": "H",
+    "home_score": 3,
+    "away_score": 2,
+    "date_utc": "2026-03-01T13:30:00Z",
+    "league": "eredivisie"
+  },
+  {
+    "home_team": "fc twente 65",
+    "away_team": "feyenoord rotterdam",
+    "result": "H",
+    "home_score": 2,
+    "away_score": 0,
+    "date_utc": "2026-03-01T13:30:00Z",
+    "league": "eredivisie"
+  },
+  {
+    "home_team": "fc utrecht",
+    "away_team": "az",
+    "result": "H",
+    "home_score": 2,
+    "away_score": 0,
+    "date_utc": "2026-03-01T15:45:00Z",
+    "league": "eredivisie"
+  },
+  {
+    "home_team": "sbv excelsior",
+    "away_team": "go ahead eagles",
+    "result": "A",
+    "home_score": 0,
+    "away_score": 1,
+    "date_utc": "2026-03-01T19:00:00Z",
+    "league": "eredivisie"
+  },
+  {
+    "home_team": "heracles almelo",
+    "away_team": "fc utrecht",
+    "result": "D",
+    "home_score": 0,
+    "away_score": 0,
+    "date_utc": "2026-03-06T19:00:00Z",
+    "league": "eredivisie"
+  },
+  {
+    "home_team": "fc groningen",
+    "away_team": "afc ajax",
+    "result": "H",
+    "home_score": 3,
+    "away_score": 1,
+    "date_utc": "2026-03-07T15:30:00Z",
+    "league": "eredivisie"
+  },
+  {
+    "home_team": "psv",
+    "away_team": "az",
+    "result": "H",
+    "home_score": 2,
+    "away_score": 1,
+    "date_utc": "2026-03-07T19:00:00Z",
+    "league": "eredivisie"
+  },
+  {
+    "home_team": "sbv excelsior",
+    "away_team": "sc heerenveen",
+    "result": "A",
+    "home_score": 1,
+    "away_score": 2,
+    "date_utc": "2026-03-07T20:00:00Z",
+    "league": "eredivisie"
+  },
+  {
+    "home_team": "sparta rotterdam",
+    "away_team": "pec zwolle",
+    "result": "D",
+    "home_score": 1,
+    "away_score": 1,
+    "date_utc": "2026-03-08T11:15:00Z",
+    "league": "eredivisie"
+  },
+  {
+    "home_team": "fortuna sittard",
+    "away_team": "telstar 1963",
+    "result": "A",
+    "home_score": 1,
+    "away_score": 4,
+    "date_utc": "2026-03-08T13:30:00Z",
+    "league": "eredivisie"
+  },
+  {
+    "home_team": "go ahead eagles",
+    "away_team": "fc twente 65",
+    "result": "A",
+    "home_score": 1,
+    "away_score": 4,
+    "date_utc": "2026-03-08T13:30:00Z",
+    "league": "eredivisie"
+  },
+  {
+    "home_team": "nac breda",
+    "away_team": "feyenoord rotterdam",
+    "result": "D",
+    "home_score": 3,
+    "away_score": 3,
+    "date_utc": "2026-03-08T15:45:00Z",
+    "league": "eredivisie"
+  },
+  {
+    "home_team": "nec",
+    "away_team": "fc volendam",
+    "result": "H",
+    "home_score": 3,
+    "away_score": 0,
+    "date_utc": "2026-03-08T19:00:00Z",
+    "league": "eredivisie"
+  },
+  {
+    "home_team": "pec zwolle",
+    "away_team": "fc groningen",
+    "result": "D",
+    "home_score": 1,
+    "away_score": 1,
+    "date_utc": "2026-03-13T19:00:00Z",
+    "league": "eredivisie"
+  },
+  {
+    "home_team": "fc volendam",
+    "away_team": "fortuna sittard",
+    "result": "A",
+    "home_score": 1,
+    "away_score": 2,
+    "date_utc": "2026-03-14T15:30:00Z",
+    "league": "eredivisie"
+  },
+  {
+    "home_team": "psv",
+    "away_team": "nec",
+    "result": "A",
+    "home_score": 2,
+    "away_score": 3,
+    "date_utc": "2026-03-14T17:45:00Z",
+    "league": "eredivisie"
+  },
+  {
+    "home_team": "sc heerenveen",
+    "away_team": "telstar 1963",
+    "result": "H",
+    "home_score": 3,
+    "away_score": 0,
+    "date_utc": "2026-03-14T19:00:00Z",
+    "league": "eredivisie"
+  },
+  {
+    "home_team": "afc ajax",
+    "away_team": "sparta rotterdam",
+    "result": "H",
+    "home_score": 4,
+    "away_score": 0,
+    "date_utc": "2026-03-14T20:00:00Z",
+    "league": "eredivisie"
+  },
+  {
+    "home_team": "fc twente 65",
+    "away_team": "fc utrecht",
+    "result": "A",
+    "home_score": 0,
+    "away_score": 2,
+    "date_utc": "2026-03-15T11:15:00Z",
+    "league": "eredivisie"
+  },
+  {
+    "home_team": "az",
+    "away_team": "heracles almelo",
+    "result": "H",
+    "home_score": 4,
+    "away_score": 0,
+    "date_utc": "2026-03-15T13:30:00Z",
+    "league": "eredivisie"
+  },
+  {
+    "home_team": "feyenoord rotterdam",
+    "away_team": "sbv excelsior",
+    "result": "H",
+    "home_score": 2,
+    "away_score": 1,
+    "date_utc": "2026-03-15T13:30:00Z",
+    "league": "eredivisie"
+  },
+  {
+    "home_team": "go ahead eagles",
+    "away_team": "nac breda",
+    "result": "H",
+    "home_score": 6,
+    "away_score": 0,
+    "date_utc": "2026-03-15T15:45:00Z",
+    "league": "eredivisie"
+  },
+  {
+    "home_team": "heracles almelo",
+    "away_team": "sbv excelsior",
+    "result": "D",
+    "home_score": 1,
+    "away_score": 1,
+    "date_utc": "2026-03-20T19:00:00Z",
+    "league": "eredivisie"
+  },
+  {
+    "home_team": "fortuna sittard",
+    "away_team": "fc twente 65",
+    "result": "A",
+    "home_score": 1,
+    "away_score": 2,
+    "date_utc": "2026-03-21T15:30:00Z",
+    "league": "eredivisie"
+  },
+  {
+    "home_team": "sparta rotterdam",
+    "away_team": "fc volendam",
+    "result": "H",
+    "home_score": 2,
+    "away_score": 0,
+    "date_utc": "2026-03-21T17:45:00Z",
+    "league": "eredivisie"
+  },
+  {
+    "home_team": "pec zwolle",
+    "away_team": "nac breda",
+    "result": "H",
+    "home_score": 2,
+    "away_score": 1,
+    "date_utc": "2026-03-21T20:00:00Z",
+    "league": "eredivisie"
+  },
+  {
+    "home_team": "nec",
+    "away_team": "sc heerenveen",
+    "result": "D",
+    "home_score": 2,
+    "away_score": 2,
+    "date_utc": "2026-03-22T11:15:00Z",
+    "league": "eredivisie"
+  },
+  {
+    "home_team": "fc utrecht",
+    "away_team": "go ahead eagles",
+    "result": "H",
+    "home_score": 2,
+    "away_score": 0,
+    "date_utc": "2026-03-22T13:30:00Z",
+    "league": "eredivisie"
+  },
+  {
+    "home_team": "feyenoord rotterdam",
+    "away_team": "afc ajax",
+    "result": "D",
+    "home_score": 1,
+    "away_score": 1,
+    "date_utc": "2026-03-22T13:30:00Z",
+    "league": "eredivisie"
+  },
+  {
+    "home_team": "fc groningen",
+    "away_team": "az",
+    "result": "H",
+    "home_score": 3,
+    "away_score": 0,
+    "date_utc": "2026-03-22T15:45:00Z",
+    "league": "eredivisie"
+  },
+  {
+    "home_team": "telstar 1963",
+    "away_team": "psv",
+    "result": "H",
+    "home_score": 3,
+    "away_score": 1,
+    "date_utc": "2026-03-22T15:45:00Z",
+    "league": "eredivisie"
+  },
+  {
+    "home_team": "psv",
+    "away_team": "fc utrecht",
+    "result": "H",
+    "home_score": 4,
+    "away_score": 3,
+    "date_utc": "2026-04-04T14:30:00Z",
+    "league": "eredivisie"
+  },
+  {
+    "home_team": "telstar 1963",
+    "away_team": "fc groningen",
+    "result": "A",
+    "home_score": 0,
+    "away_score": 2,
+    "date_utc": "2026-04-04T16:45:00Z",
+    "league": "eredivisie"
+  },
+  {
+    "home_team": "az",
+    "away_team": "fortuna sittard",
+    "result": "H",
+    "home_score": 2,
+    "away_score": 0,
+    "date_utc": "2026-04-04T17:00:00Z",
+    "league": "eredivisie"
+  },
+  {
+    "home_team": "afc ajax",
+    "away_team": "fc twente 65",
+    "result": "A",
+    "home_score": 1,
+    "away_score": 2,
+    "date_utc": "2026-04-04T19:00:00Z",
+    "league": "eredivisie"
+  },
+  {
+    "home_team": "sbv excelsior",
+    "away_team": "nec",
+    "result": "A",
+    "home_score": 0,
+    "away_score": 2,
+    "date_utc": "2026-04-04T19:00:00Z",
+    "league": "eredivisie"
+  },
+  {
+    "home_team": "go ahead eagles",
+    "away_team": "pec zwolle",
+    "result": "H",
+    "home_score": 5,
+    "away_score": 0,
+    "date_utc": "2026-04-05T10:15:00Z",
+    "league": "eredivisie"
+  },
+  {
+    "home_team": "fc volendam",
+    "away_team": "feyenoord rotterdam",
+    "result": "D",
+    "home_score": 0,
+    "away_score": 0,
+    "date_utc": "2026-04-05T12:30:00Z",
+    "league": "eredivisie"
+  },
+  {
+    "home_team": "sc heerenveen",
+    "away_team": "heracles almelo",
+    "result": "H",
+    "home_score": 4,
+    "away_score": 1,
+    "date_utc": "2026-04-05T12:30:00Z",
+    "league": "eredivisie"
+  },
+  {
+    "home_team": "nac breda",
+    "away_team": "sparta rotterdam",
+    "result": "D",
+    "home_score": 0,
+    "away_score": 0,
+    "date_utc": "2026-04-05T14:45:00Z",
+    "league": "eredivisie"
+  },
+  {
+    "home_team": "fc twente 65",
+    "away_team": "fc volendam",
+    "result": "H",
+    "home_score": 2,
+    "away_score": 1,
+    "date_utc": "2026-04-10T18:00:00Z",
+    "league": "eredivisie"
+  },
+  {
+    "home_team": "fc utrecht",
+    "away_team": "telstar 1963",
+    "result": "H",
+    "home_score": 4,
+    "away_score": 1,
+    "date_utc": "2026-04-11T14:30:00Z",
+    "league": "eredivisie"
+  },
+  {
+    "home_team": "sparta rotterdam",
+    "away_team": "psv",
+    "result": "A",
+    "home_score": 0,
+    "away_score": 2,
+    "date_utc": "2026-04-11T16:45:00Z",
+    "league": "eredivisie"
+  },
+  {
+    "home_team": "fc groningen",
+    "away_team": "go ahead eagles",
+    "result": "D",
+    "home_score": 0,
+    "away_score": 0,
+    "date_utc": "2026-04-11T18:00:00Z",
+    "league": "eredivisie"
+  },
+  {
+    "home_team": "heracles almelo",
+    "away_team": "afc ajax",
+    "result": "A",
+    "home_score": 0,
+    "away_score": 3,
+    "date_utc": "2026-04-11T19:00:00Z",
+    "league": "eredivisie"
+  },
+  {
+    "home_team": "fortuna sittard",
+    "away_team": "nac breda",
+    "result": "D",
+    "home_score": 1,
+    "away_score": 1,
+    "date_utc": "2026-04-12T10:15:00Z",
+    "league": "eredivisie"
+  },
+  {
+    "home_team": "nec",
+    "away_team": "feyenoord rotterdam",
+    "result": "D",
+    "home_score": 1,
+    "away_score": 1,
+    "date_utc": "2026-04-12T12:30:00Z",
+    "league": "eredivisie"
+  },
+  {
+    "home_team": "pec zwolle",
+    "away_team": "sbv excelsior",
+    "result": "D",
+    "home_score": 2,
+    "away_score": 2,
+    "date_utc": "2026-04-12T12:30:00Z",
+    "league": "eredivisie"
+  },
+  {
+    "home_team": "az",
+    "away_team": "sc heerenveen",
+    "result": "H",
+    "home_score": 3,
+    "away_score": 0,
+    "date_utc": "2026-04-12T14:45:00Z",
+    "league": "eredivisie"
+  },
+  {
+    "home_team": "telstar 1963",
+    "away_team": "sparta rotterdam",
+    "result": "H",
+    "home_score": 4,
+    "away_score": 1,
+    "date_utc": "2026-04-22T18:00:00Z",
+    "league": "eredivisie"
+  },
+  {
+    "home_team": "go ahead eagles",
+    "away_team": "az",
+    "result": "D",
+    "home_score": 0,
+    "away_score": 0,
+    "date_utc": "2026-04-23T16:45:00Z",
+    "league": "eredivisie"
+  },
+  {
+    "home_team": "psv",
+    "away_team": "pec zwolle",
+    "result": "H",
+    "home_score": 6,
+    "away_score": 1,
+    "date_utc": "2026-04-23T19:00:00Z",
+    "league": "eredivisie"
+  },
+  {
+    "home_team": "feyenoord rotterdam",
+    "away_team": "fc groningen",
+    "result": "H",
+    "home_score": 3,
+    "away_score": 1,
+    "date_utc": "2026-04-25T14:30:00Z",
+    "league": "eredivisie"
+  },
+  {
+    "home_team": "sc heerenveen",
+    "away_team": "fortuna sittard",
+    "result": "H",
+    "home_score": 2,
+    "away_score": 1,
+    "date_utc": "2026-04-25T16:45:00Z",
+    "league": "eredivisie"
+  },
+  {
+    "home_team": "nac breda",
+    "away_team": "afc ajax",
+    "result": "A",
+    "home_score": 0,
+    "away_score": 2,
+    "date_utc": "2026-04-25T18:00:00Z",
+    "league": "eredivisie"
+  },
+  {
+    "home_team": "fc twente 65",
+    "away_team": "nec",
+    "result": "D",
+    "home_score": 1,
+    "away_score": 1,
+    "date_utc": "2026-04-25T19:00:00Z",
+    "league": "eredivisie"
+  },
+  {
+    "home_team": "sbv excelsior",
+    "away_team": "fc utrecht",
+    "result": "H",
+    "home_score": 5,
+    "away_score": 0,
+    "date_utc": "2026-04-26T10:15:00Z",
+    "league": "eredivisie"
+  },
+  {
+    "home_team": "heracles almelo",
+    "away_team": "fc volendam",
+    "result": "A",
+    "home_score": 0,
+    "away_score": 2,
+    "date_utc": "2026-04-26T12:30:00Z",
+    "league": "eredivisie"
+  },
+  {
+    "home_team": "fc utrecht",
+    "away_team": "nac breda",
+    "result": "H",
+    "home_score": 2,
+    "away_score": 0,
+    "date_utc": "2026-05-02T14:30:00Z",
+    "league": "eredivisie"
+  },
+  {
+    "home_team": "fc groningen",
+    "away_team": "sbv excelsior",
+    "result": "A",
+    "home_score": 2,
+    "away_score": 3,
+    "date_utc": "2026-05-02T16:45:00Z",
+    "league": "eredivisie"
+  },
+  {
+    "home_team": "afc ajax",
+    "away_team": "psv",
+    "result": "D",
+    "home_score": 2,
+    "away_score": 2,
+    "date_utc": "2026-05-02T18:00:00Z",
+    "league": "eredivisie"
+  },
+  {
+    "home_team": "nec",
+    "away_team": "telstar 1963",
+    "result": "D",
+    "home_score": 1,
+    "away_score": 1,
+    "date_utc": "2026-05-02T19:00:00Z",
+    "league": "eredivisie"
+  },
+  {
+    "home_team": "fc volendam",
+    "away_team": "sc heerenveen",
+    "result": "A",
+    "home_score": 0,
+    "away_score": 2,
+    "date_utc": "2026-05-03T10:15:00Z",
+    "league": "eredivisie"
+  },
+  {
+    "home_team": "fortuna sittard",
+    "away_team": "feyenoord rotterdam",
+    "result": "A",
+    "home_score": 1,
+    "away_score": 2,
+    "date_utc": "2026-05-03T12:30:00Z",
+    "league": "eredivisie"
+  },
+  {
+    "home_team": "pec zwolle",
+    "away_team": "heracles almelo",
+    "result": "H",
+    "home_score": 1,
+    "away_score": 0,
+    "date_utc": "2026-05-03T12:30:00Z",
+    "league": "eredivisie"
+  },
+  {
+    "home_team": "az",
+    "away_team": "fc twente 65",
+    "result": "D",
+    "home_score": 2,
+    "away_score": 2,
+    "date_utc": "2026-05-03T14:45:00Z",
+    "league": "eredivisie"
+  },
+  {
+    "home_team": "sparta rotterdam",
+    "away_team": "go ahead eagles",
+    "result": "D",
+    "home_score": 2,
+    "away_score": 2,
+    "date_utc": "2026-05-03T14:45:00Z",
+    "league": "eredivisie"
+  },
+  {
+    "home_team": "afc ajax",
+    "away_team": "fc utrecht",
+    "result": "A",
+    "home_score": 1,
+    "away_score": 2,
+    "date_utc": "2026-05-10T14:45:00Z",
+    "league": "eredivisie"
+  },
+  {
+    "home_team": "sbv excelsior",
+    "away_team": "fc volendam",
+    "result": "D",
+    "home_score": 1,
+    "away_score": 1,
+    "date_utc": "2026-05-10T14:45:00Z",
+    "league": "eredivisie"
+  },
+  {
+    "home_team": "fc groningen",
+    "away_team": "nec",
+    "result": "H",
+    "home_score": 2,
+    "away_score": 1,
+    "date_utc": "2026-05-10T14:45:00Z",
+    "league": "eredivisie"
+  },
+  {
+    "home_team": "feyenoord rotterdam",
+    "away_team": "az",
+    "result": "D",
+    "home_score": 1,
+    "away_score": 1,
+    "date_utc": "2026-05-10T14:45:00Z",
+    "league": "eredivisie"
+  },
+  {
+    "home_team": "fortuna sittard",
+    "away_team": "pec zwolle",
+    "result": "H",
+    "home_score": 3,
+    "away_score": 2,
+    "date_utc": "2026-05-10T14:45:00Z",
+    "league": "eredivisie"
+  },
+  {
+    "home_team": "go ahead eagles",
+    "away_team": "psv",
+    "result": "A",
+    "home_score": 1,
+    "away_score": 4,
+    "date_utc": "2026-05-10T14:45:00Z",
+    "league": "eredivisie"
+  },
+  {
+    "home_team": "telstar 1963",
+    "away_team": "heracles almelo",
+    "result": "H",
+    "home_score": 3,
+    "away_score": 0,
+    "date_utc": "2026-05-10T14:45:00Z",
+    "league": "eredivisie"
+  },
+  {
+    "home_team": "fc twente 65",
+    "away_team": "sparta rotterdam",
+    "result": "H",
+    "home_score": 4,
+    "away_score": 0,
+    "date_utc": "2026-05-10T14:45:00Z",
+    "league": "eredivisie"
+  },
+  {
+    "home_team": "nac breda",
+    "away_team": "sc heerenveen",
+    "result": "H",
+    "home_score": 2,
+    "away_score": 0,
+    "date_utc": "2026-05-11T12:30:00Z",
+    "league": "eredivisie"
+  },
+  {
+    "home_team": "az",
+    "away_team": "nac breda",
+    "result": "D",
+    "home_score": 3,
+    "away_score": 3,
+    "date_utc": "2026-05-17T12:30:00Z",
+    "league": "eredivisie"
+  },
+  {
+    "home_team": "fc utrecht",
+    "away_team": "fortuna sittard",
+    "result": "H",
+    "home_score": 2,
+    "away_score": 0,
+    "date_utc": "2026-05-17T12:30:00Z",
+    "league": "eredivisie"
+  },
+  {
+    "home_team": "fc volendam",
+    "away_team": "telstar 1963",
+    "result": "A",
+    "home_score": 1,
+    "away_score": 2,
+    "date_utc": "2026-05-17T12:30:00Z",
+    "league": "eredivisie"
+  },
+  {
+    "home_team": "heracles almelo",
+    "away_team": "fc groningen",
+    "result": "A",
+    "home_score": 1,
+    "away_score": 2,
+    "date_utc": "2026-05-17T12:30:00Z",
+    "league": "eredivisie"
+  },
+  {
+    "home_team": "nec",
+    "away_team": "go ahead eagles",
+    "result": "H",
+    "home_score": 2,
+    "away_score": 1,
+    "date_utc": "2026-05-17T12:30:00Z",
+    "league": "eredivisie"
+  },
+  {
+    "home_team": "pec zwolle",
+    "away_team": "feyenoord rotterdam",
+    "result": "A",
+    "home_score": 0,
+    "away_score": 2,
+    "date_utc": "2026-05-17T12:30:00Z",
+    "league": "eredivisie"
+  },
+  {
+    "home_team": "psv",
+    "away_team": "fc twente 65",
+    "result": "H",
+    "home_score": 5,
+    "away_score": 1,
+    "date_utc": "2026-05-17T12:30:00Z",
+    "league": "eredivisie"
+  },
+  {
+    "home_team": "sc heerenveen",
+    "away_team": "afc ajax",
+    "result": "D",
+    "home_score": 0,
+    "away_score": 0,
+    "date_utc": "2026-05-17T12:30:00Z",
+    "league": "eredivisie"
+  },
+  {
+    "home_team": "sparta rotterdam",
+    "away_team": "sbv excelsior",
+    "result": "A",
+    "home_score": 2,
+    "away_score": 3,
+    "date_utc": "2026-05-17T12:30:00Z",
+    "league": "eredivisie"
+  },
+  {
+    "home_team": "sc cambuur-leeuwarden",
+    "away_team": "sbv excelsior",
+    "result": "A",
+    "home_score": 0,
+    "away_score": 4,
+    "date_utc": "2026-08-07T18:00:00Z",
+    "league": "eredivisie"
+  },
+  {
+    "home_team": "nec",
+    "away_team": "telstar 1963",
+    "result": "A",
+    "home_score": 1,
+    "away_score": 2,
+    "date_utc": "2026-08-08T14:30:00Z",
+    "league": "eredivisie"
+  },
+  {
+    "home_team": "go ahead eagles",
+    "away_team": "willem ii tilburg",
+    "result": "H",
+    "home_score": 4,
+    "away_score": 1,
+    "date_utc": "2026-08-08T16:45:00Z",
+    "league": "eredivisie"
+  },
+  {
+    "home_team": "psv",
+    "away_team": "fortuna sittard",
+    "result": "D",
+    "home_score": 2,
+    "away_score": 2,
+    "date_utc": "2026-08-08T18:00:00Z",
+    "league": "eredivisie"
+  },
+  {
+    "home_team": "az",
+    "away_team": "ado den haag",
+    "result": "H",
+    "home_score": 2,
+    "away_score": 0,
+    "date_utc": "2026-08-08T19:00:00Z",
+    "league": "eredivisie"
+  },
+  {
+    "home_team": "sparta rotterdam",
+    "away_team": "feyenoord rotterdam",
+    "result": "A",
+    "home_score": 0,
+    "away_score": 1,
+    "date_utc": "2026-08-09T10:15:00Z",
+    "league": "eredivisie"
+  },
+  {
+    "home_team": "fc groningen",
+    "away_team": "fc utrecht",
+    "result": "H",
+    "home_score": 2,
+    "away_score": 1,
+    "date_utc": "2026-08-09T12:30:00Z",
+    "league": "eredivisie"
+  },
+  {
+    "home_team": "pec zwolle",
+    "away_team": "afc ajax",
+    "result": "A",
+    "home_score": 0,
+    "away_score": 2,
+    "date_utc": "2026-08-09T12:30:00Z",
+    "league": "eredivisie"
+  },
+  {
+    "home_team": "sc heerenveen",
+    "away_team": "fc twente 65",
+    "result": "H",
+    "home_score": 1,
+    "away_score": 0,
+    "date_utc": "2026-08-09T14:45:00Z",
+    "league": "eredivisie"
+  },
+  {
+    "home_team": "telstar 1963",
+    "away_team": "sparta rotterdam",
+    "result": "A",
+    "home_score": 1,
+    "away_score": 3,
+    "date_utc": "2026-08-14T18:00:00Z",
+    "league": "eredivisie"
+  },
+  {
+    "home_team": "willem ii tilburg",
+    "away_team": "nec",
+    "result": "A",
+    "home_score": 1,
+    "away_score": 4,
+    "date_utc": "2026-08-15T14:30:00Z",
+    "league": "eredivisie"
+  },
+  {
+    "home_team": "fc utrecht",
+    "away_team": "az",
+    "result": "A",
+    "home_score": 1,
+    "away_score": 4,
+    "date_utc": "2026-08-15T16:45:00Z",
+    "league": "eredivisie"
+  },
+  {
+    "home_team": "sbv excelsior",
+    "away_team": "psv",
+    "result": "A",
+    "home_score": 1,
+    "away_score": 2,
+    "date_utc": "2026-08-15T18:00:00Z",
+    "league": "eredivisie"
+  },
+  {
+    "home_team": "fortuna sittard",
+    "away_team": "sc cambuur-leeuwarden",
+    "result": "H",
+    "home_score": 3,
+    "away_score": 1,
+    "date_utc": "2026-08-15T19:00:00Z",
+    "league": "eredivisie"
+  },
+  {
+    "home_team": "ado den haag",
+    "away_team": "fc groningen",
+    "result": "A",
+    "home_score": 1,
+    "away_score": 4,
+    "date_utc": "2026-08-16T10:15:00Z",
+    "league": "eredivisie"
+  },
+  {
+    "home_team": "feyenoord rotterdam",
+    "away_team": "go ahead eagles",
+    "result": "D",
+    "home_score": 2,
+    "away_score": 2,
+    "date_utc": "2026-08-16T12:30:00Z",
+    "league": "eredivisie"
+  },
+  {
+    "home_team": "fc twente 65",
+    "away_team": "pec zwolle",
+    "result": "H",
+    "home_score": 3,
+    "away_score": 1,
+    "date_utc": "2026-08-16T12:30:00Z",
+    "league": "eredivisie"
+  },
+  {
+    "home_team": "afc ajax",
+    "away_team": "sc heerenveen",
+    "result": "D",
+    "home_score": 2,
+    "away_score": 2,
+    "date_utc": "2026-08-16T14:45:00Z",
+    "league": "eredivisie"
+  },
+  {
+    "home_team": "fortuna sittard",
+    "away_team": "az",
+    "result": "A",
+    "home_score": 0,
+    "away_score": 2,
+    "date_utc": "2026-08-22T14:30:00Z",
+    "league": "eredivisie"
+  },
+  {
+    "home_team": "sparta rotterdam",
+    "away_team": "fc utrecht",
+    "result": "D",
+    "home_score": 3,
+    "away_score": 3,
+    "date_utc": "2026-08-22T16:45:00Z",
+    "league": "eredivisie"
+  },
+  {
+    "home_team": "sc heerenveen",
+    "away_team": "pec zwolle",
+    "result": "A",
+    "home_score": 0,
+    "away_score": 2,
+    "date_utc": "2026-08-22T19:00:00Z",
+    "league": "eredivisie"
+  },
+  {
+    "home_team": "go ahead eagles",
+    "away_team": "ado den haag",
+    "result": "H",
+    "home_score": 3,
+    "away_score": 1,
+    "date_utc": "2026-08-23T10:15:00Z",
+    "league": "eredivisie"
+  },
+  {
+    "home_team": "psv",
+    "away_team": "fc groningen",
+    "result": "H",
+    "home_score": 5,
+    "away_score": 1,
+    "date_utc": "2026-08-23T12:30:00Z",
+    "league": "eredivisie"
+  },
+  {
+    "home_team": "sc cambuur-leeuwarden",
+    "away_team": "feyenoord rotterdam",
+    "result": "A",
+    "home_score": 2,
+    "away_score": 5,
+    "date_utc": "2026-08-23T14:45:00Z",
+    "league": "eredivisie"
+  }
+]

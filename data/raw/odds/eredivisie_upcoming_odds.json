@@ -1,0 +1,222 @@
+[
+  {
+    "league": "eredivisie",
+    "home_team": "FC Groningen",
+    "away_team": "Fortuna Sittard",
+    "commence_time": "2026-08-28T18:00:00Z",
+    "bookmaker": "football-data",
+    "home_odds": 0.0,
+    "draw_odds": 0.0,
+    "away_odds": 0.0,
+    "source": "football_data"
+  },
+  {
+    "league": "eredivisie",
+    "home_team": "SBV Excelsior",
+    "away_team": "Sparta Rotterdam",
+    "commence_time": "2026-08-29T14:30:00Z",
+    "bookmaker": "football-data",
+    "home_odds": 0.0,
+    "draw_odds": 0.0,
+    "away_odds": 0.0,
+    "source": "football_data"
+  },
+  {
+    "league": "eredivisie",
+    "home_team": "AZ",
+    "away_team": "Go Ahead Eagles",
+    "commence_time": "2026-08-29T16:45:00Z",
+    "bookmaker": "football-data",
+    "home_odds": 0.0,
+    "draw_odds": 0.0,
+    "away_odds": 0.0,
+    "source": "football_data"
+  },
+  {
+    "league": "eredivisie",
+    "home_team": "PEC Zwolle",
+    "away_team": "NEC",
+    "commence_time": "2026-08-29T19:00:00Z",
+    "bookmaker": "football-data",
+    "home_odds": 0.0,
+    "draw_odds": 0.0,
+    "away_odds": 0.0,
+    "source": "football_data"
+  },
+  {
+    "league": "eredivisie",
+    "home_team": "FC Utrecht",
+    "away_team": "PSV",
+    "commence_time": "2026-08-30T10:15:00Z",
+    "bookmaker": "football-data",
+    "home_odds": 0.0,
+    "draw_odds": 0.0,
+    "away_odds": 0.0,
+    "source": "football_data"
+  },
+  {
+    "league": "eredivisie",
+    "home_team": "Willem II Tilburg",
+    "away_team": "SC Heerenveen",
+    "commence_time": "2026-08-30T12:30:00Z",
+    "bookmaker": "football-data",
+    "home_odds": 0.0,
+    "draw_odds": 0.0,
+    "away_odds": 0.0,
+    "source": "football_data"
+  },
+  {
+    "league": "eredivisie",
+    "home_team": "Feyenoord Rotterdam",
+    "away_team": "ADO Den Haag",
+    "commence_time": "2026-08-30T12:30:00Z",
+    "bookmaker": "football-data",
+    "home_odds": 0.0,
+    "draw_odds": 0.0,
+    "away_odds": 0.0,
+    "source": "football_data"
+  },
+  {
+    "league": "eredivisie",
+    "home_team": "Telstar 1963",
+    "away_team": "AFC Ajax",
+    "commence_time": "2026-08-30T14:45:00Z",
+    "bookmaker": "football-data",
+    "home_odds": 0.0,
+    "draw_odds": 0.0,
+    "away_odds": 0.0,
+    "source": "football_data"
+  },
+  {
+    "league": "eredivisie",
+    "home_team": "SC Cambuur-Leeuwarden",
+    "away_team": "FC Twente '65",
+    "commence_time": "2026-08-30T18:00:00Z",
+    "bookmaker": "football-data",
+    "home_odds": 0.0,
+    "draw_odds": 0.0,
+    "away_odds": 0.0,
+    "source": "football_data"
+  },
+  {
+    "league": "eredivisie",
+    "home_team": "Sparta Rotterdam",
+    "away_team": "PEC Zwolle",
+    "commence_time": "2026-09-04T18:00:00Z",
+    "bookmaker": "football-data",
+    "home_odds": 0.0,
+    "draw_odds": 0.0,
+    "away_odds": 0.0,
+    "source": "football_data"
+  },
+  {
+    "league": "eredivisie",
+    "home_team": "NEC",
+    "away_team": "Feyenoord Rotterdam",
+    "commence_time": "2026-09-05T14:30:00Z",
+    "bookmaker": "football-data",
+    "home_odds": 0.0,
+    "draw_odds": 0.0,
+    "away_odds": 0.0,
+    "source": "football_data"
+  },
+  {
+    "league": "eredivisie",
+    "home_team": "FC Utrecht",
+    "away_team": "Go Ahead Eagles",
+    "commence_time": "2026-09-05T16:45:00Z",
+    "bookmaker": "football-data",
+    "home_odds": 0.0,
+    "draw_odds": 0.0,
+    "away_odds": 0.0,
+    "source": "football_data"
+  },
+  {
+    "league": "eredivisie",
+    "home_team": "AFC Ajax",
+    "away_team": "PSV",
+    "commence_time": "2026-09-05T18:00:00Z",
+    "bookmaker": "football-data",
+    "home_odds": 0.0,
+    "draw_odds": 0.0,
+    "away_odds": 0.0,
+    "source": "football_data"
+  },
+  {
+    "league": "eredivisie",
+    "home_team": "Willem II Tilburg",
+    "away_team": "SBV Excelsior",
+    "commence_time": "2026-09-05T19:00:00Z",
+    "bookmaker": "football-data",
+    "home_odds": 0.0,
+    "draw_odds": 0.0,
+    "away_odds": 0.0,
+    "source": "football_data"
+  },
+  {
+    "league": "eredivisie",
+    "home_team": "FC Groningen",
+    "away_team": "FC Twente '65",
+    "commence_time": "2026-09-06T10:15:00Z",
+    "bookmaker": "football-data",
+    "home_odds": 0.0,
+    "draw_odds": 0.0,
+    "away_odds": 0.0,
+    "source": "football_data"
+  },
+  {
+    "league": "eredivisie",
+    "home_team": "SC Heerenveen",
+    "away_team": "AZ",
+    "commence_time": "2026-09-06T12:30:00Z",
+    "bookmaker": "football-data",
+    "home_odds": 0.0,
+    "draw_odds": 0.0,
+    "away_odds": 0.0,
+    "source": "football_data"
+  },
+  {
+    "league": "eredivisie",
+    "home_team": "Telstar 1963",
+    "away_team": "SC Cambuur-Leeuwarden",
+    "commence_time": "2026-09-06T12:30:00Z",
+    "bookmaker": "football-data",
+    "home_odds": 0.0,
+    "draw_odds": 0.0,
+    "away_odds": 0.0,
+    "source": "football_data"
+  },
+  {
+    "league": "eredivisie",
+    "home_team": "ADO Den Haag",
+    "away_team": "Fortuna Sittard",
+    "commence_time": "2026-09-06T14:45:00Z",
+    "bookmaker": "football-data",
+    "home_odds": 0.0,
+    "draw_odds": 0.0,
+    "away_odds": 0.0,
+    "source": "football_data"
+  },
+  {
+    "league": "eredivisie",
+    "home_team": "FC Twente '65",
+    "away_team": "Telstar 1963",
+    "commence_time": "2026-09-09T16:45:00Z",
+    "bookmaker": "football-data",
+    "home_odds": 0.0,
+    "draw_odds": 0.0,
+    "away_odds": 0.0,
+    "source": "football_data"
+  },
+  {
+    "league": "eredivisie",
+    "home_team": "AZ",
+    "away_team": "Willem II Tilburg",
+    "commence_time": "2026-09-11T18:00:00Z",
+    "bookmaker": "football-data",
+    "home_odds": 0.0,
+    "draw_odds": 0.0,
+    "away_odds": 0.0,
+    "source": "football_data"
+  }
+]

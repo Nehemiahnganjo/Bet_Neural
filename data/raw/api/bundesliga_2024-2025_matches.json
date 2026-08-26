@@ -1,0 +1,902 @@
+[
+  {
+    "home_team": "fc augsburg",
+    "away_team": "1 fc k\u00f6ln",
+    "result": "H",
+    "home_score": 2,
+    "away_score": 0,
+    "date_utc": "2026-02-27T19:30:00Z",
+    "league": "bundesliga"
+  },
+  {
+    "home_team": "bayer 04 leverkusen",
+    "away_team": "1 fsv mainz 05",
+    "result": "D",
+    "home_score": 1,
+    "away_score": 1,
+    "date_utc": "2026-02-28T14:30:00Z",
+    "league": "bundesliga"
+  },
+  {
+    "home_team": "borussia m\u00f6nchengladbach",
+    "away_team": "1 fc union berlin",
+    "result": "H",
+    "home_score": 1,
+    "away_score": 0,
+    "date_utc": "2026-02-28T14:30:00Z",
+    "league": "bundesliga"
+  },
+  {
+    "home_team": "tsg 1899 hoffenheim",
+    "away_team": "fc st pauli 1910",
+    "result": "A",
+    "home_score": 0,
+    "away_score": 1,
+    "date_utc": "2026-02-28T14:30:00Z",
+    "league": "bundesliga"
+  },
+  {
+    "home_team": "sv werder bremen",
+    "away_team": "1 fc heidenheim 1846",
+    "result": "H",
+    "home_score": 2,
+    "away_score": 0,
+    "date_utc": "2026-02-28T14:30:00Z",
+    "league": "bundesliga"
+  },
+  {
+    "home_team": "borussia dortmund",
+    "away_team": "fc bayern m\u00fcnchen",
+    "result": "A",
+    "home_score": 2,
+    "away_score": 3,
+    "date_utc": "2026-02-28T17:30:00Z",
+    "league": "bundesliga"
+  },
+  {
+    "home_team": "vfb stuttgart",
+    "away_team": "vfl wolfsburg",
+    "result": "H",
+    "home_score": 4,
+    "away_score": 0,
+    "date_utc": "2026-03-01T14:30:00Z",
+    "league": "bundesliga"
+  },
+  {
+    "home_team": "eintracht frankfurt",
+    "away_team": "sc freiburg",
+    "result": "H",
+    "home_score": 2,
+    "away_score": 0,
+    "date_utc": "2026-03-01T16:30:00Z",
+    "league": "bundesliga"
+  },
+  {
+    "home_team": "hamburger sv",
+    "away_team": "rb leipzig",
+    "result": "A",
+    "home_score": 1,
+    "away_score": 2,
+    "date_utc": "2026-03-01T18:30:00Z",
+    "league": "bundesliga"
+  },
+  {
+    "home_team": "hamburger sv",
+    "away_team": "bayer 04 leverkusen",
+    "result": "A",
+    "home_score": 0,
+    "away_score": 1,
+    "date_utc": "2026-03-04T19:30:00Z",
+    "league": "bundesliga"
+  },
+  {
+    "home_team": "fc bayern m\u00fcnchen",
+    "away_team": "borussia m\u00f6nchengladbach",
+    "result": "H",
+    "home_score": 4,
+    "away_score": 1,
+    "date_utc": "2026-03-06T19:30:00Z",
+    "league": "bundesliga"
+  },
+  {
+    "home_team": "sc freiburg",
+    "away_team": "bayer 04 leverkusen",
+    "result": "D",
+    "home_score": 3,
+    "away_score": 3,
+    "date_utc": "2026-03-07T14:30:00Z",
+    "league": "bundesliga"
+  },
+  {
+    "home_team": "1 fsv mainz 05",
+    "away_team": "vfb stuttgart",
+    "result": "D",
+    "home_score": 2,
+    "away_score": 2,
+    "date_utc": "2026-03-07T14:30:00Z",
+    "league": "bundesliga"
+  },
+  {
+    "home_team": "rb leipzig",
+    "away_team": "fc augsburg",
+    "result": "H",
+    "home_score": 2,
+    "away_score": 1,
+    "date_utc": "2026-03-07T14:30:00Z",
+    "league": "bundesliga"
+  },
+  {
+    "home_team": "1 fc heidenheim 1846",
+    "away_team": "tsg 1899 hoffenheim",
+    "result": "A",
+    "home_score": 2,
+    "away_score": 4,
+    "date_utc": "2026-03-07T14:30:00Z",
+    "league": "bundesliga"
+  },
+  {
+    "home_team": "vfl wolfsburg",
+    "away_team": "hamburger sv",
+    "result": "A",
+    "home_score": 1,
+    "away_score": 2,
+    "date_utc": "2026-03-07T14:30:00Z",
+    "league": "bundesliga"
+  },
+  {
+    "home_team": "1 fc k\u00f6ln",
+    "away_team": "borussia dortmund",
+    "result": "A",
+    "home_score": 1,
+    "away_score": 2,
+    "date_utc": "2026-03-07T17:30:00Z",
+    "league": "bundesliga"
+  },
+  {
+    "home_team": "fc st pauli 1910",
+    "away_team": "eintracht frankfurt",
+    "result": "D",
+    "home_score": 0,
+    "away_score": 0,
+    "date_utc": "2026-03-08T14:30:00Z",
+    "league": "bundesliga"
+  },
+  {
+    "home_team": "1 fc union berlin",
+    "away_team": "sv werder bremen",
+    "result": "A",
+    "home_score": 1,
+    "away_score": 4,
+    "date_utc": "2026-03-08T16:30:00Z",
+    "league": "bundesliga"
+  },
+  {
+    "home_team": "borussia m\u00f6nchengladbach",
+    "away_team": "fc st pauli 1910",
+    "result": "H",
+    "home_score": 2,
+    "away_score": 0,
+    "date_utc": "2026-03-13T19:30:00Z",
+    "league": "bundesliga"
+  },
+  {
+    "home_team": "bayer 04 leverkusen",
+    "away_team": "fc bayern m\u00fcnchen",
+    "result": "D",
+    "home_score": 1,
+    "away_score": 1,
+    "date_utc": "2026-03-14T14:30:00Z",
+    "league": "bundesliga"
+  },
+  {
+    "home_team": "tsg 1899 hoffenheim",
+    "away_team": "vfl wolfsburg",
+    "result": "D",
+    "home_score": 1,
+    "away_score": 1,
+    "date_utc": "2026-03-14T14:30:00Z",
+    "league": "bundesliga"
+  },
+  {
+    "home_team": "borussia dortmund",
+    "away_team": "fc augsburg",
+    "result": "H",
+    "home_score": 2,
+    "away_score": 0,
+    "date_utc": "2026-03-14T14:30:00Z",
+    "league": "bundesliga"
+  },
+  {
+    "home_team": "eintracht frankfurt",
+    "away_team": "1 fc heidenheim 1846",
+    "result": "H",
+    "home_score": 1,
+    "away_score": 0,
+    "date_utc": "2026-03-14T14:30:00Z",
+    "league": "bundesliga"
+  },
+  {
+    "home_team": "hamburger sv",
+    "away_team": "1 fc k\u00f6ln",
+    "result": "D",
+    "home_score": 1,
+    "away_score": 1,
+    "date_utc": "2026-03-14T17:30:00Z",
+    "league": "bundesliga"
+  },
+  {
+    "home_team": "sv werder bremen",
+    "away_team": "1 fsv mainz 05",
+    "result": "A",
+    "home_score": 0,
+    "away_score": 2,
+    "date_utc": "2026-03-15T14:30:00Z",
+    "league": "bundesliga"
+  },
+  {
+    "home_team": "sc freiburg",
+    "away_team": "1 fc union berlin",
+    "result": "A",
+    "home_score": 0,
+    "away_score": 1,
+    "date_utc": "2026-03-15T16:30:00Z",
+    "league": "bundesliga"
+  },
+  {
+    "home_team": "vfb stuttgart",
+    "away_team": "rb leipzig",
+    "result": "H",
+    "home_score": 1,
+    "away_score": 0,
+    "date_utc": "2026-03-15T18:30:00Z",
+    "league": "bundesliga"
+  },
+  {
+    "home_team": "rb leipzig",
+    "away_team": "tsg 1899 hoffenheim",
+    "result": "H",
+    "home_score": 5,
+    "away_score": 0,
+    "date_utc": "2026-03-20T19:30:00Z",
+    "league": "bundesliga"
+  },
+  {
+    "home_team": "1 fc heidenheim 1846",
+    "away_team": "bayer 04 leverkusen",
+    "result": "D",
+    "home_score": 3,
+    "away_score": 3,
+    "date_utc": "2026-03-21T14:30:00Z",
+    "league": "bundesliga"
+  },
+  {
+    "home_team": "vfl wolfsburg",
+    "away_team": "sv werder bremen",
+    "result": "A",
+    "home_score": 0,
+    "away_score": 1,
+    "date_utc": "2026-03-21T14:30:00Z",
+    "league": "bundesliga"
+  },
+  {
+    "home_team": "1 fc k\u00f6ln",
+    "away_team": "borussia m\u00f6nchengladbach",
+    "result": "D",
+    "home_score": 3,
+    "away_score": 3,
+    "date_utc": "2026-03-21T14:30:00Z",
+    "league": "bundesliga"
+  },
+  {
+    "home_team": "fc bayern m\u00fcnchen",
+    "away_team": "1 fc union berlin",
+    "result": "H",
+    "home_score": 4,
+    "away_score": 0,
+    "date_utc": "2026-03-21T14:30:00Z",
+    "league": "bundesliga"
+  },
+  {
+    "home_team": "borussia dortmund",
+    "away_team": "hamburger sv",
+    "result": "H",
+    "home_score": 3,
+    "away_score": 2,
+    "date_utc": "2026-03-21T17:30:00Z",
+    "league": "bundesliga"
+  },
+  {
+    "home_team": "1 fsv mainz 05",
+    "away_team": "eintracht frankfurt",
+    "result": "H",
+    "home_score": 2,
+    "away_score": 1,
+    "date_utc": "2026-03-22T14:30:00Z",
+    "league": "bundesliga"
+  },
+  {
+    "home_team": "fc st pauli 1910",
+    "away_team": "sc freiburg",
+    "result": "A",
+    "home_score": 1,
+    "away_score": 2,
+    "date_utc": "2026-03-22T16:30:00Z",
+    "league": "bundesliga"
+  },
+  {
+    "home_team": "fc augsburg",
+    "away_team": "vfb stuttgart",
+    "result": "A",
+    "home_score": 2,
+    "away_score": 5,
+    "date_utc": "2026-03-22T18:30:00Z",
+    "league": "bundesliga"
+  },
+  {
+    "home_team": "sc freiburg",
+    "away_team": "fc bayern m\u00fcnchen",
+    "result": "A",
+    "home_score": 2,
+    "away_score": 3,
+    "date_utc": "2026-04-04T13:30:00Z",
+    "league": "bundesliga"
+  },
+  {
+    "home_team": "tsg 1899 hoffenheim",
+    "away_team": "1 fsv mainz 05",
+    "result": "A",
+    "home_score": 1,
+    "away_score": 2,
+    "date_utc": "2026-04-04T13:30:00Z",
+    "league": "bundesliga"
+  },
+  {
+    "home_team": "sv werder bremen",
+    "away_team": "rb leipzig",
+    "result": "A",
+    "home_score": 1,
+    "away_score": 2,
+    "date_utc": "2026-04-04T13:30:00Z",
+    "league": "bundesliga"
+  },
+  {
+    "home_team": "bayer 04 leverkusen",
+    "away_team": "vfl wolfsburg",
+    "result": "H",
+    "home_score": 6,
+    "away_score": 3,
+    "date_utc": "2026-04-04T13:30:00Z",
+    "league": "bundesliga"
+  },
+  {
+    "home_team": "hamburger sv",
+    "away_team": "fc augsburg",
+    "result": "D",
+    "home_score": 1,
+    "away_score": 1,
+    "date_utc": "2026-04-04T13:30:00Z",
+    "league": "bundesliga"
+  },
+  {
+    "home_team": "borussia m\u00f6nchengladbach",
+    "away_team": "1 fc heidenheim 1846",
+    "result": "D",
+    "home_score": 2,
+    "away_score": 2,
+    "date_utc": "2026-04-04T13:30:00Z",
+    "league": "bundesliga"
+  },
+  {
+    "home_team": "vfb stuttgart",
+    "away_team": "borussia dortmund",
+    "result": "A",
+    "home_score": 0,
+    "away_score": 2,
+    "date_utc": "2026-04-04T16:30:00Z",
+    "league": "bundesliga"
+  },
+  {
+    "home_team": "1 fc union berlin",
+    "away_team": "fc st pauli 1910",
+    "result": "D",
+    "home_score": 1,
+    "away_score": 1,
+    "date_utc": "2026-04-05T13:30:00Z",
+    "league": "bundesliga"
+  },
+  {
+    "home_team": "eintracht frankfurt",
+    "away_team": "1 fc k\u00f6ln",
+    "result": "D",
+    "home_score": 2,
+    "away_score": 2,
+    "date_utc": "2026-04-05T15:30:00Z",
+    "league": "bundesliga"
+  },
+  {
+    "home_team": "fc augsburg",
+    "away_team": "tsg 1899 hoffenheim",
+    "result": "D",
+    "home_score": 2,
+    "away_score": 2,
+    "date_utc": "2026-04-10T18:30:00Z",
+    "league": "bundesliga"
+  },
+  {
+    "home_team": "borussia dortmund",
+    "away_team": "bayer 04 leverkusen",
+    "result": "A",
+    "home_score": 0,
+    "away_score": 1,
+    "date_utc": "2026-04-11T13:30:00Z",
+    "league": "bundesliga"
+  },
+  {
+    "home_team": "vfl wolfsburg",
+    "away_team": "eintracht frankfurt",
+    "result": "A",
+    "home_score": 1,
+    "away_score": 2,
+    "date_utc": "2026-04-11T13:30:00Z",
+    "league": "bundesliga"
+  },
+  {
+    "home_team": "rb leipzig",
+    "away_team": "borussia m\u00f6nchengladbach",
+    "result": "H",
+    "home_score": 1,
+    "away_score": 0,
+    "date_utc": "2026-04-11T13:30:00Z",
+    "league": "bundesliga"
+  },
+  {
+    "home_team": "1 fc heidenheim 1846",
+    "away_team": "1 fc union berlin",
+    "result": "H",
+    "home_score": 3,
+    "away_score": 1,
+    "date_utc": "2026-04-11T13:30:00Z",
+    "league": "bundesliga"
+  },
+  {
+    "home_team": "fc st pauli 1910",
+    "away_team": "fc bayern m\u00fcnchen",
+    "result": "A",
+    "home_score": 0,
+    "away_score": 5,
+    "date_utc": "2026-04-11T16:30:00Z",
+    "league": "bundesliga"
+  },
+  {
+    "home_team": "1 fc k\u00f6ln",
+    "away_team": "sv werder bremen",
+    "result": "H",
+    "home_score": 3,
+    "away_score": 1,
+    "date_utc": "2026-04-12T13:30:00Z",
+    "league": "bundesliga"
+  },
+  {
+    "home_team": "vfb stuttgart",
+    "away_team": "hamburger sv",
+    "result": "H",
+    "home_score": 4,
+    "away_score": 0,
+    "date_utc": "2026-04-12T15:30:00Z",
+    "league": "bundesliga"
+  },
+  {
+    "home_team": "1 fsv mainz 05",
+    "away_team": "sc freiburg",
+    "result": "A",
+    "home_score": 0,
+    "away_score": 1,
+    "date_utc": "2026-04-12T17:30:00Z",
+    "league": "bundesliga"
+  },
+  {
+    "home_team": "fc st pauli 1910",
+    "away_team": "1 fc k\u00f6ln",
+    "result": "D",
+    "home_score": 1,
+    "away_score": 1,
+    "date_utc": "2026-04-17T18:30:00Z",
+    "league": "bundesliga"
+  },
+  {
+    "home_team": "sv werder bremen",
+    "away_team": "hamburger sv",
+    "result": "H",
+    "home_score": 3,
+    "away_score": 1,
+    "date_utc": "2026-04-18T13:30:00Z",
+    "league": "bundesliga"
+  },
+  {
+    "home_team": "bayer 04 leverkusen",
+    "away_team": "fc augsburg",
+    "result": "A",
+    "home_score": 1,
+    "away_score": 2,
+    "date_utc": "2026-04-18T13:30:00Z",
+    "league": "bundesliga"
+  },
+  {
+    "home_team": "tsg 1899 hoffenheim",
+    "away_team": "borussia dortmund",
+    "result": "H",
+    "home_score": 2,
+    "away_score": 1,
+    "date_utc": "2026-04-18T13:30:00Z",
+    "league": "bundesliga"
+  },
+  {
+    "home_team": "1 fc union berlin",
+    "away_team": "vfl wolfsburg",
+    "result": "A",
+    "home_score": 1,
+    "away_score": 2,
+    "date_utc": "2026-04-18T13:30:00Z",
+    "league": "bundesliga"
+  },
+  {
+    "home_team": "eintracht frankfurt",
+    "away_team": "rb leipzig",
+    "result": "A",
+    "home_score": 1,
+    "away_score": 3,
+    "date_utc": "2026-04-18T16:30:00Z",
+    "league": "bundesliga"
+  },
+  {
+    "home_team": "sc freiburg",
+    "away_team": "1 fc heidenheim 1846",
+    "result": "H",
+    "home_score": 2,
+    "away_score": 1,
+    "date_utc": "2026-04-19T13:30:00Z",
+    "league": "bundesliga"
+  },
+  {
+    "home_team": "fc bayern m\u00fcnchen",
+    "away_team": "vfb stuttgart",
+    "result": "H",
+    "home_score": 4,
+    "away_score": 2,
+    "date_utc": "2026-04-19T15:30:00Z",
+    "league": "bundesliga"
+  },
+  {
+    "home_team": "borussia m\u00f6nchengladbach",
+    "away_team": "1 fsv mainz 05",
+    "result": "D",
+    "home_score": 1,
+    "away_score": 1,
+    "date_utc": "2026-04-19T17:30:00Z",
+    "league": "bundesliga"
+  },
+  {
+    "home_team": "rb leipzig",
+    "away_team": "1 fc union berlin",
+    "result": "H",
+    "home_score": 3,
+    "away_score": 1,
+    "date_utc": "2026-04-24T18:30:00Z",
+    "league": "bundesliga"
+  },
+  {
+    "home_team": "1 fsv mainz 05",
+    "away_team": "fc bayern m\u00fcnchen",
+    "result": "A",
+    "home_score": 3,
+    "away_score": 4,
+    "date_utc": "2026-04-25T13:30:00Z",
+    "league": "bundesliga"
+  },
+  {
+    "home_team": "1 fc k\u00f6ln",
+    "away_team": "bayer 04 leverkusen",
+    "result": "A",
+    "home_score": 1,
+    "away_score": 2,
+    "date_utc": "2026-04-25T13:30:00Z",
+    "league": "bundesliga"
+  },
+  {
+    "home_team": "fc augsburg",
+    "away_team": "eintracht frankfurt",
+    "result": "D",
+    "home_score": 1,
+    "away_score": 1,
+    "date_utc": "2026-04-25T13:30:00Z",
+    "league": "bundesliga"
+  },
+  {
+    "home_team": "vfl wolfsburg",
+    "away_team": "borussia m\u00f6nchengladbach",
+    "result": "D",
+    "home_score": 0,
+    "away_score": 0,
+    "date_utc": "2026-04-25T13:30:00Z",
+    "league": "bundesliga"
+  },
+  {
+    "home_team": "1 fc heidenheim 1846",
+    "away_team": "fc st pauli 1910",
+    "result": "H",
+    "home_score": 2,
+    "away_score": 0,
+    "date_utc": "2026-04-25T13:30:00Z",
+    "league": "bundesliga"
+  },
+  {
+    "home_team": "hamburger sv",
+    "away_team": "tsg 1899 hoffenheim",
+    "result": "A",
+    "home_score": 1,
+    "away_score": 2,
+    "date_utc": "2026-04-25T16:30:00Z",
+    "league": "bundesliga"
+  },
+  {
+    "home_team": "vfb stuttgart",
+    "away_team": "sv werder bremen",
+    "result": "D",
+    "home_score": 1,
+    "away_score": 1,
+    "date_utc": "2026-04-26T13:30:00Z",
+    "league": "bundesliga"
+  },
+  {
+    "home_team": "borussia dortmund",
+    "away_team": "sc freiburg",
+    "result": "H",
+    "home_score": 4,
+    "away_score": 0,
+    "date_utc": "2026-04-26T15:30:00Z",
+    "league": "bundesliga"
+  },
+  {
+    "home_team": "tsg 1899 hoffenheim",
+    "away_team": "vfb stuttgart",
+    "result": "D",
+    "home_score": 3,
+    "away_score": 3,
+    "date_utc": "2026-05-02T13:30:00Z",
+    "league": "bundesliga"
+  },
+  {
+    "home_team": "sv werder bremen",
+    "away_team": "fc augsburg",
+    "result": "A",
+    "home_score": 1,
+    "away_score": 3,
+    "date_utc": "2026-05-02T13:30:00Z",
+    "league": "bundesliga"
+  },
+  {
+    "home_team": "fc bayern m\u00fcnchen",
+    "away_team": "1 fc heidenheim 1846",
+    "result": "D",
+    "home_score": 3,
+    "away_score": 3,
+    "date_utc": "2026-05-02T13:30:00Z",
+    "league": "bundesliga"
+  },
+  {
+    "home_team": "1 fc union berlin",
+    "away_team": "1 fc k\u00f6ln",
+    "result": "D",
+    "home_score": 2,
+    "away_score": 2,
+    "date_utc": "2026-05-02T13:30:00Z",
+    "league": "bundesliga"
+  },
+  {
+    "home_team": "eintracht frankfurt",
+    "away_team": "hamburger sv",
+    "result": "A",
+    "home_score": 1,
+    "away_score": 2,
+    "date_utc": "2026-05-02T13:30:00Z",
+    "league": "bundesliga"
+  },
+  {
+    "home_team": "bayer 04 leverkusen",
+    "away_team": "rb leipzig",
+    "result": "H",
+    "home_score": 4,
+    "away_score": 1,
+    "date_utc": "2026-05-02T16:30:00Z",
+    "league": "bundesliga"
+  },
+  {
+    "home_team": "fc st pauli 1910",
+    "away_team": "1 fsv mainz 05",
+    "result": "A",
+    "home_score": 1,
+    "away_score": 2,
+    "date_utc": "2026-05-03T13:30:00Z",
+    "league": "bundesliga"
+  },
+  {
+    "home_team": "borussia m\u00f6nchengladbach",
+    "away_team": "borussia dortmund",
+    "result": "H",
+    "home_score": 1,
+    "away_score": 0,
+    "date_utc": "2026-05-03T15:30:00Z",
+    "league": "bundesliga"
+  },
+  {
+    "home_team": "sc freiburg",
+    "away_team": "vfl wolfsburg",
+    "result": "D",
+    "home_score": 1,
+    "away_score": 1,
+    "date_utc": "2026-05-03T17:30:00Z",
+    "league": "bundesliga"
+  },
+  {
+    "home_team": "borussia dortmund",
+    "away_team": "eintracht frankfurt",
+    "result": "H",
+    "home_score": 3,
+    "away_score": 2,
+    "date_utc": "2026-05-08T18:30:00Z",
+    "league": "bundesliga"
+  },
+  {
+    "home_team": "vfb stuttgart",
+    "away_team": "bayer 04 leverkusen",
+    "result": "H",
+    "home_score": 3,
+    "away_score": 1,
+    "date_utc": "2026-05-09T13:30:00Z",
+    "league": "bundesliga"
+  },
+  {
+    "home_team": "tsg 1899 hoffenheim",
+    "away_team": "sv werder bremen",
+    "result": "H",
+    "home_score": 1,
+    "away_score": 0,
+    "date_utc": "2026-05-09T13:30:00Z",
+    "league": "bundesliga"
+  },
+  {
+    "home_team": "fc augsburg",
+    "away_team": "borussia m\u00f6nchengladbach",
+    "result": "H",
+    "home_score": 3,
+    "away_score": 1,
+    "date_utc": "2026-05-09T13:30:00Z",
+    "league": "bundesliga"
+  },
+  {
+    "home_team": "rb leipzig",
+    "away_team": "fc st pauli 1910",
+    "result": "H",
+    "home_score": 2,
+    "away_score": 1,
+    "date_utc": "2026-05-09T13:30:00Z",
+    "league": "bundesliga"
+  },
+  {
+    "home_team": "vfl wolfsburg",
+    "away_team": "fc bayern m\u00fcnchen",
+    "result": "A",
+    "home_score": 0,
+    "away_score": 1,
+    "date_utc": "2026-05-09T16:30:00Z",
+    "league": "bundesliga"
+  },
+  {
+    "home_team": "hamburger sv",
+    "away_team": "sc freiburg",
+    "result": "H",
+    "home_score": 3,
+    "away_score": 2,
+    "date_utc": "2026-05-10T13:30:00Z",
+    "league": "bundesliga"
+  },
+  {
+    "home_team": "1 fc k\u00f6ln",
+    "away_team": "1 fc heidenheim 1846",
+    "result": "A",
+    "home_score": 1,
+    "away_score": 3,
+    "date_utc": "2026-05-10T15:30:00Z",
+    "league": "bundesliga"
+  },
+  {
+    "home_team": "1 fsv mainz 05",
+    "away_team": "1 fc union berlin",
+    "result": "A",
+    "home_score": 1,
+    "away_score": 3,
+    "date_utc": "2026-05-10T17:30:00Z",
+    "league": "bundesliga"
+  },
+  {
+    "home_team": "sv werder bremen",
+    "away_team": "borussia dortmund",
+    "result": "A",
+    "home_score": 0,
+    "away_score": 2,
+    "date_utc": "2026-05-16T13:30:00Z",
+    "league": "bundesliga"
+  },
+  {
+    "home_team": "1 fc heidenheim 1846",
+    "away_team": "1 fsv mainz 05",
+    "result": "A",
+    "home_score": 0,
+    "away_score": 2,
+    "date_utc": "2026-05-16T13:30:00Z",
+    "league": "bundesliga"
+  },
+  {
+    "home_team": "sc freiburg",
+    "away_team": "rb leipzig",
+    "result": "H",
+    "home_score": 4,
+    "away_score": 1,
+    "date_utc": "2026-05-16T13:30:00Z",
+    "league": "bundesliga"
+  },
+  {
+    "home_team": "eintracht frankfurt",
+    "away_team": "vfb stuttgart",
+    "result": "D",
+    "home_score": 2,
+    "away_score": 2,
+    "date_utc": "2026-05-16T13:30:00Z",
+    "league": "bundesliga"
+  },
+  {
+    "home_team": "fc st pauli 1910",
+    "away_team": "vfl wolfsburg",
+    "result": "A",
+    "home_score": 1,
+    "away_score": 3,
+    "date_utc": "2026-05-16T13:30:00Z",
+    "league": "bundesliga"
+  },
+  {
+    "home_team": "1 fc union berlin",
+    "away_team": "fc augsburg",
+    "result": "H",
+    "home_score": 4,
+    "away_score": 0,
+    "date_utc": "2026-05-16T13:30:00Z",
+    "league": "bundesliga"
+  },
+  {
+    "home_team": "borussia m\u00f6nchengladbach",
+    "away_team": "tsg 1899 hoffenheim",
+    "result": "H",
+    "home_score": 4,
+    "away_score": 0,
+    "date_utc": "2026-05-16T13:30:00Z",
+    "league": "bundesliga"
+  },
+  {
+    "home_team": "fc bayern m\u00fcnchen",
+    "away_team": "1 fc k\u00f6ln",
+    "result": "H",
+    "home_score": 5,
+    "away_score": 1,
+    "date_utc": "2026-05-16T13:30:00Z",
+    "league": "bundesliga"
+  },
+  {
+    "home_team": "bayer 04 leverkusen",
+    "away_team": "hamburger sv",
+    "result": "D",
+    "home_score": 1,
+    "away_score": 1,
+    "date_utc": "2026-05-16T13:30:00Z",
+    "league": "bundesliga"
+  }
+]

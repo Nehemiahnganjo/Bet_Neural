@@ -1,0 +1,1109 @@
+[
+  {
+    "home_team": "fc porto",
+    "away_team": "fc arouca",
+    "result": "H",
+    "home_score": 3,
+    "away_score": 1,
+    "date_utc": "2026-02-27T18:45:00Z",
+    "league": "primeira_liga"
+  },
+  {
+    "home_team": "sporting clube de portugal",
+    "away_team": "gd estoril praia",
+    "result": "H",
+    "home_score": 3,
+    "away_score": 0,
+    "date_utc": "2026-02-27T20:45:00Z",
+    "league": "primeira_liga"
+  },
+  {
+    "home_team": "avs",
+    "away_team": "cf estrela da amadora",
+    "result": "D",
+    "home_score": 0,
+    "away_score": 0,
+    "date_utc": "2026-02-28T15:30:00Z",
+    "league": "primeira_liga"
+  },
+  {
+    "home_team": "cd nacional",
+    "away_team": "sporting clube de braga",
+    "result": "A",
+    "home_score": 1,
+    "away_score": 2,
+    "date_utc": "2026-02-28T18:00:00Z",
+    "league": "primeira_liga"
+  },
+  {
+    "home_team": "vit\u00f3ria sc",
+    "away_team": "fc alverca",
+    "result": "D",
+    "home_score": 1,
+    "away_score": 1,
+    "date_utc": "2026-02-28T20:30:00Z",
+    "league": "primeira_liga"
+  },
+  {
+    "home_team": "cd tondela",
+    "away_team": "cd santa clara",
+    "result": "D",
+    "home_score": 2,
+    "away_score": 2,
+    "date_utc": "2026-03-01T15:30:00Z",
+    "league": "primeira_liga"
+  },
+  {
+    "home_team": "casa pia ac",
+    "away_team": "moreirense fc",
+    "result": "D",
+    "home_score": 1,
+    "away_score": 1,
+    "date_utc": "2026-03-01T18:00:00Z",
+    "league": "primeira_liga"
+  },
+  {
+    "home_team": "rio ave fc",
+    "away_team": "fc famalic\u00e3o",
+    "result": "D",
+    "home_score": 0,
+    "away_score": 0,
+    "date_utc": "2026-03-01T20:30:00Z",
+    "league": "primeira_liga"
+  },
+  {
+    "home_team": "gil vicente fc",
+    "away_team": "sport lisboa e benfica",
+    "result": "A",
+    "home_score": 1,
+    "away_score": 2,
+    "date_utc": "2026-03-02T20:15:00Z",
+    "league": "primeira_liga"
+  },
+  {
+    "home_team": "fc famalic\u00e3o",
+    "away_team": "fc arouca",
+    "result": "H",
+    "home_score": 1,
+    "away_score": 0,
+    "date_utc": "2026-03-06T20:15:00Z",
+    "league": "primeira_liga"
+  },
+  {
+    "home_team": "fc alverca",
+    "away_team": "avs",
+    "result": "D",
+    "home_score": 0,
+    "away_score": 0,
+    "date_utc": "2026-03-07T15:30:00Z",
+    "league": "primeira_liga"
+  },
+  {
+    "home_team": "moreirense fc",
+    "away_team": "cd nacional",
+    "result": "D",
+    "home_score": 1,
+    "away_score": 1,
+    "date_utc": "2026-03-07T15:30:00Z",
+    "league": "primeira_liga"
+  },
+  {
+    "home_team": "sporting clube de braga",
+    "away_team": "sporting clube de portugal",
+    "result": "D",
+    "home_score": 2,
+    "away_score": 2,
+    "date_utc": "2026-03-07T18:00:00Z",
+    "league": "primeira_liga"
+  },
+  {
+    "home_team": "gd estoril praia",
+    "away_team": "casa pia ac",
+    "result": "D",
+    "home_score": 0,
+    "away_score": 0,
+    "date_utc": "2026-03-07T20:30:00Z",
+    "league": "primeira_liga"
+  },
+  {
+    "home_team": "cf estrela da amadora",
+    "away_team": "gil vicente fc",
+    "result": "D",
+    "home_score": 2,
+    "away_score": 2,
+    "date_utc": "2026-03-08T15:30:00Z",
+    "league": "primeira_liga"
+  },
+  {
+    "home_team": "sport lisboa e benfica",
+    "away_team": "fc porto",
+    "result": "D",
+    "home_score": 2,
+    "away_score": 2,
+    "date_utc": "2026-03-08T18:00:00Z",
+    "league": "primeira_liga"
+  },
+  {
+    "home_team": "cd santa clara",
+    "away_team": "vit\u00f3ria sc",
+    "result": "H",
+    "home_score": 2,
+    "away_score": 0,
+    "date_utc": "2026-03-08T20:30:00Z",
+    "league": "primeira_liga"
+  },
+  {
+    "home_team": "cd tondela",
+    "away_team": "rio ave fc",
+    "result": "A",
+    "home_score": 0,
+    "away_score": 1,
+    "date_utc": "2026-03-09T20:15:00Z",
+    "league": "primeira_liga"
+  },
+  {
+    "home_team": "vit\u00f3ria sc",
+    "away_team": "fc famalic\u00e3o",
+    "result": "A",
+    "home_score": 1,
+    "away_score": 2,
+    "date_utc": "2026-03-14T15:30:00Z",
+    "league": "primeira_liga"
+  },
+  {
+    "home_team": "gil vicente fc",
+    "away_team": "fc alverca",
+    "result": "D",
+    "home_score": 2,
+    "away_score": 2,
+    "date_utc": "2026-03-14T18:00:00Z",
+    "league": "primeira_liga"
+  },
+  {
+    "home_team": "fc arouca",
+    "away_team": "sport lisboa e benfica",
+    "result": "A",
+    "home_score": 1,
+    "away_score": 2,
+    "date_utc": "2026-03-14T20:30:00Z",
+    "league": "primeira_liga"
+  },
+  {
+    "home_team": "cd nacional",
+    "away_team": "gd estoril praia",
+    "result": "A",
+    "home_score": 0,
+    "away_score": 1,
+    "date_utc": "2026-03-15T15:30:00Z",
+    "league": "primeira_liga"
+  },
+  {
+    "home_team": "avs",
+    "away_team": "cd santa clara",
+    "result": "A",
+    "home_score": 0,
+    "away_score": 1,
+    "date_utc": "2026-03-15T15:30:00Z",
+    "league": "primeira_liga"
+  },
+  {
+    "home_team": "rio ave fc",
+    "away_team": "cf estrela da amadora",
+    "result": "H",
+    "home_score": 2,
+    "away_score": 1,
+    "date_utc": "2026-03-15T18:00:00Z",
+    "league": "primeira_liga"
+  },
+  {
+    "home_team": "fc porto",
+    "away_team": "moreirense fc",
+    "result": "H",
+    "home_score": 3,
+    "away_score": 0,
+    "date_utc": "2026-03-15T20:30:00Z",
+    "league": "primeira_liga"
+  },
+  {
+    "home_team": "cf estrela da amadora",
+    "away_team": "casa pia ac",
+    "result": "H",
+    "home_score": 4,
+    "away_score": 0,
+    "date_utc": "2026-03-20T20:15:00Z",
+    "league": "primeira_liga"
+  },
+  {
+    "home_team": "moreirense fc",
+    "away_team": "fc arouca",
+    "result": "A",
+    "home_score": 0,
+    "away_score": 1,
+    "date_utc": "2026-03-21T15:30:00Z",
+    "league": "primeira_liga"
+  },
+  {
+    "home_team": "fc famalic\u00e3o",
+    "away_team": "cd nacional",
+    "result": "H",
+    "home_score": 1,
+    "away_score": 0,
+    "date_utc": "2026-03-21T15:30:00Z",
+    "league": "primeira_liga"
+  },
+  {
+    "home_team": "cd santa clara",
+    "away_team": "gil vicente fc",
+    "result": "H",
+    "home_score": 1,
+    "away_score": 0,
+    "date_utc": "2026-03-21T18:00:00Z",
+    "league": "primeira_liga"
+  },
+  {
+    "home_team": "sport lisboa e benfica",
+    "away_team": "vit\u00f3ria sc",
+    "result": "H",
+    "home_score": 3,
+    "away_score": 0,
+    "date_utc": "2026-03-21T18:00:00Z",
+    "league": "primeira_liga"
+  },
+  {
+    "home_team": "cd tondela",
+    "away_team": "avs",
+    "result": "D",
+    "home_score": 0,
+    "away_score": 0,
+    "date_utc": "2026-03-21T20:30:00Z",
+    "league": "primeira_liga"
+  },
+  {
+    "home_team": "gd estoril praia",
+    "away_team": "rio ave fc",
+    "result": "A",
+    "home_score": 1,
+    "away_score": 2,
+    "date_utc": "2026-03-22T15:30:00Z",
+    "league": "primeira_liga"
+  },
+  {
+    "home_team": "fc alverca",
+    "away_team": "sporting clube de portugal",
+    "result": "A",
+    "home_score": 1,
+    "away_score": 4,
+    "date_utc": "2026-03-22T18:00:00Z",
+    "league": "primeira_liga"
+  },
+  {
+    "home_team": "sporting clube de braga",
+    "away_team": "fc porto",
+    "result": "A",
+    "home_score": 1,
+    "away_score": 2,
+    "date_utc": "2026-03-22T20:30:00Z",
+    "league": "primeira_liga"
+  },
+  {
+    "home_team": "gil vicente fc",
+    "away_team": "avs",
+    "result": "H",
+    "home_score": 3,
+    "away_score": 0,
+    "date_utc": "2026-04-03T14:30:00Z",
+    "league": "primeira_liga"
+  },
+  {
+    "home_team": "vit\u00f3ria sc",
+    "away_team": "cd tondela",
+    "result": "H",
+    "home_score": 5,
+    "away_score": 0,
+    "date_utc": "2026-04-03T17:00:00Z",
+    "league": "primeira_liga"
+  },
+  {
+    "home_team": "sporting clube de portugal",
+    "away_team": "cd santa clara",
+    "result": "H",
+    "home_score": 4,
+    "away_score": 2,
+    "date_utc": "2026-04-03T19:30:00Z",
+    "league": "primeira_liga"
+  },
+  {
+    "home_team": "cd nacional",
+    "away_team": "cf estrela da amadora",
+    "result": "H",
+    "home_score": 2,
+    "away_score": 0,
+    "date_utc": "2026-04-04T14:30:00Z",
+    "league": "primeira_liga"
+  },
+  {
+    "home_team": "rio ave fc",
+    "away_team": "fc alverca",
+    "result": "A",
+    "home_score": 1,
+    "away_score": 2,
+    "date_utc": "2026-04-04T17:00:00Z",
+    "league": "primeira_liga"
+  },
+  {
+    "home_team": "moreirense fc",
+    "away_team": "sporting clube de braga",
+    "result": "A",
+    "home_score": 0,
+    "away_score": 1,
+    "date_utc": "2026-04-04T17:00:00Z",
+    "league": "primeira_liga"
+  },
+  {
+    "home_team": "fc porto",
+    "away_team": "fc famalic\u00e3o",
+    "result": "D",
+    "home_score": 2,
+    "away_score": 2,
+    "date_utc": "2026-04-04T19:30:00Z",
+    "league": "primeira_liga"
+  },
+  {
+    "home_team": "fc arouca",
+    "away_team": "gd estoril praia",
+    "result": "H",
+    "home_score": 3,
+    "away_score": 2,
+    "date_utc": "2026-04-06T17:45:00Z",
+    "league": "primeira_liga"
+  },
+  {
+    "home_team": "casa pia ac",
+    "away_team": "sport lisboa e benfica",
+    "result": "D",
+    "home_score": 1,
+    "away_score": 1,
+    "date_utc": "2026-04-06T19:45:00Z",
+    "league": "primeira_liga"
+  },
+  {
+    "home_team": "fc famalic\u00e3o",
+    "away_team": "moreirense fc",
+    "result": "D",
+    "home_score": 1,
+    "away_score": 1,
+    "date_utc": "2026-04-10T19:45:00Z",
+    "league": "primeira_liga"
+  },
+  {
+    "home_team": "avs",
+    "away_team": "vit\u00f3ria sc",
+    "result": "D",
+    "home_score": 1,
+    "away_score": 1,
+    "date_utc": "2026-04-11T14:30:00Z",
+    "league": "primeira_liga"
+  },
+  {
+    "home_team": "cd santa clara",
+    "away_team": "rio ave fc",
+    "result": "A",
+    "home_score": 0,
+    "away_score": 2,
+    "date_utc": "2026-04-11T17:00:00Z",
+    "league": "primeira_liga"
+  },
+  {
+    "home_team": "cf estrela da amadora",
+    "away_team": "sporting clube de portugal",
+    "result": "A",
+    "home_score": 0,
+    "away_score": 1,
+    "date_utc": "2026-04-11T19:30:00Z",
+    "league": "primeira_liga"
+  },
+  {
+    "home_team": "fc alverca",
+    "away_team": "casa pia ac",
+    "result": "H",
+    "home_score": 3,
+    "away_score": 1,
+    "date_utc": "2026-04-12T14:30:00Z",
+    "league": "primeira_liga"
+  },
+  {
+    "home_team": "sporting clube de braga",
+    "away_team": "fc arouca",
+    "result": "H",
+    "home_score": 1,
+    "away_score": 0,
+    "date_utc": "2026-04-12T17:00:00Z",
+    "league": "primeira_liga"
+  },
+  {
+    "home_team": "sport lisboa e benfica",
+    "away_team": "cd nacional",
+    "result": "H",
+    "home_score": 2,
+    "away_score": 0,
+    "date_utc": "2026-04-12T17:00:00Z",
+    "league": "primeira_liga"
+  },
+  {
+    "home_team": "gd estoril praia",
+    "away_team": "fc porto",
+    "result": "A",
+    "home_score": 1,
+    "away_score": 3,
+    "date_utc": "2026-04-12T19:30:00Z",
+    "league": "primeira_liga"
+  },
+  {
+    "home_team": "cd tondela",
+    "away_team": "gil vicente fc",
+    "result": "D",
+    "home_score": 2,
+    "away_score": 2,
+    "date_utc": "2026-04-13T19:15:00Z",
+    "league": "primeira_liga"
+  },
+  {
+    "home_team": "rio ave fc",
+    "away_team": "avs",
+    "result": "D",
+    "home_score": 2,
+    "away_score": 2,
+    "date_utc": "2026-04-17T19:45:00Z",
+    "league": "primeira_liga"
+  },
+  {
+    "home_team": "cd nacional",
+    "away_team": "fc alverca",
+    "result": "H",
+    "home_score": 1,
+    "away_score": 0,
+    "date_utc": "2026-04-18T14:30:00Z",
+    "league": "primeira_liga"
+  },
+  {
+    "home_team": "casa pia ac",
+    "away_team": "cd santa clara",
+    "result": "D",
+    "home_score": 0,
+    "away_score": 0,
+    "date_utc": "2026-04-18T17:00:00Z",
+    "league": "primeira_liga"
+  },
+  {
+    "home_team": "gil vicente fc",
+    "away_team": "vit\u00f3ria sc",
+    "result": "A",
+    "home_score": 0,
+    "away_score": 1,
+    "date_utc": "2026-04-18T19:30:00Z",
+    "league": "primeira_liga"
+  },
+  {
+    "home_team": "fc arouca",
+    "away_team": "cf estrela da amadora",
+    "result": "H",
+    "home_score": 1,
+    "away_score": 0,
+    "date_utc": "2026-04-19T14:30:00Z",
+    "league": "primeira_liga"
+  },
+  {
+    "home_team": "sporting clube de portugal",
+    "away_team": "sport lisboa e benfica",
+    "result": "A",
+    "home_score": 1,
+    "away_score": 2,
+    "date_utc": "2026-04-19T17:15:00Z",
+    "league": "primeira_liga"
+  },
+  {
+    "home_team": "fc porto",
+    "away_team": "cd tondela",
+    "result": "H",
+    "home_score": 2,
+    "away_score": 0,
+    "date_utc": "2026-04-19T19:30:00Z",
+    "league": "primeira_liga"
+  },
+  {
+    "home_team": "sporting clube de braga",
+    "away_team": "fc famalic\u00e3o",
+    "result": "D",
+    "home_score": 2,
+    "away_score": 2,
+    "date_utc": "2026-04-19T19:30:00Z",
+    "league": "primeira_liga"
+  },
+  {
+    "home_team": "moreirense fc",
+    "away_team": "gd estoril praia",
+    "result": "H",
+    "home_score": 1,
+    "away_score": 0,
+    "date_utc": "2026-04-20T19:15:00Z",
+    "league": "primeira_liga"
+  },
+  {
+    "home_team": "casa pia ac",
+    "away_team": "sporting clube de braga",
+    "result": "A",
+    "home_score": 0,
+    "away_score": 1,
+    "date_utc": "2026-04-23T18:00:00Z",
+    "league": "primeira_liga"
+  },
+  {
+    "home_team": "fc alverca",
+    "away_team": "fc arouca",
+    "result": "H",
+    "home_score": 2,
+    "away_score": 1,
+    "date_utc": "2026-04-24T19:15:00Z",
+    "league": "primeira_liga"
+  },
+  {
+    "home_team": "cd tondela",
+    "away_team": "cd nacional",
+    "result": "A",
+    "home_score": 0,
+    "away_score": 2,
+    "date_utc": "2026-04-25T14:30:00Z",
+    "league": "primeira_liga"
+  },
+  {
+    "home_team": "sport lisboa e benfica",
+    "away_team": "moreirense fc",
+    "result": "H",
+    "home_score": 4,
+    "away_score": 1,
+    "date_utc": "2026-04-25T17:00:00Z",
+    "league": "primeira_liga"
+  },
+  {
+    "home_team": "vit\u00f3ria sc",
+    "away_team": "rio ave fc",
+    "result": "H",
+    "home_score": 2,
+    "away_score": 0,
+    "date_utc": "2026-04-25T19:30:00Z",
+    "league": "primeira_liga"
+  },
+  {
+    "home_team": "gd estoril praia",
+    "away_team": "fc famalic\u00e3o",
+    "result": "A",
+    "home_score": 0,
+    "away_score": 1,
+    "date_utc": "2026-04-26T14:30:00Z",
+    "league": "primeira_liga"
+  },
+  {
+    "home_team": "cd santa clara",
+    "away_team": "sporting clube de braga",
+    "result": "H",
+    "home_score": 2,
+    "away_score": 1,
+    "date_utc": "2026-04-26T17:00:00Z",
+    "league": "primeira_liga"
+  },
+  {
+    "home_team": "cf estrela da amadora",
+    "away_team": "fc porto",
+    "result": "A",
+    "home_score": 1,
+    "away_score": 2,
+    "date_utc": "2026-04-26T17:00:00Z",
+    "league": "primeira_liga"
+  },
+  {
+    "home_team": "avs",
+    "away_team": "sporting clube de portugal",
+    "result": "D",
+    "home_score": 1,
+    "away_score": 1,
+    "date_utc": "2026-04-26T19:30:00Z",
+    "league": "primeira_liga"
+  },
+  {
+    "home_team": "gil vicente fc",
+    "away_team": "casa pia ac",
+    "result": "H",
+    "home_score": 2,
+    "away_score": 1,
+    "date_utc": "2026-04-27T19:15:00Z",
+    "league": "primeira_liga"
+  },
+  {
+    "home_team": "sporting clube de portugal",
+    "away_team": "cd tondela",
+    "result": "D",
+    "home_score": 2,
+    "away_score": 2,
+    "date_utc": "2026-04-29T19:15:00Z",
+    "league": "primeira_liga"
+  },
+  {
+    "home_team": "cd nacional",
+    "away_team": "avs",
+    "result": "A",
+    "home_score": 1,
+    "away_score": 2,
+    "date_utc": "2026-05-02T14:30:00Z",
+    "league": "primeira_liga"
+  },
+  {
+    "home_team": "moreirense fc",
+    "away_team": "cf estrela da amadora",
+    "result": "H",
+    "home_score": 3,
+    "away_score": 2,
+    "date_utc": "2026-05-02T14:30:00Z",
+    "league": "primeira_liga"
+  },
+  {
+    "home_team": "fc arouca",
+    "away_team": "cd santa clara",
+    "result": "D",
+    "home_score": 2,
+    "away_score": 2,
+    "date_utc": "2026-05-02T14:30:00Z",
+    "league": "primeira_liga"
+  },
+  {
+    "home_team": "fc famalic\u00e3o",
+    "away_team": "sport lisboa e benfica",
+    "result": "D",
+    "home_score": 2,
+    "away_score": 2,
+    "date_utc": "2026-05-02T17:00:00Z",
+    "league": "primeira_liga"
+  },
+  {
+    "home_team": "fc porto",
+    "away_team": "fc alverca",
+    "result": "H",
+    "home_score": 1,
+    "away_score": 0,
+    "date_utc": "2026-05-02T19:30:00Z",
+    "league": "primeira_liga"
+  },
+  {
+    "home_team": "casa pia ac",
+    "away_team": "cd tondela",
+    "result": "A",
+    "home_score": 0,
+    "away_score": 1,
+    "date_utc": "2026-05-03T14:30:00Z",
+    "league": "primeira_liga"
+  },
+  {
+    "home_team": "sporting clube de braga",
+    "away_team": "gd estoril praia",
+    "result": "D",
+    "home_score": 1,
+    "away_score": 1,
+    "date_utc": "2026-05-03T17:00:00Z",
+    "league": "primeira_liga"
+  },
+  {
+    "home_team": "rio ave fc",
+    "away_team": "gil vicente fc",
+    "result": "D",
+    "home_score": 0,
+    "away_score": 0,
+    "date_utc": "2026-05-03T19:30:00Z",
+    "league": "primeira_liga"
+  },
+  {
+    "home_team": "sporting clube de portugal",
+    "away_team": "vit\u00f3ria sc",
+    "result": "H",
+    "home_score": 5,
+    "away_score": 1,
+    "date_utc": "2026-05-04T19:15:00Z",
+    "league": "primeira_liga"
+  },
+  {
+    "home_team": "avs",
+    "away_team": "fc porto",
+    "result": "H",
+    "home_score": 3,
+    "away_score": 1,
+    "date_utc": "2026-05-10T17:00:00Z",
+    "league": "primeira_liga"
+  },
+  {
+    "home_team": "fc alverca",
+    "away_team": "gd estoril praia",
+    "result": "D",
+    "home_score": 1,
+    "away_score": 1,
+    "date_utc": "2026-05-10T19:30:00Z",
+    "league": "primeira_liga"
+  },
+  {
+    "home_team": "vit\u00f3ria sc",
+    "away_team": "casa pia ac",
+    "result": "A",
+    "home_score": 0,
+    "away_score": 1,
+    "date_utc": "2026-05-11T19:15:00Z",
+    "league": "primeira_liga"
+  },
+  {
+    "home_team": "gil vicente fc",
+    "away_team": "fc arouca",
+    "result": "A",
+    "home_score": 1,
+    "away_score": 3,
+    "date_utc": "2026-05-11T19:15:00Z",
+    "league": "primeira_liga"
+  },
+  {
+    "home_team": "cd tondela",
+    "away_team": "moreirense fc",
+    "result": "H",
+    "home_score": 2,
+    "away_score": 0,
+    "date_utc": "2026-05-11T19:15:00Z",
+    "league": "primeira_liga"
+  },
+  {
+    "home_team": "cf estrela da amadora",
+    "away_team": "fc famalic\u00e3o",
+    "result": "D",
+    "home_score": 0,
+    "away_score": 0,
+    "date_utc": "2026-05-11T19:15:00Z",
+    "league": "primeira_liga"
+  },
+  {
+    "home_team": "rio ave fc",
+    "away_team": "sporting clube de portugal",
+    "result": "A",
+    "home_score": 1,
+    "away_score": 4,
+    "date_utc": "2026-05-11T19:15:00Z",
+    "league": "primeira_liga"
+  },
+  {
+    "home_team": "cd santa clara",
+    "away_team": "cd nacional",
+    "result": "H",
+    "home_score": 2,
+    "away_score": 0,
+    "date_utc": "2026-05-11T19:15:00Z",
+    "league": "primeira_liga"
+  },
+  {
+    "home_team": "sport lisboa e benfica",
+    "away_team": "sporting clube de braga",
+    "result": "D",
+    "home_score": 2,
+    "away_score": 2,
+    "date_utc": "2026-05-11T19:15:00Z",
+    "league": "primeira_liga"
+  },
+  {
+    "home_team": "moreirense fc",
+    "away_team": "avs",
+    "result": "D",
+    "home_score": 0,
+    "away_score": 0,
+    "date_utc": "2026-05-16T14:30:00Z",
+    "league": "primeira_liga"
+  },
+  {
+    "home_team": "fc porto",
+    "away_team": "cd santa clara",
+    "result": "H",
+    "home_score": 1,
+    "away_score": 0,
+    "date_utc": "2026-05-16T14:30:00Z",
+    "league": "primeira_liga"
+  },
+  {
+    "home_team": "cd nacional",
+    "away_team": "vit\u00f3ria sc",
+    "result": "H",
+    "home_score": 2,
+    "away_score": 0,
+    "date_utc": "2026-05-16T17:00:00Z",
+    "league": "primeira_liga"
+  },
+  {
+    "home_team": "casa pia ac",
+    "away_team": "rio ave fc",
+    "result": "D",
+    "home_score": 1,
+    "away_score": 1,
+    "date_utc": "2026-05-16T17:00:00Z",
+    "league": "primeira_liga"
+  },
+  {
+    "home_team": "fc arouca",
+    "away_team": "cd tondela",
+    "result": "H",
+    "home_score": 3,
+    "away_score": 1,
+    "date_utc": "2026-05-16T17:00:00Z",
+    "league": "primeira_liga"
+  },
+  {
+    "home_team": "sporting clube de braga",
+    "away_team": "cf estrela da amadora",
+    "result": "D",
+    "home_score": 2,
+    "away_score": 2,
+    "date_utc": "2026-05-16T17:00:00Z",
+    "league": "primeira_liga"
+  },
+  {
+    "home_team": "fc famalic\u00e3o",
+    "away_team": "fc alverca",
+    "result": "H",
+    "home_score": 1,
+    "away_score": 0,
+    "date_utc": "2026-05-16T19:30:00Z",
+    "league": "primeira_liga"
+  },
+  {
+    "home_team": "sporting clube de portugal",
+    "away_team": "gil vicente fc",
+    "result": "H",
+    "home_score": 3,
+    "away_score": 0,
+    "date_utc": "2026-05-16T19:30:00Z",
+    "league": "primeira_liga"
+  },
+  {
+    "home_team": "gd estoril praia",
+    "away_team": "sport lisboa e benfica",
+    "result": "A",
+    "home_score": 1,
+    "away_score": 3,
+    "date_utc": "2026-05-16T19:30:00Z",
+    "league": "primeira_liga"
+  },
+  {
+    "home_team": "gd estoril praia",
+    "away_team": "fc famalic\u00e3o",
+    "result": "D",
+    "home_score": 1,
+    "away_score": 1,
+    "date_utc": "2026-08-07T19:15:00Z",
+    "league": "primeira_liga"
+  },
+  {
+    "home_team": "cs mar\u00edtimo",
+    "away_team": "casa pia ac",
+    "result": "H",
+    "home_score": 1,
+    "away_score": 0,
+    "date_utc": "2026-08-08T14:30:00Z",
+    "league": "primeira_liga"
+  },
+  {
+    "home_team": "vit\u00f3ria sc",
+    "away_team": "fc arouca",
+    "result": "A",
+    "home_score": 0,
+    "away_score": 1,
+    "date_utc": "2026-08-08T17:00:00Z",
+    "league": "primeira_liga"
+  },
+  {
+    "home_team": "cf estrela da amadora",
+    "away_team": "sporting clube de portugal",
+    "result": "D",
+    "home_score": 2,
+    "away_score": 2,
+    "date_utc": "2026-08-08T19:30:00Z",
+    "league": "primeira_liga"
+  },
+  {
+    "home_team": "fc porto",
+    "away_team": "fc alverca",
+    "result": "H",
+    "home_score": 2,
+    "away_score": 0,
+    "date_utc": "2026-08-09T17:00:00Z",
+    "league": "primeira_liga"
+  },
+  {
+    "home_team": "moreirense fc",
+    "away_team": "sporting clube de braga",
+    "result": "D",
+    "home_score": 2,
+    "away_score": 2,
+    "date_utc": "2026-08-09T19:30:00Z",
+    "league": "primeira_liga"
+  },
+  {
+    "home_team": "gil vicente fc",
+    "away_team": "rio ave fc",
+    "result": "H",
+    "home_score": 1,
+    "away_score": 0,
+    "date_utc": "2026-08-09T19:30:00Z",
+    "league": "primeira_liga"
+  },
+  {
+    "home_team": "sport lisboa e benfica",
+    "away_team": "acad\u00e9mico de viseu fc",
+    "result": "D",
+    "home_score": 2,
+    "away_score": 2,
+    "date_utc": "2026-08-09T19:30:00Z",
+    "league": "primeira_liga"
+  },
+  {
+    "home_team": "cd santa clara",
+    "away_team": "cd nacional",
+    "result": "D",
+    "home_score": 2,
+    "away_score": 2,
+    "date_utc": "2026-08-10T19:15:00Z",
+    "league": "primeira_liga"
+  },
+  {
+    "home_team": "sporting clube de portugal",
+    "away_team": "vit\u00f3ria sc",
+    "result": "H",
+    "home_score": 3,
+    "away_score": 2,
+    "date_utc": "2026-08-14T19:15:00Z",
+    "league": "primeira_liga"
+  },
+  {
+    "home_team": "fc alverca",
+    "away_team": "cf estrela da amadora",
+    "result": "D",
+    "home_score": 2,
+    "away_score": 2,
+    "date_utc": "2026-08-15T14:30:00Z",
+    "league": "primeira_liga"
+  },
+  {
+    "home_team": "acad\u00e9mico de viseu fc",
+    "away_team": "cd santa clara",
+    "result": "A",
+    "home_score": 0,
+    "away_score": 1,
+    "date_utc": "2026-08-15T17:00:00Z",
+    "league": "primeira_liga"
+  },
+  {
+    "home_team": "rio ave fc",
+    "away_team": "fc porto",
+    "result": "A",
+    "home_score": 0,
+    "away_score": 2,
+    "date_utc": "2026-08-15T19:30:00Z",
+    "league": "primeira_liga"
+  },
+  {
+    "home_team": "cd nacional",
+    "away_team": "gd estoril praia",
+    "result": "H",
+    "home_score": 2,
+    "away_score": 0,
+    "date_utc": "2026-08-16T14:30:00Z",
+    "league": "primeira_liga"
+  },
+  {
+    "home_team": "fc arouca",
+    "away_team": "moreirense fc",
+    "result": "H",
+    "home_score": 4,
+    "away_score": 0,
+    "date_utc": "2026-08-16T17:00:00Z",
+    "league": "primeira_liga"
+  },
+  {
+    "home_team": "fc famalic\u00e3o",
+    "away_team": "cs mar\u00edtimo",
+    "result": "A",
+    "home_score": 1,
+    "away_score": 2,
+    "date_utc": "2026-08-16T19:30:00Z",
+    "league": "primeira_liga"
+  },
+  {
+    "home_team": "casa pia ac",
+    "away_team": "sport lisboa e benfica",
+    "result": "A",
+    "home_score": 0,
+    "away_score": 7,
+    "date_utc": "2026-08-17T19:15:00Z",
+    "league": "primeira_liga"
+  },
+  {
+    "home_team": "cs mar\u00edtimo",
+    "away_team": "acad\u00e9mico de viseu fc",
+    "result": "D",
+    "home_score": 2,
+    "away_score": 2,
+    "date_utc": "2026-08-22T14:30:00Z",
+    "league": "primeira_liga"
+  },
+  {
+    "home_team": "gd estoril praia",
+    "away_team": "rio ave fc",
+    "result": "A",
+    "home_score": 0,
+    "away_score": 2,
+    "date_utc": "2026-08-22T17:00:00Z",
+    "league": "primeira_liga"
+  },
+  {
+    "home_team": "sporting clube de portugal",
+    "away_team": "fc alverca",
+    "result": "H",
+    "home_score": 3,
+    "away_score": 1,
+    "date_utc": "2026-08-22T19:30:00Z",
+    "league": "primeira_liga"
+  },
+  {
+    "home_team": "vit\u00f3ria sc",
+    "away_team": "cd nacional",
+    "result": "H",
+    "home_score": 1,
+    "away_score": 0,
+    "date_utc": "2026-08-23T14:30:00Z",
+    "league": "primeira_liga"
+  },
+  {
+    "home_team": "cd santa clara",
+    "away_team": "fc famalic\u00e3o",
+    "result": "H",
+    "home_score": 1,
+    "away_score": 0,
+    "date_utc": "2026-08-23T17:00:00Z",
+    "league": "primeira_liga"
+  },
+  {
+    "home_team": "fc porto",
+    "away_team": "fc arouca",
+    "result": "H",
+    "home_score": 2,
+    "away_score": 0,
+    "date_utc": "2026-08-23T19:30:00Z",
+    "league": "primeira_liga"
+  },
+  {
+    "home_team": "gil vicente fc",
+    "away_team": "casa pia ac",
+    "result": "H",
+    "home_score": 2,
+    "away_score": 0,
+    "date_utc": "2026-08-24T19:15:00Z",
+    "league": "primeira_liga"
+  }
+]

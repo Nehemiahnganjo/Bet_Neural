@@ -1,0 +1,25 @@
+#!/usr/bin/env bash
+# bet — Bet Neural v2 launcher
+# Usage: ./bet <command> [args]
+# Examples:
+#   ./bet predict "Arsenal vs Chelsea" --odds 2.10,3.40,3.80
+#   ./bet analytics "Real Madrid vs Barcelona" --league la_liga
+#   ./bet gameweek --league premier_league
+#   ./bet scrape --league premier_league
+#   ./bet train --league premier_league
+#   ./bet odds --league premier_league
+#   ./bet benchmark
+#   ./bet status
+
+SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
+
+# Use venv if available, else system Python
+if [ -f "$SCRIPT_DIR/venv/bin/python3" ]; then
+    PYTHON="$SCRIPT_DIR/venv/bin/python3"
+elif [ -f "$SCRIPT_DIR/venv/bin/python" ]; then
+    PYTHON="$SCRIPT_DIR/venv/bin/python"
+else
+    PYTHON="python3"
+fi
+
+exec "$PYTHON" "$SCRIPT_DIR/bet_neural_cli.py" "$@"

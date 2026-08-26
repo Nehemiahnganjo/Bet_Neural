@@ -1,0 +1,1334 @@
+[
+  {
+    "home_team": "levante ud",
+    "away_team": "deportivo alav\u00e9s",
+    "result": "H",
+    "home_score": 2,
+    "away_score": 0,
+    "date_utc": "2026-02-27T20:00:00Z",
+    "league": "la_liga"
+  },
+  {
+    "home_team": "rayo vallecano de madrid",
+    "away_team": "athletic club",
+    "result": "D",
+    "home_score": 1,
+    "away_score": 1,
+    "date_utc": "2026-02-28T13:00:00Z",
+    "league": "la_liga"
+  },
+  {
+    "home_team": "fc barcelona",
+    "away_team": "villarreal cf",
+    "result": "H",
+    "home_score": 4,
+    "away_score": 1,
+    "date_utc": "2026-02-28T15:15:00Z",
+    "league": "la_liga"
+  },
+  {
+    "home_team": "rcd mallorca",
+    "away_team": "real sociedad de f\u00fatbol",
+    "result": "A",
+    "home_score": 0,
+    "away_score": 1,
+    "date_utc": "2026-02-28T17:30:00Z",
+    "league": "la_liga"
+  },
+  {
+    "home_team": "real oviedo",
+    "away_team": "club atl\u00e9tico de madrid",
+    "result": "A",
+    "home_score": 0,
+    "away_score": 1,
+    "date_utc": "2026-02-28T20:00:00Z",
+    "league": "la_liga"
+  },
+  {
+    "home_team": "elche cf",
+    "away_team": "rcd espanyol de barcelona",
+    "result": "D",
+    "home_score": 2,
+    "away_score": 2,
+    "date_utc": "2026-03-01T13:00:00Z",
+    "league": "la_liga"
+  },
+  {
+    "home_team": "valencia cf",
+    "away_team": "ca osasuna",
+    "result": "H",
+    "home_score": 1,
+    "away_score": 0,
+    "date_utc": "2026-03-01T15:15:00Z",
+    "league": "la_liga"
+  },
+  {
+    "home_team": "real betis balompi\u00e9",
+    "away_team": "sevilla fc",
+    "result": "D",
+    "home_score": 2,
+    "away_score": 2,
+    "date_utc": "2026-03-01T17:30:00Z",
+    "league": "la_liga"
+  },
+  {
+    "home_team": "girona fc",
+    "away_team": "rc celta de vigo",
+    "result": "A",
+    "home_score": 1,
+    "away_score": 2,
+    "date_utc": "2026-03-01T20:00:00Z",
+    "league": "la_liga"
+  },
+  {
+    "home_team": "real madrid cf",
+    "away_team": "getafe cf",
+    "result": "A",
+    "home_score": 0,
+    "away_score": 1,
+    "date_utc": "2026-03-02T20:00:00Z",
+    "league": "la_liga"
+  },
+  {
+    "home_team": "rayo vallecano de madrid",
+    "away_team": "real oviedo",
+    "result": "H",
+    "home_score": 3,
+    "away_score": 0,
+    "date_utc": "2026-03-04T18:00:00Z",
+    "league": "la_liga"
+  },
+  {
+    "home_team": "rc celta de vigo",
+    "away_team": "real madrid cf",
+    "result": "A",
+    "home_score": 1,
+    "away_score": 2,
+    "date_utc": "2026-03-06T20:00:00Z",
+    "league": "la_liga"
+  },
+  {
+    "home_team": "ca osasuna",
+    "away_team": "rcd mallorca",
+    "result": "D",
+    "home_score": 2,
+    "away_score": 2,
+    "date_utc": "2026-03-07T13:00:00Z",
+    "league": "la_liga"
+  },
+  {
+    "home_team": "levante ud",
+    "away_team": "girona fc",
+    "result": "D",
+    "home_score": 1,
+    "away_score": 1,
+    "date_utc": "2026-03-07T15:15:00Z",
+    "league": "la_liga"
+  },
+  {
+    "home_team": "club atl\u00e9tico de madrid",
+    "away_team": "real sociedad de f\u00fatbol",
+    "result": "H",
+    "home_score": 3,
+    "away_score": 2,
+    "date_utc": "2026-03-07T17:30:00Z",
+    "league": "la_liga"
+  },
+  {
+    "home_team": "athletic club",
+    "away_team": "fc barcelona",
+    "result": "A",
+    "home_score": 0,
+    "away_score": 1,
+    "date_utc": "2026-03-07T20:00:00Z",
+    "league": "la_liga"
+  },
+  {
+    "home_team": "villarreal cf",
+    "away_team": "elche cf",
+    "result": "H",
+    "home_score": 2,
+    "away_score": 1,
+    "date_utc": "2026-03-08T13:00:00Z",
+    "league": "la_liga"
+  },
+  {
+    "home_team": "getafe cf",
+    "away_team": "real betis balompi\u00e9",
+    "result": "H",
+    "home_score": 2,
+    "away_score": 0,
+    "date_utc": "2026-03-08T15:15:00Z",
+    "league": "la_liga"
+  },
+  {
+    "home_team": "sevilla fc",
+    "away_team": "rayo vallecano de madrid",
+    "result": "D",
+    "home_score": 1,
+    "away_score": 1,
+    "date_utc": "2026-03-08T17:30:00Z",
+    "league": "la_liga"
+  },
+  {
+    "home_team": "valencia cf",
+    "away_team": "deportivo alav\u00e9s",
+    "result": "H",
+    "home_score": 3,
+    "away_score": 2,
+    "date_utc": "2026-03-08T20:00:00Z",
+    "league": "la_liga"
+  },
+  {
+    "home_team": "rcd espanyol de barcelona",
+    "away_team": "real oviedo",
+    "result": "D",
+    "home_score": 1,
+    "away_score": 1,
+    "date_utc": "2026-03-09T20:00:00Z",
+    "league": "la_liga"
+  },
+  {
+    "home_team": "deportivo alav\u00e9s",
+    "away_team": "villarreal cf",
+    "result": "D",
+    "home_score": 1,
+    "away_score": 1,
+    "date_utc": "2026-03-13T20:00:00Z",
+    "league": "la_liga"
+  },
+  {
+    "home_team": "girona fc",
+    "away_team": "athletic club",
+    "result": "H",
+    "home_score": 3,
+    "away_score": 0,
+    "date_utc": "2026-03-14T13:00:00Z",
+    "league": "la_liga"
+  },
+  {
+    "home_team": "club atl\u00e9tico de madrid",
+    "away_team": "getafe cf",
+    "result": "H",
+    "home_score": 1,
+    "away_score": 0,
+    "date_utc": "2026-03-14T15:15:00Z",
+    "league": "la_liga"
+  },
+  {
+    "home_team": "real oviedo",
+    "away_team": "valencia cf",
+    "result": "H",
+    "home_score": 1,
+    "away_score": 0,
+    "date_utc": "2026-03-14T17:30:00Z",
+    "league": "la_liga"
+  },
+  {
+    "home_team": "real madrid cf",
+    "away_team": "elche cf",
+    "result": "H",
+    "home_score": 4,
+    "away_score": 1,
+    "date_utc": "2026-03-14T20:00:00Z",
+    "league": "la_liga"
+  },
+  {
+    "home_team": "rcd mallorca",
+    "away_team": "rcd espanyol de barcelona",
+    "result": "H",
+    "home_score": 2,
+    "away_score": 1,
+    "date_utc": "2026-03-15T13:00:00Z",
+    "league": "la_liga"
+  },
+  {
+    "home_team": "fc barcelona",
+    "away_team": "sevilla fc",
+    "result": "H",
+    "home_score": 5,
+    "away_score": 2,
+    "date_utc": "2026-03-15T15:15:00Z",
+    "league": "la_liga"
+  },
+  {
+    "home_team": "real betis balompi\u00e9",
+    "away_team": "rc celta de vigo",
+    "result": "D",
+    "home_score": 1,
+    "away_score": 1,
+    "date_utc": "2026-03-15T17:30:00Z",
+    "league": "la_liga"
+  },
+  {
+    "home_team": "real sociedad de f\u00fatbol",
+    "away_team": "ca osasuna",
+    "result": "H",
+    "home_score": 3,
+    "away_score": 1,
+    "date_utc": "2026-03-15T20:00:00Z",
+    "league": "la_liga"
+  },
+  {
+    "home_team": "rayo vallecano de madrid",
+    "away_team": "levante ud",
+    "result": "D",
+    "home_score": 1,
+    "away_score": 1,
+    "date_utc": "2026-03-16T20:00:00Z",
+    "league": "la_liga"
+  },
+  {
+    "home_team": "villarreal cf",
+    "away_team": "real sociedad de f\u00fatbol",
+    "result": "H",
+    "home_score": 3,
+    "away_score": 1,
+    "date_utc": "2026-03-20T20:00:00Z",
+    "league": "la_liga"
+  },
+  {
+    "home_team": "elche cf",
+    "away_team": "rcd mallorca",
+    "result": "H",
+    "home_score": 2,
+    "away_score": 1,
+    "date_utc": "2026-03-21T13:00:00Z",
+    "league": "la_liga"
+  },
+  {
+    "home_team": "rcd espanyol de barcelona",
+    "away_team": "getafe cf",
+    "result": "A",
+    "home_score": 1,
+    "away_score": 2,
+    "date_utc": "2026-03-21T15:15:00Z",
+    "league": "la_liga"
+  },
+  {
+    "home_team": "levante ud",
+    "away_team": "real oviedo",
+    "result": "H",
+    "home_score": 4,
+    "away_score": 2,
+    "date_utc": "2026-03-21T17:30:00Z",
+    "league": "la_liga"
+  },
+  {
+    "home_team": "ca osasuna",
+    "away_team": "girona fc",
+    "result": "H",
+    "home_score": 1,
+    "away_score": 0,
+    "date_utc": "2026-03-21T17:30:00Z",
+    "league": "la_liga"
+  },
+  {
+    "home_team": "sevilla fc",
+    "away_team": "valencia cf",
+    "result": "A",
+    "home_score": 0,
+    "away_score": 2,
+    "date_utc": "2026-03-21T20:00:00Z",
+    "league": "la_liga"
+  },
+  {
+    "home_team": "fc barcelona",
+    "away_team": "rayo vallecano de madrid",
+    "result": "H",
+    "home_score": 1,
+    "away_score": 0,
+    "date_utc": "2026-03-22T13:00:00Z",
+    "league": "la_liga"
+  },
+  {
+    "home_team": "rc celta de vigo",
+    "away_team": "deportivo alav\u00e9s",
+    "result": "A",
+    "home_score": 3,
+    "away_score": 4,
+    "date_utc": "2026-03-22T15:15:00Z",
+    "league": "la_liga"
+  },
+  {
+    "home_team": "athletic club",
+    "away_team": "real betis balompi\u00e9",
+    "result": "H",
+    "home_score": 2,
+    "away_score": 1,
+    "date_utc": "2026-03-22T17:30:00Z",
+    "league": "la_liga"
+  },
+  {
+    "home_team": "real madrid cf",
+    "away_team": "club atl\u00e9tico de madrid",
+    "result": "H",
+    "home_score": 3,
+    "away_score": 2,
+    "date_utc": "2026-03-22T20:00:00Z",
+    "league": "la_liga"
+  },
+  {
+    "home_team": "rayo vallecano de madrid",
+    "away_team": "elche cf",
+    "result": "H",
+    "home_score": 1,
+    "away_score": 0,
+    "date_utc": "2026-04-03T19:00:00Z",
+    "league": "la_liga"
+  },
+  {
+    "home_team": "real sociedad de f\u00fatbol",
+    "away_team": "levante ud",
+    "result": "H",
+    "home_score": 2,
+    "away_score": 0,
+    "date_utc": "2026-04-04T12:00:00Z",
+    "league": "la_liga"
+  },
+  {
+    "home_team": "rcd mallorca",
+    "away_team": "real madrid cf",
+    "result": "H",
+    "home_score": 2,
+    "away_score": 1,
+    "date_utc": "2026-04-04T14:15:00Z",
+    "league": "la_liga"
+  },
+  {
+    "home_team": "real betis balompi\u00e9",
+    "away_team": "rcd espanyol de barcelona",
+    "result": "D",
+    "home_score": 0,
+    "away_score": 0,
+    "date_utc": "2026-04-04T16:30:00Z",
+    "league": "la_liga"
+  },
+  {
+    "home_team": "club atl\u00e9tico de madrid",
+    "away_team": "fc barcelona",
+    "result": "A",
+    "home_score": 1,
+    "away_score": 2,
+    "date_utc": "2026-04-04T19:00:00Z",
+    "league": "la_liga"
+  },
+  {
+    "home_team": "getafe cf",
+    "away_team": "athletic club",
+    "result": "H",
+    "home_score": 2,
+    "away_score": 0,
+    "date_utc": "2026-04-05T12:00:00Z",
+    "league": "la_liga"
+  },
+  {
+    "home_team": "valencia cf",
+    "away_team": "rc celta de vigo",
+    "result": "A",
+    "home_score": 2,
+    "away_score": 3,
+    "date_utc": "2026-04-05T14:15:00Z",
+    "league": "la_liga"
+  },
+  {
+    "home_team": "real oviedo",
+    "away_team": "sevilla fc",
+    "result": "H",
+    "home_score": 1,
+    "away_score": 0,
+    "date_utc": "2026-04-05T16:30:00Z",
+    "league": "la_liga"
+  },
+  {
+    "home_team": "deportivo alav\u00e9s",
+    "away_team": "ca osasuna",
+    "result": "D",
+    "home_score": 2,
+    "away_score": 2,
+    "date_utc": "2026-04-05T19:00:00Z",
+    "league": "la_liga"
+  },
+  {
+    "home_team": "girona fc",
+    "away_team": "villarreal cf",
+    "result": "H",
+    "home_score": 1,
+    "away_score": 0,
+    "date_utc": "2026-04-06T19:00:00Z",
+    "league": "la_liga"
+  },
+  {
+    "home_team": "real madrid cf",
+    "away_team": "girona fc",
+    "result": "D",
+    "home_score": 1,
+    "away_score": 1,
+    "date_utc": "2026-04-10T19:00:00Z",
+    "league": "la_liga"
+  },
+  {
+    "home_team": "real sociedad de f\u00fatbol",
+    "away_team": "deportivo alav\u00e9s",
+    "result": "D",
+    "home_score": 3,
+    "away_score": 3,
+    "date_utc": "2026-04-11T12:00:00Z",
+    "league": "la_liga"
+  },
+  {
+    "home_team": "elche cf",
+    "away_team": "valencia cf",
+    "result": "H",
+    "home_score": 1,
+    "away_score": 0,
+    "date_utc": "2026-04-11T14:15:00Z",
+    "league": "la_liga"
+  },
+  {
+    "home_team": "fc barcelona",
+    "away_team": "rcd espanyol de barcelona",
+    "result": "H",
+    "home_score": 4,
+    "away_score": 1,
+    "date_utc": "2026-04-11T16:30:00Z",
+    "league": "la_liga"
+  },
+  {
+    "home_team": "sevilla fc",
+    "away_team": "club atl\u00e9tico de madrid",
+    "result": "H",
+    "home_score": 2,
+    "away_score": 1,
+    "date_utc": "2026-04-11T19:00:00Z",
+    "league": "la_liga"
+  },
+  {
+    "home_team": "ca osasuna",
+    "away_team": "real betis balompi\u00e9",
+    "result": "D",
+    "home_score": 1,
+    "away_score": 1,
+    "date_utc": "2026-04-12T12:00:00Z",
+    "league": "la_liga"
+  },
+  {
+    "home_team": "rcd mallorca",
+    "away_team": "rayo vallecano de madrid",
+    "result": "H",
+    "home_score": 3,
+    "away_score": 0,
+    "date_utc": "2026-04-12T14:15:00Z",
+    "league": "la_liga"
+  },
+  {
+    "home_team": "rc celta de vigo",
+    "away_team": "real oviedo",
+    "result": "A",
+    "home_score": 0,
+    "away_score": 3,
+    "date_utc": "2026-04-12T16:30:00Z",
+    "league": "la_liga"
+  },
+  {
+    "home_team": "athletic club",
+    "away_team": "villarreal cf",
+    "result": "A",
+    "home_score": 1,
+    "away_score": 2,
+    "date_utc": "2026-04-12T19:00:00Z",
+    "league": "la_liga"
+  },
+  {
+    "home_team": "levante ud",
+    "away_team": "getafe cf",
+    "result": "H",
+    "home_score": 1,
+    "away_score": 0,
+    "date_utc": "2026-04-13T19:00:00Z",
+    "league": "la_liga"
+  },
+  {
+    "home_team": "athletic club",
+    "away_team": "ca osasuna",
+    "result": "H",
+    "home_score": 1,
+    "away_score": 0,
+    "date_utc": "2026-04-21T17:00:00Z",
+    "league": "la_liga"
+  },
+  {
+    "home_team": "rcd mallorca",
+    "away_team": "valencia cf",
+    "result": "D",
+    "home_score": 1,
+    "away_score": 1,
+    "date_utc": "2026-04-21T17:00:00Z",
+    "league": "la_liga"
+  },
+  {
+    "home_team": "real madrid cf",
+    "away_team": "deportivo alav\u00e9s",
+    "result": "H",
+    "home_score": 2,
+    "away_score": 1,
+    "date_utc": "2026-04-21T19:30:00Z",
+    "league": "la_liga"
+  },
+  {
+    "home_team": "girona fc",
+    "away_team": "real betis balompi\u00e9",
+    "result": "A",
+    "home_score": 2,
+    "away_score": 3,
+    "date_utc": "2026-04-21T19:30:00Z",
+    "league": "la_liga"
+  },
+  {
+    "home_team": "elche cf",
+    "away_team": "club atl\u00e9tico de madrid",
+    "result": "H",
+    "home_score": 3,
+    "away_score": 2,
+    "date_utc": "2026-04-22T17:00:00Z",
+    "league": "la_liga"
+  },
+  {
+    "home_team": "real sociedad de f\u00fatbol",
+    "away_team": "getafe cf",
+    "result": "A",
+    "home_score": 0,
+    "away_score": 1,
+    "date_utc": "2026-04-22T18:00:00Z",
+    "league": "la_liga"
+  },
+  {
+    "home_team": "fc barcelona",
+    "away_team": "rc celta de vigo",
+    "result": "H",
+    "home_score": 1,
+    "away_score": 0,
+    "date_utc": "2026-04-22T19:30:00Z",
+    "league": "la_liga"
+  },
+  {
+    "home_team": "levante ud",
+    "away_team": "sevilla fc",
+    "result": "H",
+    "home_score": 2,
+    "away_score": 0,
+    "date_utc": "2026-04-23T17:00:00Z",
+    "league": "la_liga"
+  },
+  {
+    "home_team": "rayo vallecano de madrid",
+    "away_team": "rcd espanyol de barcelona",
+    "result": "H",
+    "home_score": 1,
+    "away_score": 0,
+    "date_utc": "2026-04-23T18:00:00Z",
+    "league": "la_liga"
+  },
+  {
+    "home_team": "real oviedo",
+    "away_team": "villarreal cf",
+    "result": "D",
+    "home_score": 1,
+    "away_score": 1,
+    "date_utc": "2026-04-23T19:30:00Z",
+    "league": "la_liga"
+  },
+  {
+    "home_team": "real betis balompi\u00e9",
+    "away_team": "real madrid cf",
+    "result": "D",
+    "home_score": 1,
+    "away_score": 1,
+    "date_utc": "2026-04-24T19:00:00Z",
+    "league": "la_liga"
+  },
+  {
+    "home_team": "deportivo alav\u00e9s",
+    "away_team": "rcd mallorca",
+    "result": "H",
+    "home_score": 2,
+    "away_score": 1,
+    "date_utc": "2026-04-25T12:00:00Z",
+    "league": "la_liga"
+  },
+  {
+    "home_team": "getafe cf",
+    "away_team": "fc barcelona",
+    "result": "A",
+    "home_score": 0,
+    "away_score": 2,
+    "date_utc": "2026-04-25T14:15:00Z",
+    "league": "la_liga"
+  },
+  {
+    "home_team": "valencia cf",
+    "away_team": "girona fc",
+    "result": "H",
+    "home_score": 2,
+    "away_score": 1,
+    "date_utc": "2026-04-25T16:30:00Z",
+    "league": "la_liga"
+  },
+  {
+    "home_team": "club atl\u00e9tico de madrid",
+    "away_team": "athletic club",
+    "result": "H",
+    "home_score": 3,
+    "away_score": 2,
+    "date_utc": "2026-04-25T19:00:00Z",
+    "league": "la_liga"
+  },
+  {
+    "home_team": "rayo vallecano de madrid",
+    "away_team": "real sociedad de f\u00fatbol",
+    "result": "D",
+    "home_score": 3,
+    "away_score": 3,
+    "date_utc": "2026-04-26T12:00:00Z",
+    "league": "la_liga"
+  },
+  {
+    "home_team": "real oviedo",
+    "away_team": "elche cf",
+    "result": "A",
+    "home_score": 1,
+    "away_score": 2,
+    "date_utc": "2026-04-26T14:15:00Z",
+    "league": "la_liga"
+  },
+  {
+    "home_team": "ca osasuna",
+    "away_team": "sevilla fc",
+    "result": "H",
+    "home_score": 2,
+    "away_score": 1,
+    "date_utc": "2026-04-26T16:30:00Z",
+    "league": "la_liga"
+  },
+  {
+    "home_team": "villarreal cf",
+    "away_team": "rc celta de vigo",
+    "result": "H",
+    "home_score": 2,
+    "away_score": 1,
+    "date_utc": "2026-04-26T19:00:00Z",
+    "league": "la_liga"
+  },
+  {
+    "home_team": "rcd espanyol de barcelona",
+    "away_team": "levante ud",
+    "result": "D",
+    "home_score": 0,
+    "away_score": 0,
+    "date_utc": "2026-04-27T19:00:00Z",
+    "league": "la_liga"
+  },
+  {
+    "home_team": "girona fc",
+    "away_team": "rcd mallorca",
+    "result": "A",
+    "home_score": 0,
+    "away_score": 1,
+    "date_utc": "2026-05-01T19:00:00Z",
+    "league": "la_liga"
+  },
+  {
+    "home_team": "villarreal cf",
+    "away_team": "levante ud",
+    "result": "H",
+    "home_score": 5,
+    "away_score": 1,
+    "date_utc": "2026-05-02T12:00:00Z",
+    "league": "la_liga"
+  },
+  {
+    "home_team": "valencia cf",
+    "away_team": "club atl\u00e9tico de madrid",
+    "result": "A",
+    "home_score": 0,
+    "away_score": 2,
+    "date_utc": "2026-05-02T14:15:00Z",
+    "league": "la_liga"
+  },
+  {
+    "home_team": "deportivo alav\u00e9s",
+    "away_team": "athletic club",
+    "result": "A",
+    "home_score": 2,
+    "away_score": 4,
+    "date_utc": "2026-05-02T16:30:00Z",
+    "league": "la_liga"
+  },
+  {
+    "home_team": "ca osasuna",
+    "away_team": "fc barcelona",
+    "result": "A",
+    "home_score": 1,
+    "away_score": 2,
+    "date_utc": "2026-05-02T19:00:00Z",
+    "league": "la_liga"
+  },
+  {
+    "home_team": "rc celta de vigo",
+    "away_team": "elche cf",
+    "result": "H",
+    "home_score": 3,
+    "away_score": 1,
+    "date_utc": "2026-05-03T12:00:00Z",
+    "league": "la_liga"
+  },
+  {
+    "home_team": "getafe cf",
+    "away_team": "rayo vallecano de madrid",
+    "result": "A",
+    "home_score": 0,
+    "away_score": 2,
+    "date_utc": "2026-05-03T14:15:00Z",
+    "league": "la_liga"
+  },
+  {
+    "home_team": "real betis balompi\u00e9",
+    "away_team": "real oviedo",
+    "result": "H",
+    "home_score": 3,
+    "away_score": 0,
+    "date_utc": "2026-05-03T16:30:00Z",
+    "league": "la_liga"
+  },
+  {
+    "home_team": "rcd espanyol de barcelona",
+    "away_team": "real madrid cf",
+    "result": "A",
+    "home_score": 0,
+    "away_score": 2,
+    "date_utc": "2026-05-03T19:00:00Z",
+    "league": "la_liga"
+  },
+  {
+    "home_team": "sevilla fc",
+    "away_team": "real sociedad de f\u00fatbol",
+    "result": "H",
+    "home_score": 1,
+    "away_score": 0,
+    "date_utc": "2026-05-04T19:00:00Z",
+    "league": "la_liga"
+  },
+  {
+    "home_team": "levante ud",
+    "away_team": "ca osasuna",
+    "result": "H",
+    "home_score": 3,
+    "away_score": 2,
+    "date_utc": "2026-05-08T19:00:00Z",
+    "league": "la_liga"
+  },
+  {
+    "home_team": "elche cf",
+    "away_team": "deportivo alav\u00e9s",
+    "result": "D",
+    "home_score": 1,
+    "away_score": 1,
+    "date_utc": "2026-05-09T12:00:00Z",
+    "league": "la_liga"
+  },
+  {
+    "home_team": "sevilla fc",
+    "away_team": "rcd espanyol de barcelona",
+    "result": "H",
+    "home_score": 2,
+    "away_score": 1,
+    "date_utc": "2026-05-09T14:15:00Z",
+    "league": "la_liga"
+  },
+  {
+    "home_team": "club atl\u00e9tico de madrid",
+    "away_team": "rc celta de vigo",
+    "result": "A",
+    "home_score": 0,
+    "away_score": 1,
+    "date_utc": "2026-05-09T16:30:00Z",
+    "league": "la_liga"
+  },
+  {
+    "home_team": "real sociedad de f\u00fatbol",
+    "away_team": "real betis balompi\u00e9",
+    "result": "D",
+    "home_score": 2,
+    "away_score": 2,
+    "date_utc": "2026-05-09T19:00:00Z",
+    "league": "la_liga"
+  },
+  {
+    "home_team": "rcd mallorca",
+    "away_team": "villarreal cf",
+    "result": "D",
+    "home_score": 1,
+    "away_score": 1,
+    "date_utc": "2026-05-10T12:00:00Z",
+    "league": "la_liga"
+  },
+  {
+    "home_team": "athletic club",
+    "away_team": "valencia cf",
+    "result": "A",
+    "home_score": 0,
+    "away_score": 1,
+    "date_utc": "2026-05-10T14:15:00Z",
+    "league": "la_liga"
+  },
+  {
+    "home_team": "real oviedo",
+    "away_team": "getafe cf",
+    "result": "D",
+    "home_score": 0,
+    "away_score": 0,
+    "date_utc": "2026-05-10T16:30:00Z",
+    "league": "la_liga"
+  },
+  {
+    "home_team": "fc barcelona",
+    "away_team": "real madrid cf",
+    "result": "H",
+    "home_score": 2,
+    "away_score": 0,
+    "date_utc": "2026-05-10T19:00:00Z",
+    "league": "la_liga"
+  },
+  {
+    "home_team": "rayo vallecano de madrid",
+    "away_team": "girona fc",
+    "result": "D",
+    "home_score": 1,
+    "away_score": 1,
+    "date_utc": "2026-05-11T19:00:00Z",
+    "league": "la_liga"
+  },
+  {
+    "home_team": "rc celta de vigo",
+    "away_team": "levante ud",
+    "result": "A",
+    "home_score": 2,
+    "away_score": 3,
+    "date_utc": "2026-05-12T17:00:00Z",
+    "league": "la_liga"
+  },
+  {
+    "home_team": "real betis balompi\u00e9",
+    "away_team": "elche cf",
+    "result": "H",
+    "home_score": 2,
+    "away_score": 1,
+    "date_utc": "2026-05-12T18:00:00Z",
+    "league": "la_liga"
+  },
+  {
+    "home_team": "ca osasuna",
+    "away_team": "club atl\u00e9tico de madrid",
+    "result": "A",
+    "home_score": 1,
+    "away_score": 2,
+    "date_utc": "2026-05-12T19:30:00Z",
+    "league": "la_liga"
+  },
+  {
+    "home_team": "rcd espanyol de barcelona",
+    "away_team": "athletic club",
+    "result": "H",
+    "home_score": 2,
+    "away_score": 0,
+    "date_utc": "2026-05-13T17:00:00Z",
+    "league": "la_liga"
+  },
+  {
+    "home_team": "villarreal cf",
+    "away_team": "sevilla fc",
+    "result": "A",
+    "home_score": 2,
+    "away_score": 3,
+    "date_utc": "2026-05-13T17:00:00Z",
+    "league": "la_liga"
+  },
+  {
+    "home_team": "deportivo alav\u00e9s",
+    "away_team": "fc barcelona",
+    "result": "H",
+    "home_score": 1,
+    "away_score": 0,
+    "date_utc": "2026-05-13T19:30:00Z",
+    "league": "la_liga"
+  },
+  {
+    "home_team": "getafe cf",
+    "away_team": "rcd mallorca",
+    "result": "H",
+    "home_score": 3,
+    "away_score": 1,
+    "date_utc": "2026-05-13T19:30:00Z",
+    "league": "la_liga"
+  },
+  {
+    "home_team": "valencia cf",
+    "away_team": "rayo vallecano de madrid",
+    "result": "D",
+    "home_score": 1,
+    "away_score": 1,
+    "date_utc": "2026-05-14T17:00:00Z",
+    "league": "la_liga"
+  },
+  {
+    "home_team": "girona fc",
+    "away_team": "real sociedad de f\u00fatbol",
+    "result": "D",
+    "home_score": 1,
+    "away_score": 1,
+    "date_utc": "2026-05-14T18:00:00Z",
+    "league": "la_liga"
+  },
+  {
+    "home_team": "real madrid cf",
+    "away_team": "real oviedo",
+    "result": "H",
+    "home_score": 2,
+    "away_score": 0,
+    "date_utc": "2026-05-14T19:30:00Z",
+    "league": "la_liga"
+  },
+  {
+    "home_team": "athletic club",
+    "away_team": "rc celta de vigo",
+    "result": "D",
+    "home_score": 1,
+    "away_score": 1,
+    "date_utc": "2026-05-17T17:00:00Z",
+    "league": "la_liga"
+  },
+  {
+    "home_team": "club atl\u00e9tico de madrid",
+    "away_team": "girona fc",
+    "result": "H",
+    "home_score": 1,
+    "away_score": 0,
+    "date_utc": "2026-05-17T17:00:00Z",
+    "league": "la_liga"
+  },
+  {
+    "home_team": "elche cf",
+    "away_team": "getafe cf",
+    "result": "H",
+    "home_score": 1,
+    "away_score": 0,
+    "date_utc": "2026-05-17T17:00:00Z",
+    "league": "la_liga"
+  },
+  {
+    "home_team": "levante ud",
+    "away_team": "rcd mallorca",
+    "result": "H",
+    "home_score": 2,
+    "away_score": 0,
+    "date_utc": "2026-05-17T17:00:00Z",
+    "league": "la_liga"
+  },
+  {
+    "home_team": "rayo vallecano de madrid",
+    "away_team": "villarreal cf",
+    "result": "H",
+    "home_score": 2,
+    "away_score": 0,
+    "date_utc": "2026-05-17T17:00:00Z",
+    "league": "la_liga"
+  },
+  {
+    "home_team": "real sociedad de f\u00fatbol",
+    "away_team": "valencia cf",
+    "result": "A",
+    "home_score": 3,
+    "away_score": 4,
+    "date_utc": "2026-05-17T17:00:00Z",
+    "league": "la_liga"
+  },
+  {
+    "home_team": "real oviedo",
+    "away_team": "deportivo alav\u00e9s",
+    "result": "A",
+    "home_score": 0,
+    "away_score": 1,
+    "date_utc": "2026-05-17T17:00:00Z",
+    "league": "la_liga"
+  },
+  {
+    "home_team": "ca osasuna",
+    "away_team": "rcd espanyol de barcelona",
+    "result": "A",
+    "home_score": 1,
+    "away_score": 2,
+    "date_utc": "2026-05-17T17:00:00Z",
+    "league": "la_liga"
+  },
+  {
+    "home_team": "sevilla fc",
+    "away_team": "real madrid cf",
+    "result": "A",
+    "home_score": 0,
+    "away_score": 1,
+    "date_utc": "2026-05-17T17:00:00Z",
+    "league": "la_liga"
+  },
+  {
+    "home_team": "fc barcelona",
+    "away_team": "real betis balompi\u00e9",
+    "result": "H",
+    "home_score": 3,
+    "away_score": 1,
+    "date_utc": "2026-05-17T19:15:00Z",
+    "league": "la_liga"
+  },
+  {
+    "home_team": "deportivo alav\u00e9s",
+    "away_team": "rayo vallecano de madrid",
+    "result": "A",
+    "home_score": 1,
+    "away_score": 2,
+    "date_utc": "2026-05-23T19:00:00Z",
+    "league": "la_liga"
+  },
+  {
+    "home_team": "real betis balompi\u00e9",
+    "away_team": "levante ud",
+    "result": "H",
+    "home_score": 2,
+    "away_score": 1,
+    "date_utc": "2026-05-23T19:00:00Z",
+    "league": "la_liga"
+  },
+  {
+    "home_team": "rc celta de vigo",
+    "away_team": "sevilla fc",
+    "result": "H",
+    "home_score": 1,
+    "away_score": 0,
+    "date_utc": "2026-05-23T19:00:00Z",
+    "league": "la_liga"
+  },
+  {
+    "home_team": "rcd espanyol de barcelona",
+    "away_team": "real sociedad de f\u00fatbol",
+    "result": "D",
+    "home_score": 1,
+    "away_score": 1,
+    "date_utc": "2026-05-23T19:00:00Z",
+    "league": "la_liga"
+  },
+  {
+    "home_team": "getafe cf",
+    "away_team": "ca osasuna",
+    "result": "H",
+    "home_score": 1,
+    "away_score": 0,
+    "date_utc": "2026-05-23T19:00:00Z",
+    "league": "la_liga"
+  },
+  {
+    "home_team": "rcd mallorca",
+    "away_team": "real oviedo",
+    "result": "H",
+    "home_score": 3,
+    "away_score": 0,
+    "date_utc": "2026-05-23T19:00:00Z",
+    "league": "la_liga"
+  },
+  {
+    "home_team": "real madrid cf",
+    "away_team": "athletic club",
+    "result": "H",
+    "home_score": 4,
+    "away_score": 2,
+    "date_utc": "2026-05-23T19:00:00Z",
+    "league": "la_liga"
+  },
+  {
+    "home_team": "valencia cf",
+    "away_team": "fc barcelona",
+    "result": "H",
+    "home_score": 3,
+    "away_score": 1,
+    "date_utc": "2026-05-23T19:00:00Z",
+    "league": "la_liga"
+  },
+  {
+    "home_team": "girona fc",
+    "away_team": "elche cf",
+    "result": "D",
+    "home_score": 1,
+    "away_score": 1,
+    "date_utc": "2026-05-23T19:00:00Z",
+    "league": "la_liga"
+  },
+  {
+    "home_team": "villarreal cf",
+    "away_team": "club atl\u00e9tico de madrid",
+    "result": "H",
+    "home_score": 5,
+    "away_score": 1,
+    "date_utc": "2026-05-24T19:00:00Z",
+    "league": "la_liga"
+  },
+  {
+    "home_team": "deportivo alav\u00e9s",
+    "away_team": "getafe cf",
+    "result": "H",
+    "home_score": 3,
+    "away_score": 0,
+    "date_utc": "2026-08-15T17:30:00Z",
+    "league": "la_liga"
+  },
+  {
+    "home_team": "sevilla fc",
+    "away_team": "rayo vallecano de madrid",
+    "result": "H",
+    "home_score": 2,
+    "away_score": 1,
+    "date_utc": "2026-08-15T19:30:00Z",
+    "league": "la_liga"
+  },
+  {
+    "home_team": "real racing club de santander",
+    "away_team": "villarreal cf",
+    "result": "D",
+    "home_score": 2,
+    "away_score": 2,
+    "date_utc": "2026-08-16T15:00:00Z",
+    "league": "la_liga"
+  },
+  {
+    "home_team": "rcd espanyol de barcelona",
+    "away_team": "levante ud",
+    "result": "H",
+    "home_score": 3,
+    "away_score": 0,
+    "date_utc": "2026-08-16T17:00:00Z",
+    "league": "la_liga"
+  },
+  {
+    "home_team": "rc deportivo la coru\u00f1a",
+    "away_team": "elche cf",
+    "result": "D",
+    "home_score": 1,
+    "away_score": 1,
+    "date_utc": "2026-08-17T19:00:00Z",
+    "league": "la_liga"
+  },
+  {
+    "home_team": "club atl\u00e9tico de madrid",
+    "away_team": "m\u00e1laga cf",
+    "result": "H",
+    "home_score": 2,
+    "away_score": 0,
+    "date_utc": "2026-08-19T19:00:00Z",
+    "league": "la_liga"
+  },
+  {
+    "home_team": "rayo vallecano de madrid",
+    "away_team": "deportivo alav\u00e9s",
+    "result": "D",
+    "home_score": 1,
+    "away_score": 1,
+    "date_utc": "2026-08-20T19:00:00Z",
+    "league": "la_liga"
+  },
+  {
+    "home_team": "real betis balompi\u00e9",
+    "away_team": "real sociedad de f\u00fatbol",
+    "result": "H",
+    "home_score": 1,
+    "away_score": 0,
+    "date_utc": "2026-08-21T19:00:00Z",
+    "league": "la_liga"
+  },
+  {
+    "home_team": "athletic club",
+    "away_team": "sevilla fc",
+    "result": "A",
+    "home_score": 1,
+    "away_score": 3,
+    "date_utc": "2026-08-22T15:00:00Z",
+    "league": "la_liga"
+  },
+  {
+    "home_team": "valencia cf",
+    "away_team": "rc celta de vigo",
+    "result": "D",
+    "home_score": 0,
+    "away_score": 0,
+    "date_utc": "2026-08-22T17:30:00Z",
+    "league": "la_liga"
+  },
+  {
+    "home_team": "rcd espanyol de barcelona",
+    "away_team": "real madrid cf",
+    "result": "A",
+    "home_score": 1,
+    "away_score": 2,
+    "date_utc": "2026-08-22T19:30:00Z",
+    "league": "la_liga"
+  },
+  {
+    "home_team": "club atl\u00e9tico de madrid",
+    "away_team": "villarreal cf",
+    "result": "D",
+    "home_score": 2,
+    "away_score": 2,
+    "date_utc": "2026-08-23T15:00:00Z",
+    "league": "la_liga"
+  },
+  {
+    "home_team": "getafe cf",
+    "away_team": "real racing club de santander",
+    "result": "H",
+    "home_score": 1,
+    "away_score": 0,
+    "date_utc": "2026-08-23T17:30:00Z",
+    "league": "la_liga"
+  },
+  {
+    "home_team": "elche cf",
+    "away_team": "fc barcelona",
+    "result": "A",
+    "home_score": 0,
+    "away_score": 5,
+    "date_utc": "2026-08-23T19:30:00Z",
+    "league": "la_liga"
+  },
+  {
+    "home_team": "ca osasuna",
+    "away_team": "levante ud",
+    "result": "D",
+    "home_score": 0,
+    "away_score": 0,
+    "date_utc": "2026-08-24T17:30:00Z",
+    "league": "la_liga"
+  },
+  {
+    "home_team": "m\u00e1laga cf",
+    "away_team": "rc deportivo la coru\u00f1a",
+    "result": "D",
+    "home_score": 1,
+    "away_score": 1,
+    "date_utc": "2026-08-24T19:30:00Z",
+    "league": "la_liga"
+  },
+  {
+    "home_team": "valencia cf",
+    "away_team": "real betis balompi\u00e9",
+    "result": "A",
+    "home_score": 0,
+    "away_score": 1,
+    "date_utc": "2026-08-25T19:00:00Z",
+    "league": "la_liga"
+  }
+]

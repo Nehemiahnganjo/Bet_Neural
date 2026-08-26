@@ -1,0 +1,1172 @@
+[
+  {
+    "home_team": "parma calcio 1913",
+    "away_team": "cagliari calcio",
+    "result": "D",
+    "home_score": 1,
+    "away_score": 1,
+    "date_utc": "2026-02-27T19:45:00Z",
+    "league": "serie_a"
+  },
+  {
+    "home_team": "como 1907",
+    "away_team": "us lecce",
+    "result": "H",
+    "home_score": 3,
+    "away_score": 1,
+    "date_utc": "2026-02-28T14:00:00Z",
+    "league": "serie_a"
+  },
+  {
+    "home_team": "hellas verona fc",
+    "away_team": "ssc napoli",
+    "result": "A",
+    "home_score": 1,
+    "away_score": 2,
+    "date_utc": "2026-02-28T17:00:00Z",
+    "league": "serie_a"
+  },
+  {
+    "home_team": "fc internazionale milano",
+    "away_team": "genoa cfc",
+    "result": "H",
+    "home_score": 2,
+    "away_score": 0,
+    "date_utc": "2026-02-28T19:45:00Z",
+    "league": "serie_a"
+  },
+  {
+    "home_team": "us cremonese",
+    "away_team": "ac milan",
+    "result": "A",
+    "home_score": 0,
+    "away_score": 2,
+    "date_utc": "2026-03-01T11:30:00Z",
+    "league": "serie_a"
+  },
+  {
+    "home_team": "us sassuolo calcio",
+    "away_team": "atalanta bc",
+    "result": "H",
+    "home_score": 2,
+    "away_score": 1,
+    "date_utc": "2026-03-01T14:00:00Z",
+    "league": "serie_a"
+  },
+  {
+    "home_team": "torino fc",
+    "away_team": "ss lazio",
+    "result": "H",
+    "home_score": 2,
+    "away_score": 0,
+    "date_utc": "2026-03-01T17:00:00Z",
+    "league": "serie_a"
+  },
+  {
+    "home_team": "as roma",
+    "away_team": "juventus fc",
+    "result": "D",
+    "home_score": 3,
+    "away_score": 3,
+    "date_utc": "2026-03-01T19:45:00Z",
+    "league": "serie_a"
+  },
+  {
+    "home_team": "ac pisa 1909",
+    "away_team": "bologna fc 1909",
+    "result": "A",
+    "home_score": 0,
+    "away_score": 1,
+    "date_utc": "2026-03-02T17:30:00Z",
+    "league": "serie_a"
+  },
+  {
+    "home_team": "udinese calcio",
+    "away_team": "acf fiorentina",
+    "result": "H",
+    "home_score": 3,
+    "away_score": 0,
+    "date_utc": "2026-03-02T19:45:00Z",
+    "league": "serie_a"
+  },
+  {
+    "home_team": "ssc napoli",
+    "away_team": "torino fc",
+    "result": "H",
+    "home_score": 2,
+    "away_score": 1,
+    "date_utc": "2026-03-06T19:45:00Z",
+    "league": "serie_a"
+  },
+  {
+    "home_team": "cagliari calcio",
+    "away_team": "como 1907",
+    "result": "A",
+    "home_score": 1,
+    "away_score": 2,
+    "date_utc": "2026-03-07T14:00:00Z",
+    "league": "serie_a"
+  },
+  {
+    "home_team": "atalanta bc",
+    "away_team": "udinese calcio",
+    "result": "D",
+    "home_score": 2,
+    "away_score": 2,
+    "date_utc": "2026-03-07T17:00:00Z",
+    "league": "serie_a"
+  },
+  {
+    "home_team": "juventus fc",
+    "away_team": "ac pisa 1909",
+    "result": "H",
+    "home_score": 4,
+    "away_score": 0,
+    "date_utc": "2026-03-07T19:45:00Z",
+    "league": "serie_a"
+  },
+  {
+    "home_team": "us lecce",
+    "away_team": "us cremonese",
+    "result": "H",
+    "home_score": 2,
+    "away_score": 1,
+    "date_utc": "2026-03-08T11:30:00Z",
+    "league": "serie_a"
+  },
+  {
+    "home_team": "bologna fc 1909",
+    "away_team": "hellas verona fc",
+    "result": "A",
+    "home_score": 1,
+    "away_score": 2,
+    "date_utc": "2026-03-08T14:00:00Z",
+    "league": "serie_a"
+  },
+  {
+    "home_team": "acf fiorentina",
+    "away_team": "parma calcio 1913",
+    "result": "D",
+    "home_score": 0,
+    "away_score": 0,
+    "date_utc": "2026-03-08T14:00:00Z",
+    "league": "serie_a"
+  },
+  {
+    "home_team": "genoa cfc",
+    "away_team": "as roma",
+    "result": "H",
+    "home_score": 2,
+    "away_score": 1,
+    "date_utc": "2026-03-08T17:00:00Z",
+    "league": "serie_a"
+  },
+  {
+    "home_team": "ac milan",
+    "away_team": "fc internazionale milano",
+    "result": "H",
+    "home_score": 1,
+    "away_score": 0,
+    "date_utc": "2026-03-08T19:45:00Z",
+    "league": "serie_a"
+  },
+  {
+    "home_team": "ss lazio",
+    "away_team": "us sassuolo calcio",
+    "result": "H",
+    "home_score": 2,
+    "away_score": 1,
+    "date_utc": "2026-03-09T19:45:00Z",
+    "league": "serie_a"
+  },
+  {
+    "home_team": "torino fc",
+    "away_team": "parma calcio 1913",
+    "result": "H",
+    "home_score": 4,
+    "away_score": 1,
+    "date_utc": "2026-03-13T19:45:00Z",
+    "league": "serie_a"
+  },
+  {
+    "home_team": "fc internazionale milano",
+    "away_team": "atalanta bc",
+    "result": "D",
+    "home_score": 1,
+    "away_score": 1,
+    "date_utc": "2026-03-14T14:00:00Z",
+    "league": "serie_a"
+  },
+  {
+    "home_team": "ssc napoli",
+    "away_team": "us lecce",
+    "result": "H",
+    "home_score": 2,
+    "away_score": 1,
+    "date_utc": "2026-03-14T17:00:00Z",
+    "league": "serie_a"
+  },
+  {
+    "home_team": "udinese calcio",
+    "away_team": "juventus fc",
+    "result": "A",
+    "home_score": 0,
+    "away_score": 1,
+    "date_utc": "2026-03-14T19:45:00Z",
+    "league": "serie_a"
+  },
+  {
+    "home_team": "hellas verona fc",
+    "away_team": "genoa cfc",
+    "result": "A",
+    "home_score": 0,
+    "away_score": 2,
+    "date_utc": "2026-03-15T11:30:00Z",
+    "league": "serie_a"
+  },
+  {
+    "home_team": "ac pisa 1909",
+    "away_team": "cagliari calcio",
+    "result": "H",
+    "home_score": 3,
+    "away_score": 1,
+    "date_utc": "2026-03-15T14:00:00Z",
+    "league": "serie_a"
+  },
+  {
+    "home_team": "us sassuolo calcio",
+    "away_team": "bologna fc 1909",
+    "result": "A",
+    "home_score": 0,
+    "away_score": 1,
+    "date_utc": "2026-03-15T14:00:00Z",
+    "league": "serie_a"
+  },
+  {
+    "home_team": "como 1907",
+    "away_team": "as roma",
+    "result": "H",
+    "home_score": 2,
+    "away_score": 1,
+    "date_utc": "2026-03-15T17:00:00Z",
+    "league": "serie_a"
+  },
+  {
+    "home_team": "ss lazio",
+    "away_team": "ac milan",
+    "result": "H",
+    "home_score": 1,
+    "away_score": 0,
+    "date_utc": "2026-03-15T19:45:00Z",
+    "league": "serie_a"
+  },
+  {
+    "home_team": "us cremonese",
+    "away_team": "acf fiorentina",
+    "result": "A",
+    "home_score": 1,
+    "away_score": 4,
+    "date_utc": "2026-03-16T19:45:00Z",
+    "league": "serie_a"
+  },
+  {
+    "home_team": "cagliari calcio",
+    "away_team": "ssc napoli",
+    "result": "A",
+    "home_score": 0,
+    "away_score": 1,
+    "date_utc": "2026-03-20T17:30:00Z",
+    "league": "serie_a"
+  },
+  {
+    "home_team": "genoa cfc",
+    "away_team": "udinese calcio",
+    "result": "A",
+    "home_score": 0,
+    "away_score": 2,
+    "date_utc": "2026-03-20T19:45:00Z",
+    "league": "serie_a"
+  },
+  {
+    "home_team": "parma calcio 1913",
+    "away_team": "us cremonese",
+    "result": "A",
+    "home_score": 0,
+    "away_score": 2,
+    "date_utc": "2026-03-21T14:00:00Z",
+    "league": "serie_a"
+  },
+  {
+    "home_team": "ac milan",
+    "away_team": "torino fc",
+    "result": "H",
+    "home_score": 3,
+    "away_score": 2,
+    "date_utc": "2026-03-21T17:00:00Z",
+    "league": "serie_a"
+  },
+  {
+    "home_team": "juventus fc",
+    "away_team": "us sassuolo calcio",
+    "result": "D",
+    "home_score": 1,
+    "away_score": 1,
+    "date_utc": "2026-03-21T19:45:00Z",
+    "league": "serie_a"
+  },
+  {
+    "home_team": "como 1907",
+    "away_team": "ac pisa 1909",
+    "result": "H",
+    "home_score": 5,
+    "away_score": 0,
+    "date_utc": "2026-03-22T11:30:00Z",
+    "league": "serie_a"
+  },
+  {
+    "home_team": "atalanta bc",
+    "away_team": "hellas verona fc",
+    "result": "H",
+    "home_score": 1,
+    "away_score": 0,
+    "date_utc": "2026-03-22T14:00:00Z",
+    "league": "serie_a"
+  },
+  {
+    "home_team": "bologna fc 1909",
+    "away_team": "ss lazio",
+    "result": "A",
+    "home_score": 0,
+    "away_score": 2,
+    "date_utc": "2026-03-22T14:00:00Z",
+    "league": "serie_a"
+  },
+  {
+    "home_team": "as roma",
+    "away_team": "us lecce",
+    "result": "H",
+    "home_score": 1,
+    "away_score": 0,
+    "date_utc": "2026-03-22T17:00:00Z",
+    "league": "serie_a"
+  },
+  {
+    "home_team": "acf fiorentina",
+    "away_team": "fc internazionale milano",
+    "result": "D",
+    "home_score": 1,
+    "away_score": 1,
+    "date_utc": "2026-03-22T19:45:00Z",
+    "league": "serie_a"
+  },
+  {
+    "home_team": "us sassuolo calcio",
+    "away_team": "cagliari calcio",
+    "result": "H",
+    "home_score": 2,
+    "away_score": 1,
+    "date_utc": "2026-04-04T13:00:00Z",
+    "league": "serie_a"
+  },
+  {
+    "home_team": "hellas verona fc",
+    "away_team": "acf fiorentina",
+    "result": "A",
+    "home_score": 0,
+    "away_score": 1,
+    "date_utc": "2026-04-04T16:00:00Z",
+    "league": "serie_a"
+  },
+  {
+    "home_team": "ss lazio",
+    "away_team": "parma calcio 1913",
+    "result": "D",
+    "home_score": 1,
+    "away_score": 1,
+    "date_utc": "2026-04-04T18:45:00Z",
+    "league": "serie_a"
+  },
+  {
+    "home_team": "us cremonese",
+    "away_team": "bologna fc 1909",
+    "result": "A",
+    "home_score": 1,
+    "away_score": 2,
+    "date_utc": "2026-04-05T13:00:00Z",
+    "league": "serie_a"
+  },
+  {
+    "home_team": "ac pisa 1909",
+    "away_team": "torino fc",
+    "result": "A",
+    "home_score": 0,
+    "away_score": 1,
+    "date_utc": "2026-04-05T16:00:00Z",
+    "league": "serie_a"
+  },
+  {
+    "home_team": "fc internazionale milano",
+    "away_team": "as roma",
+    "result": "H",
+    "home_score": 5,
+    "away_score": 2,
+    "date_utc": "2026-04-05T18:45:00Z",
+    "league": "serie_a"
+  },
+  {
+    "home_team": "udinese calcio",
+    "away_team": "como 1907",
+    "result": "D",
+    "home_score": 0,
+    "away_score": 0,
+    "date_utc": "2026-04-06T10:30:00Z",
+    "league": "serie_a"
+  },
+  {
+    "home_team": "us lecce",
+    "away_team": "atalanta bc",
+    "result": "A",
+    "home_score": 0,
+    "away_score": 3,
+    "date_utc": "2026-04-06T13:00:00Z",
+    "league": "serie_a"
+  },
+  {
+    "home_team": "juventus fc",
+    "away_team": "genoa cfc",
+    "result": "H",
+    "home_score": 2,
+    "away_score": 0,
+    "date_utc": "2026-04-06T16:00:00Z",
+    "league": "serie_a"
+  },
+  {
+    "home_team": "ssc napoli",
+    "away_team": "ac milan",
+    "result": "H",
+    "home_score": 1,
+    "away_score": 0,
+    "date_utc": "2026-04-06T18:45:00Z",
+    "league": "serie_a"
+  },
+  {
+    "home_team": "as roma",
+    "away_team": "ac pisa 1909",
+    "result": "H",
+    "home_score": 3,
+    "away_score": 0,
+    "date_utc": "2026-04-10T18:45:00Z",
+    "league": "serie_a"
+  },
+  {
+    "home_team": "cagliari calcio",
+    "away_team": "us cremonese",
+    "result": "H",
+    "home_score": 1,
+    "away_score": 0,
+    "date_utc": "2026-04-11T13:00:00Z",
+    "league": "serie_a"
+  },
+  {
+    "home_team": "torino fc",
+    "away_team": "hellas verona fc",
+    "result": "H",
+    "home_score": 2,
+    "away_score": 1,
+    "date_utc": "2026-04-11T13:00:00Z",
+    "league": "serie_a"
+  },
+  {
+    "home_team": "ac milan",
+    "away_team": "udinese calcio",
+    "result": "A",
+    "home_score": 0,
+    "away_score": 3,
+    "date_utc": "2026-04-11T16:00:00Z",
+    "league": "serie_a"
+  },
+  {
+    "home_team": "atalanta bc",
+    "away_team": "juventus fc",
+    "result": "A",
+    "home_score": 0,
+    "away_score": 1,
+    "date_utc": "2026-04-11T18:45:00Z",
+    "league": "serie_a"
+  },
+  {
+    "home_team": "genoa cfc",
+    "away_team": "us sassuolo calcio",
+    "result": "H",
+    "home_score": 2,
+    "away_score": 1,
+    "date_utc": "2026-04-12T10:30:00Z",
+    "league": "serie_a"
+  },
+  {
+    "home_team": "parma calcio 1913",
+    "away_team": "ssc napoli",
+    "result": "D",
+    "home_score": 1,
+    "away_score": 1,
+    "date_utc": "2026-04-12T13:00:00Z",
+    "league": "serie_a"
+  },
+  {
+    "home_team": "bologna fc 1909",
+    "away_team": "us lecce",
+    "result": "H",
+    "home_score": 2,
+    "away_score": 0,
+    "date_utc": "2026-04-12T16:00:00Z",
+    "league": "serie_a"
+  },
+  {
+    "home_team": "como 1907",
+    "away_team": "fc internazionale milano",
+    "result": "A",
+    "home_score": 3,
+    "away_score": 4,
+    "date_utc": "2026-04-12T18:45:00Z",
+    "league": "serie_a"
+  },
+  {
+    "home_team": "acf fiorentina",
+    "away_team": "ss lazio",
+    "result": "H",
+    "home_score": 1,
+    "away_score": 0,
+    "date_utc": "2026-04-13T18:45:00Z",
+    "league": "serie_a"
+  },
+  {
+    "home_team": "us sassuolo calcio",
+    "away_team": "como 1907",
+    "result": "H",
+    "home_score": 2,
+    "away_score": 1,
+    "date_utc": "2026-04-17T16:30:00Z",
+    "league": "serie_a"
+  },
+  {
+    "home_team": "fc internazionale milano",
+    "away_team": "cagliari calcio",
+    "result": "H",
+    "home_score": 3,
+    "away_score": 0,
+    "date_utc": "2026-04-17T18:45:00Z",
+    "league": "serie_a"
+  },
+  {
+    "home_team": "udinese calcio",
+    "away_team": "parma calcio 1913",
+    "result": "A",
+    "home_score": 0,
+    "away_score": 1,
+    "date_utc": "2026-04-18T13:00:00Z",
+    "league": "serie_a"
+  },
+  {
+    "home_team": "ssc napoli",
+    "away_team": "ss lazio",
+    "result": "A",
+    "home_score": 0,
+    "away_score": 2,
+    "date_utc": "2026-04-18T16:00:00Z",
+    "league": "serie_a"
+  },
+  {
+    "home_team": "as roma",
+    "away_team": "atalanta bc",
+    "result": "D",
+    "home_score": 1,
+    "away_score": 1,
+    "date_utc": "2026-04-18T18:45:00Z",
+    "league": "serie_a"
+  },
+  {
+    "home_team": "us cremonese",
+    "away_team": "torino fc",
+    "result": "D",
+    "home_score": 0,
+    "away_score": 0,
+    "date_utc": "2026-04-19T10:30:00Z",
+    "league": "serie_a"
+  },
+  {
+    "home_team": "hellas verona fc",
+    "away_team": "ac milan",
+    "result": "A",
+    "home_score": 0,
+    "away_score": 1,
+    "date_utc": "2026-04-19T13:00:00Z",
+    "league": "serie_a"
+  },
+  {
+    "home_team": "ac pisa 1909",
+    "away_team": "genoa cfc",
+    "result": "A",
+    "home_score": 1,
+    "away_score": 2,
+    "date_utc": "2026-04-19T16:00:00Z",
+    "league": "serie_a"
+  },
+  {
+    "home_team": "juventus fc",
+    "away_team": "bologna fc 1909",
+    "result": "H",
+    "home_score": 2,
+    "away_score": 0,
+    "date_utc": "2026-04-19T18:45:00Z",
+    "league": "serie_a"
+  },
+  {
+    "home_team": "us lecce",
+    "away_team": "acf fiorentina",
+    "result": "D",
+    "home_score": 1,
+    "away_score": 1,
+    "date_utc": "2026-04-20T18:45:00Z",
+    "league": "serie_a"
+  },
+  {
+    "home_team": "ssc napoli",
+    "away_team": "us cremonese",
+    "result": "H",
+    "home_score": 4,
+    "away_score": 0,
+    "date_utc": "2026-04-24T18:45:00Z",
+    "league": "serie_a"
+  },
+  {
+    "home_team": "parma calcio 1913",
+    "away_team": "ac pisa 1909",
+    "result": "H",
+    "home_score": 1,
+    "away_score": 0,
+    "date_utc": "2026-04-25T13:00:00Z",
+    "league": "serie_a"
+  },
+  {
+    "home_team": "bologna fc 1909",
+    "away_team": "as roma",
+    "result": "A",
+    "home_score": 0,
+    "away_score": 2,
+    "date_utc": "2026-04-25T16:00:00Z",
+    "league": "serie_a"
+  },
+  {
+    "home_team": "hellas verona fc",
+    "away_team": "us lecce",
+    "result": "D",
+    "home_score": 0,
+    "away_score": 0,
+    "date_utc": "2026-04-25T18:45:00Z",
+    "league": "serie_a"
+  },
+  {
+    "home_team": "acf fiorentina",
+    "away_team": "us sassuolo calcio",
+    "result": "D",
+    "home_score": 0,
+    "away_score": 0,
+    "date_utc": "2026-04-26T10:30:00Z",
+    "league": "serie_a"
+  },
+  {
+    "home_team": "genoa cfc",
+    "away_team": "como 1907",
+    "result": "A",
+    "home_score": 0,
+    "away_score": 2,
+    "date_utc": "2026-04-26T13:00:00Z",
+    "league": "serie_a"
+  },
+  {
+    "home_team": "torino fc",
+    "away_team": "fc internazionale milano",
+    "result": "D",
+    "home_score": 2,
+    "away_score": 2,
+    "date_utc": "2026-04-26T16:00:00Z",
+    "league": "serie_a"
+  },
+  {
+    "home_team": "ac milan",
+    "away_team": "juventus fc",
+    "result": "D",
+    "home_score": 0,
+    "away_score": 0,
+    "date_utc": "2026-04-26T18:45:00Z",
+    "league": "serie_a"
+  },
+  {
+    "home_team": "cagliari calcio",
+    "away_team": "atalanta bc",
+    "result": "H",
+    "home_score": 3,
+    "away_score": 2,
+    "date_utc": "2026-04-27T16:30:00Z",
+    "league": "serie_a"
+  },
+  {
+    "home_team": "ss lazio",
+    "away_team": "udinese calcio",
+    "result": "D",
+    "home_score": 3,
+    "away_score": 3,
+    "date_utc": "2026-04-27T18:45:00Z",
+    "league": "serie_a"
+  },
+  {
+    "home_team": "ac pisa 1909",
+    "away_team": "us lecce",
+    "result": "A",
+    "home_score": 1,
+    "away_score": 2,
+    "date_utc": "2026-05-01T18:45:00Z",
+    "league": "serie_a"
+  },
+  {
+    "home_team": "udinese calcio",
+    "away_team": "torino fc",
+    "result": "H",
+    "home_score": 2,
+    "away_score": 0,
+    "date_utc": "2026-05-02T13:00:00Z",
+    "league": "serie_a"
+  },
+  {
+    "home_team": "como 1907",
+    "away_team": "ssc napoli",
+    "result": "D",
+    "home_score": 0,
+    "away_score": 0,
+    "date_utc": "2026-05-02T16:00:00Z",
+    "league": "serie_a"
+  },
+  {
+    "home_team": "atalanta bc",
+    "away_team": "genoa cfc",
+    "result": "D",
+    "home_score": 0,
+    "away_score": 0,
+    "date_utc": "2026-05-02T18:45:00Z",
+    "league": "serie_a"
+  },
+  {
+    "home_team": "bologna fc 1909",
+    "away_team": "cagliari calcio",
+    "result": "D",
+    "home_score": 0,
+    "away_score": 0,
+    "date_utc": "2026-05-03T10:30:00Z",
+    "league": "serie_a"
+  },
+  {
+    "home_team": "us sassuolo calcio",
+    "away_team": "ac milan",
+    "result": "H",
+    "home_score": 2,
+    "away_score": 0,
+    "date_utc": "2026-05-03T13:00:00Z",
+    "league": "serie_a"
+  },
+  {
+    "home_team": "juventus fc",
+    "away_team": "hellas verona fc",
+    "result": "D",
+    "home_score": 1,
+    "away_score": 1,
+    "date_utc": "2026-05-03T16:00:00Z",
+    "league": "serie_a"
+  },
+  {
+    "home_team": "fc internazionale milano",
+    "away_team": "parma calcio 1913",
+    "result": "H",
+    "home_score": 2,
+    "away_score": 0,
+    "date_utc": "2026-05-03T18:45:00Z",
+    "league": "serie_a"
+  },
+  {
+    "home_team": "us cremonese",
+    "away_team": "ss lazio",
+    "result": "A",
+    "home_score": 1,
+    "away_score": 2,
+    "date_utc": "2026-05-04T16:30:00Z",
+    "league": "serie_a"
+  },
+  {
+    "home_team": "as roma",
+    "away_team": "acf fiorentina",
+    "result": "H",
+    "home_score": 4,
+    "away_score": 0,
+    "date_utc": "2026-05-04T18:45:00Z",
+    "league": "serie_a"
+  },
+  {
+    "home_team": "torino fc",
+    "away_team": "us sassuolo calcio",
+    "result": "H",
+    "home_score": 2,
+    "away_score": 1,
+    "date_utc": "2026-05-08T18:45:00Z",
+    "league": "serie_a"
+  },
+  {
+    "home_team": "cagliari calcio",
+    "away_team": "udinese calcio",
+    "result": "A",
+    "home_score": 0,
+    "away_score": 2,
+    "date_utc": "2026-05-09T13:00:00Z",
+    "league": "serie_a"
+  },
+  {
+    "home_team": "ss lazio",
+    "away_team": "fc internazionale milano",
+    "result": "A",
+    "home_score": 0,
+    "away_score": 3,
+    "date_utc": "2026-05-09T16:00:00Z",
+    "league": "serie_a"
+  },
+  {
+    "home_team": "us lecce",
+    "away_team": "juventus fc",
+    "result": "A",
+    "home_score": 0,
+    "away_score": 1,
+    "date_utc": "2026-05-09T18:45:00Z",
+    "league": "serie_a"
+  },
+  {
+    "home_team": "hellas verona fc",
+    "away_team": "como 1907",
+    "result": "A",
+    "home_score": 0,
+    "away_score": 1,
+    "date_utc": "2026-05-10T10:30:00Z",
+    "league": "serie_a"
+  },
+  {
+    "home_team": "acf fiorentina",
+    "away_team": "genoa cfc",
+    "result": "D",
+    "home_score": 0,
+    "away_score": 0,
+    "date_utc": "2026-05-10T13:00:00Z",
+    "league": "serie_a"
+  },
+  {
+    "home_team": "us cremonese",
+    "away_team": "ac pisa 1909",
+    "result": "H",
+    "home_score": 3,
+    "away_score": 0,
+    "date_utc": "2026-05-10T13:00:00Z",
+    "league": "serie_a"
+  },
+  {
+    "home_team": "parma calcio 1913",
+    "away_team": "as roma",
+    "result": "A",
+    "home_score": 2,
+    "away_score": 3,
+    "date_utc": "2026-05-10T16:00:00Z",
+    "league": "serie_a"
+  },
+  {
+    "home_team": "ac milan",
+    "away_team": "atalanta bc",
+    "result": "A",
+    "home_score": 2,
+    "away_score": 3,
+    "date_utc": "2026-05-10T18:45:00Z",
+    "league": "serie_a"
+  },
+  {
+    "home_team": "ssc napoli",
+    "away_team": "bologna fc 1909",
+    "result": "A",
+    "home_score": 2,
+    "away_score": 3,
+    "date_utc": "2026-05-11T18:45:00Z",
+    "league": "serie_a"
+  },
+  {
+    "home_team": "as roma",
+    "away_team": "ss lazio",
+    "result": "H",
+    "home_score": 2,
+    "away_score": 0,
+    "date_utc": "2026-05-17T10:00:00Z",
+    "league": "serie_a"
+  },
+  {
+    "home_team": "genoa cfc",
+    "away_team": "ac milan",
+    "result": "A",
+    "home_score": 1,
+    "away_score": 2,
+    "date_utc": "2026-05-17T10:00:00Z",
+    "league": "serie_a"
+  },
+  {
+    "home_team": "como 1907",
+    "away_team": "parma calcio 1913",
+    "result": "H",
+    "home_score": 1,
+    "away_score": 0,
+    "date_utc": "2026-05-17T10:00:00Z",
+    "league": "serie_a"
+  },
+  {
+    "home_team": "juventus fc",
+    "away_team": "acf fiorentina",
+    "result": "A",
+    "home_score": 0,
+    "away_score": 2,
+    "date_utc": "2026-05-17T10:00:00Z",
+    "league": "serie_a"
+  },
+  {
+    "home_team": "ac pisa 1909",
+    "away_team": "ssc napoli",
+    "result": "A",
+    "home_score": 0,
+    "away_score": 3,
+    "date_utc": "2026-05-17T10:00:00Z",
+    "league": "serie_a"
+  },
+  {
+    "home_team": "fc internazionale milano",
+    "away_team": "hellas verona fc",
+    "result": "D",
+    "home_score": 1,
+    "away_score": 1,
+    "date_utc": "2026-05-17T13:00:00Z",
+    "league": "serie_a"
+  },
+  {
+    "home_team": "atalanta bc",
+    "away_team": "bologna fc 1909",
+    "result": "A",
+    "home_score": 0,
+    "away_score": 1,
+    "date_utc": "2026-05-17T16:00:00Z",
+    "league": "serie_a"
+  },
+  {
+    "home_team": "cagliari calcio",
+    "away_team": "torino fc",
+    "result": "H",
+    "home_score": 2,
+    "away_score": 1,
+    "date_utc": "2026-05-17T18:45:00Z",
+    "league": "serie_a"
+  },
+  {
+    "home_team": "us sassuolo calcio",
+    "away_team": "us lecce",
+    "result": "A",
+    "home_score": 2,
+    "away_score": 3,
+    "date_utc": "2026-05-17T18:45:00Z",
+    "league": "serie_a"
+  },
+  {
+    "home_team": "udinese calcio",
+    "away_team": "us cremonese",
+    "result": "A",
+    "home_score": 0,
+    "away_score": 1,
+    "date_utc": "2026-05-17T18:45:00Z",
+    "league": "serie_a"
+  },
+  {
+    "home_team": "acf fiorentina",
+    "away_team": "atalanta bc",
+    "result": "D",
+    "home_score": 1,
+    "away_score": 1,
+    "date_utc": "2026-05-22T18:45:00Z",
+    "league": "serie_a"
+  },
+  {
+    "home_team": "bologna fc 1909",
+    "away_team": "fc internazionale milano",
+    "result": "D",
+    "home_score": 3,
+    "away_score": 3,
+    "date_utc": "2026-05-23T16:00:00Z",
+    "league": "serie_a"
+  },
+  {
+    "home_team": "ss lazio",
+    "away_team": "ac pisa 1909",
+    "result": "H",
+    "home_score": 2,
+    "away_score": 1,
+    "date_utc": "2026-05-23T18:45:00Z",
+    "league": "serie_a"
+  },
+  {
+    "home_team": "parma calcio 1913",
+    "away_team": "us sassuolo calcio",
+    "result": "H",
+    "home_score": 1,
+    "away_score": 0,
+    "date_utc": "2026-05-24T13:00:00Z",
+    "league": "serie_a"
+  },
+  {
+    "home_team": "ssc napoli",
+    "away_team": "udinese calcio",
+    "result": "H",
+    "home_score": 1,
+    "away_score": 0,
+    "date_utc": "2026-05-24T16:00:00Z",
+    "league": "serie_a"
+  },
+  {
+    "home_team": "ac milan",
+    "away_team": "cagliari calcio",
+    "result": "A",
+    "home_score": 1,
+    "away_score": 2,
+    "date_utc": "2026-05-24T18:45:00Z",
+    "league": "serie_a"
+  },
+  {
+    "home_team": "hellas verona fc",
+    "away_team": "as roma",
+    "result": "A",
+    "home_score": 0,
+    "away_score": 2,
+    "date_utc": "2026-05-24T18:45:00Z",
+    "league": "serie_a"
+  },
+  {
+    "home_team": "us cremonese",
+    "away_team": "como 1907",
+    "result": "A",
+    "home_score": 1,
+    "away_score": 4,
+    "date_utc": "2026-05-24T18:45:00Z",
+    "league": "serie_a"
+  },
+  {
+    "home_team": "us lecce",
+    "away_team": "genoa cfc",
+    "result": "H",
+    "home_score": 1,
+    "away_score": 0,
+    "date_utc": "2026-05-24T18:45:00Z",
+    "league": "serie_a"
+  },
+  {
+    "home_team": "torino fc",
+    "away_team": "juventus fc",
+    "result": "D",
+    "home_score": 2,
+    "away_score": 2,
+    "date_utc": "2026-05-24T19:45:00Z",
+    "league": "serie_a"
+  },
+  {
+    "home_team": "udinese calcio",
+    "away_team": "como 1907",
+    "result": "D",
+    "home_score": 1,
+    "away_score": 1,
+    "date_utc": "2026-08-22T16:30:00Z",
+    "league": "serie_a"
+  },
+  {
+    "home_team": "fc internazionale milano",
+    "away_team": "ac monza",
+    "result": "H",
+    "home_score": 4,
+    "away_score": 1,
+    "date_utc": "2026-08-22T16:30:00Z",
+    "league": "serie_a"
+  },
+  {
+    "home_team": "genoa cfc",
+    "away_team": "ssc napoli",
+    "result": "A",
+    "home_score": 0,
+    "away_score": 2,
+    "date_utc": "2026-08-22T18:45:00Z",
+    "league": "serie_a"
+  },
+  {
+    "home_team": "parma calcio 1913",
+    "away_team": "cagliari calcio",
+    "result": "A",
+    "home_score": 0,
+    "away_score": 1,
+    "date_utc": "2026-08-22T18:45:00Z",
+    "league": "serie_a"
+  },
+  {
+    "home_team": "frosinone calcio",
+    "away_team": "juventus fc",
+    "result": "A",
+    "home_score": 0,
+    "away_score": 1,
+    "date_utc": "2026-08-23T16:30:00Z",
+    "league": "serie_a"
+  },
+  {
+    "home_team": "venezia fc",
+    "away_team": "us lecce",
+    "result": "A",
+    "home_score": 0,
+    "away_score": 2,
+    "date_utc": "2026-08-23T16:30:00Z",
+    "league": "serie_a"
+  },
+  {
+    "home_team": "atalanta bc",
+    "away_team": "us sassuolo calcio",
+    "result": "H",
+    "home_score": 2,
+    "away_score": 1,
+    "date_utc": "2026-08-23T18:45:00Z",
+    "league": "serie_a"
+  },
+  {
+    "home_team": "torino fc",
+    "away_team": "ac milan",
+    "result": "A",
+    "home_score": 1,
+    "away_score": 2,
+    "date_utc": "2026-08-23T18:45:00Z",
+    "league": "serie_a"
+  },
+  {
+    "home_team": "bologna fc 1909",
+    "away_team": "ss lazio",
+    "result": "A",
+    "home_score": 0,
+    "away_score": 1,
+    "date_utc": "2026-08-24T16:30:00Z",
+    "league": "serie_a"
+  },
+  {
+    "home_team": "as roma",
+    "away_team": "acf fiorentina",
+    "result": "H",
+    "home_score": 4,
+    "away_score": 0,
+    "date_utc": "2026-08-24T18:45:00Z",
+    "league": "serie_a"
+  }
+]

@@ -1,0 +1,202 @@
+[
+  {
+    "position": 1,
+    "team": "sevilla fc",
+    "played": 2,
+    "won": 2,
+    "drawn": 0,
+    "lost": 0,
+    "points": 6,
+    "gd": 3
+  },
+  {
+    "position": 2,
+    "team": "real betis balompi\u00e9",
+    "played": 2,
+    "won": 2,
+    "drawn": 0,
+    "lost": 0,
+    "points": 6,
+    "gd": 2
+  },
+  {
+    "position": 3,
+    "team": "deportivo alav\u00e9s",
+    "played": 2,
+    "won": 1,
+    "drawn": 1,
+    "lost": 0,
+    "points": 4,
+    "gd": 3
+  },
+  {
+    "position": 4,
+    "team": "club atl\u00e9tico de madrid",
+    "played": 2,
+    "won": 1,
+    "drawn": 1,
+    "lost": 0,
+    "points": 4,
+    "gd": 2
+  },
+  {
+    "position": 5,
+    "team": "fc barcelona",
+    "played": 1,
+    "won": 1,
+    "drawn": 0,
+    "lost": 0,
+    "points": 3,
+    "gd": 5
+  },
+  {
+    "position": 6,
+    "team": "rcd espanyol de barcelona",
+    "played": 2,
+    "won": 1,
+    "drawn": 0,
+    "lost": 1,
+    "points": 3,
+    "gd": 2
+  },
+  {
+    "position": 7,
+    "team": "real madrid cf",
+    "played": 1,
+    "won": 1,
+    "drawn": 0,
+    "lost": 0,
+    "points": 3,
+    "gd": 1
+  },
+  {
+    "position": 8,
+    "team": "getafe cf",
+    "played": 2,
+    "won": 1,
+    "drawn": 0,
+    "lost": 1,
+    "points": 3,
+    "gd": -2
+  },
+  {
+    "position": 9,
+    "team": "villarreal cf",
+    "played": 2,
+    "won": 0,
+    "drawn": 2,
+    "lost": 0,
+    "points": 2,
+    "gd": 0
+  },
+  {
+    "position": 10,
+    "team": "rc deportivo la coru\u00f1a",
+    "played": 2,
+    "won": 0,
+    "drawn": 2,
+    "lost": 0,
+    "points": 2,
+    "gd": 0
+  },
+  {
+    "position": 11,
+    "team": "ca osasuna",
+    "played": 1,
+    "won": 0,
+    "drawn": 1,
+    "lost": 0,
+    "points": 1,
+    "gd": 0
+  },
+  {
+    "position": 11,
+    "team": "rc celta de vigo",
+    "played": 1,
+    "won": 0,
+    "drawn": 1,
+    "lost": 0,
+    "points": 1,
+    "gd": 0
+  },
+  {
+    "position": 13,
+    "team": "real racing club de santander",
+    "played": 2,
+    "won": 0,
+    "drawn": 1,
+    "lost": 1,
+    "points": 1,
+    "gd": -1
+  },
+  {
+    "position": 13,
+    "team": "rayo vallecano de madrid",
+    "played": 2,
+    "won": 0,
+    "drawn": 1,
+    "lost": 1,
+    "points": 1,
+    "gd": -1
+  },
+  {
+    "position": 15,
+    "team": "valencia cf",
+    "played": 2,
+    "won": 0,
+    "drawn": 1,
+    "lost": 1,
+    "points": 1,
+    "gd": -1
+  },
+  {
+    "position": 16,
+    "team": "m\u00e1laga cf",
+    "played": 2,
+    "won": 0,
+    "drawn": 1,
+    "lost": 1,
+    "points": 1,
+    "gd": -2
+  },
+  {
+    "position": 17,
+    "team": "levante ud",
+    "played": 2,
+    "won": 0,
+    "drawn": 1,
+    "lost": 1,
+    "points": 1,
+    "gd": -3
+  },
+  {
+    "position": 18,
+    "team": "elche cf",
+    "played": 2,
+    "won": 0,
+    "drawn": 1,
+    "lost": 1,
+    "points": 1,
+    "gd": -5
+  },
+  {
+    "position": 19,
+    "team": "real sociedad de f\u00fatbol",
+    "played": 1,
+    "won": 0,
+    "drawn": 0,
+    "lost": 1,
+    "points": 0,
+    "gd": -1
+  },
+  {
+    "position": 20,
+    "team": "athletic club",
+    "played": 1,
+    "won": 0,
+    "drawn": 0,
+    "lost": 1,
+    "points": 0,
+    "gd": -2
+  }
+]

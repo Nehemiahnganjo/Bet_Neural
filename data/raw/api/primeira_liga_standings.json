@@ -1,0 +1,182 @@
+[
+  {
+    "position": 1,
+    "team": "fc porto",
+    "played": 3,
+    "won": 3,
+    "drawn": 0,
+    "lost": 0,
+    "points": 9,
+    "gd": 6
+  },
+  {
+    "position": 2,
+    "team": "sporting clube de portugal",
+    "played": 3,
+    "won": 2,
+    "drawn": 1,
+    "lost": 0,
+    "points": 7,
+    "gd": 3
+  },
+  {
+    "position": 3,
+    "team": "cs mar\u00edtimo",
+    "played": 3,
+    "won": 2,
+    "drawn": 1,
+    "lost": 0,
+    "points": 7,
+    "gd": 2
+  },
+  {
+    "position": 4,
+    "team": "cd santa clara",
+    "played": 3,
+    "won": 2,
+    "drawn": 1,
+    "lost": 0,
+    "points": 7,
+    "gd": 2
+  },
+  {
+    "position": 5,
+    "team": "fc arouca",
+    "played": 3,
+    "won": 2,
+    "drawn": 0,
+    "lost": 1,
+    "points": 6,
+    "gd": 3
+  },
+  {
+    "position": 6,
+    "team": "gil vicente fc",
+    "played": 2,
+    "won": 2,
+    "drawn": 0,
+    "lost": 0,
+    "points": 6,
+    "gd": 3
+  },
+  {
+    "position": 7,
+    "team": "sport lisboa e benfica",
+    "played": 2,
+    "won": 1,
+    "drawn": 1,
+    "lost": 0,
+    "points": 4,
+    "gd": 7
+  },
+  {
+    "position": 8,
+    "team": "cd nacional",
+    "played": 3,
+    "won": 1,
+    "drawn": 1,
+    "lost": 1,
+    "points": 4,
+    "gd": 1
+  },
+  {
+    "position": 9,
+    "team": "vit\u00f3ria sc",
+    "played": 3,
+    "won": 1,
+    "drawn": 0,
+    "lost": 2,
+    "points": 3,
+    "gd": -1
+  },
+  {
+    "position": 10,
+    "team": "rio ave fc",
+    "played": 3,
+    "won": 1,
+    "drawn": 0,
+    "lost": 2,
+    "points": 3,
+    "gd": -1
+  },
+  {
+    "position": 11,
+    "team": "cf estrela da amadora",
+    "played": 2,
+    "won": 0,
+    "drawn": 2,
+    "lost": 0,
+    "points": 2,
+    "gd": 0
+  },
+  {
+    "position": 12,
+    "team": "acad\u00e9mico de viseu fc",
+    "played": 3,
+    "won": 0,
+    "drawn": 2,
+    "lost": 1,
+    "points": 2,
+    "gd": -1
+  },
+  {
+    "position": 13,
+    "team": "sporting clube de braga",
+    "played": 1,
+    "won": 0,
+    "drawn": 1,
+    "lost": 0,
+    "points": 1,
+    "gd": 0
+  },
+  {
+    "position": 14,
+    "team": "fc famalic\u00e3o",
+    "played": 3,
+    "won": 0,
+    "drawn": 1,
+    "lost": 2,
+    "points": 1,
+    "gd": -2
+  },
+  {
+    "position": 15,
+    "team": "fc alverca",
+    "played": 3,
+    "won": 0,
+    "drawn": 1,
+    "lost": 2,
+    "points": 1,
+    "gd": -4
+  },
+  {
+    "position": 16,
+    "team": "moreirense fc",
+    "played": 2,
+    "won": 0,
+    "drawn": 1,
+    "lost": 1,
+    "points": 1,
+    "gd": -4
+  },
+  {
+    "position": 17,
+    "team": "gd estoril praia",
+    "played": 3,
+    "won": 0,
+    "drawn": 1,
+    "lost": 2,
+    "points": 1,
+    "gd": -4
+  },
+  {
+    "position": 18,
+    "team": "casa pia ac",
+    "played": 3,
+    "won": 0,
+    "drawn": 0,
+    "lost": 3,
+    "points": 0,
+    "gd": -10
+  }
+]
