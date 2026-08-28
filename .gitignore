@@ -1,19 +1,39 @@
-# Secrets
-.env
-
-# Elo ratings (runtime state, not source code)
-elo_ratings.json
-
-# API response cache
-.api_cache/
-
 # Python
 __pycache__/
-*.pyc
+*.py[cod]
 *.pyo
+*.pyd
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+*.so
+.venv/
+venv/
+env/
 
-# Rust
+# Environment
+.env
+.env.*
+
+# API cache & data
+.api_cache/
+data/cache/
+*.json
+
+# Misnamed pip artifacts
+=*
+
+# Rust / Cargo (bet_neural_gui)
 bet_neural_gui/target/
 
-# Test artifacts
-.pytest_cache/
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
