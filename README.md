@@ -288,3 +288,22 @@ This system is designed to work seamlessly with Kiro CLI for automated football 
 ---
 
 🏆 **Bet Neural**: Where European Football meets Artificial Intelligence
+
+---
+
+## Support
+
+This is free and open-source software. Use it, fork it, ship it — no strings attached.
+
+If it saved you time, made you money, or you just think it was a solid piece of work — a coffee goes a long way.
+
+[![Support via PayPal](https://img.shields.io/badge/Support-PayPal-0070ba?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/Nextlinkmw)
+
+No pressure. But appreciated.
+
+---
+
+## License
+
+MIT — free to use, modify, and distribute. See [LICENSE](LICENSE).
+
