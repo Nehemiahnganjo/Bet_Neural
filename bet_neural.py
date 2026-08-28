@@ -351,18 +351,38 @@ class BetNeuralPredictor:
         return new_h, new_a
 
     def resolve_team_name(self, team: str, league: str = "premier_league", threshold: float = 0.6) -> Tuple[str, float, bool]:
-        import difflib
+        """Enhanced team name resolution with multiple algorithms."""
+        from team_matcher import EnhancedTeamMatcher
+        
+        # Quick exact match check first
         key = f"{team}_{league}"
         if key in self.team_ratings:
             return team, 1.0, True
+            
+        # Get candidates for this league
         candidates = [k[:-len(f"_{league}")] for k in self.team_ratings if k.endswith(f"_{league}")]
         if not candidates:
             return team, 0.0, False
+        
+        # Use enhanced matcher
+        if not hasattr(self, '_team_matcher'):
+            self._team_matcher = EnhancedTeamMatcher()
+        
+        match_result = self._team_matcher.match_team(team, candidates, threshold)
+        
+        if match_result:
+            # Return the matched team name, similarity score, and whether it was exact
+            is_exact = match_result.confidence == 'exact'
+            return match_result.matched_name, match_result.similarity, is_exact
+        
+        # Fallback to old method for backwards compatibility
+        import difflib
         matches = difflib.get_close_matches(team.lower(), [c.lower() for c in candidates], n=1, cutoff=threshold)
         if matches:
             resolved = next(c for c in candidates if c.lower() == matches[0])
             ratio = difflib.SequenceMatcher(None, team.lower(), resolved.lower()).ratio()
             return resolved, ratio, False
+            
         return team, 0.0, False
 
     def calculate_elo_rating(self, home_elo: float, away_elo: float, result: float,
@@ -410,12 +430,18 @@ class BetNeuralPredictor:
         h_resolved, h_sim, h_exact = self.resolve_team_name(home_team, league)
         a_resolved, a_sim, a_exact = self.resolve_team_name(away_team, league)
 
-        if not h_exact:
-            warnings_out.append(f"⚠️  '{home_team}' resolved to '{h_resolved}' ({h_sim:.0%})" if h_sim >= 0.6
-                              else f"⚠️  '{home_team}' not recognized — using league-average")
-        if not a_exact:
-            warnings_out.append(f"⚠️  '{away_team}' resolved to '{a_resolved}' ({a_sim:.0%})" if a_sim >= 0.6
-                              else f"⚠️  '{away_team}' not recognized — using league-average")
+        # Enhanced warning messages with confidence levels
+        if not h_exact and h_sim >= 0.6:
+            confidence_emoji = "🎯" if h_sim >= 0.9 else "✅" if h_sim >= 0.8 else "⚠️"
+            warnings_out.append(f"{confidence_emoji} '{home_team}' → '{h_resolved}' ({h_sim:.0%})")
+        elif not h_exact:
+            warnings_out.append(f"❌ '{home_team}' not recognized — using league-average")
+            
+        if not a_exact and a_sim >= 0.6:
+            confidence_emoji = "🎯" if a_sim >= 0.9 else "✅" if a_sim >= 0.8 else "⚠️" 
+            warnings_out.append(f"{confidence_emoji} '{away_team}' → '{a_resolved}' ({a_sim:.0%})")
+        elif not a_exact:
+            warnings_out.append(f"❌ '{away_team}' not recognized — using league-average")
 
         # Guard: a team cannot play itself
         if h_resolved.lower() == a_resolved.lower():
@@ -429,6 +455,42 @@ class BetNeuralPredictor:
 
         h_elo = self.get_team_elo(h_resolved, league)
         a_elo = self.get_team_elo(a_resolved, league)
+
+        # Enhanced form analysis integration
+        form_adjustments = {}
+        try:
+            from form_analyzer import EnhancedFormAnalyzer
+            if not hasattr(self, '_form_analyzer'):
+                self._form_analyzer = EnhancedFormAnalyzer()
+            
+            home_form_factor = self._form_analyzer.get_form_adjustment_factor(h_resolved, league, 'home')
+            away_form_factor = self._form_analyzer.get_form_adjustment_factor(a_resolved, league, 'away')
+            
+            # Apply form adjustments to Elo ratings
+            h_elo_adjusted = h_elo * home_form_factor
+            a_elo_adjusted = a_elo * away_form_factor
+            
+            # Get form summaries for reporting
+            home_form_summary = self._form_analyzer.get_form_summary(h_resolved, league)
+            away_form_summary = self._form_analyzer.get_form_summary(a_resolved, league)
+            
+            form_adjustments = {
+                'home_factor': home_form_factor,
+                'away_factor': away_form_factor,  
+                'home_summary': home_form_summary,
+                'away_summary': away_form_summary,
+                'home_elo_adjusted': h_elo_adjusted,
+                'away_elo_adjusted': a_elo_adjusted
+            }
+            
+            # Use adjusted Elo ratings for calculations
+            h_elo_calc = h_elo_adjusted
+            a_elo_calc = a_elo_adjusted
+            
+        except Exception as e:
+            logger.warning(f"Form analysis failed: {e}")
+            h_elo_calc = h_elo
+            a_elo_calc = a_elo
 
         fb = self._get_feature_builder(league)
         matches = fb.history._matches if fb else []
@@ -446,7 +508,7 @@ class BetNeuralPredictor:
             h_xg = max(0.3, 1.4 * (h_elo / 1500.0) * league_strength)
             a_xg = max(0.2, 1.2 * (a_elo / 1500.0) * league_strength)
 
-        # Compute improvements
+        # Compute improvements with form-adjusted ratings
         sos_diff = 0.0
         if IMPROVEMENTS_AVAILABLE:
             if league not in self.sos_computers:
@@ -455,9 +517,28 @@ class BetNeuralPredictor:
 
         mc_probs = None
         if IMPROVEMENTS_AVAILABLE and self.monte_carlo:
-            mc_probs = self.monte_carlo.simulate(h_elo, a_elo, LEAGUES[league].get("home_adv", 65), h_xg, a_xg)
+            mc_probs = self.monte_carlo.simulate(h_elo_calc, a_elo_calc, LEAGUES[league].get("home_adv", 65), h_xg, a_xg)
 
-        base_probs = self.get_match_probability(h_elo, a_elo, league)
+        base_probs = self.get_match_probability(h_elo_calc, a_elo_calc, league)
+
+        # Try to get ML ensemble predictions if trained models are available
+        ensemble_probs = None
+        try:
+            if self._model_manager:
+                ensemble = self._model_manager.get_ensemble(league)
+                if ensemble.is_trained and fb and fb.history:
+                    # Build feature vector for this match
+                    feature_vector = fb.build_feature_vector(
+                        h_resolved, a_resolved, match_date, {}  # no odds yet
+                    )
+                    if feature_vector is not None:
+                        ensemble_probs = ensemble.predict_match(feature_vector)
+                        logger.info(f"Using ML ensemble predictions for {league}")
+        except Exception as e:
+            logger.warning(f"Could not get ML ensemble prediction: {e}")
+
+        # Use ML ensemble as primary if available, otherwise fall back to Elo
+        primary_probs = ensemble_probs if ensemble_probs else base_probs
 
         # Dynamic weights
         weights = {'xgb': 0.40, 'lgb': 0.35, 'mlp': 0.25}
@@ -481,9 +562,9 @@ class BetNeuralPredictor:
         # Use deterministic Monte Carlo as primary signal, base probs as secondary
         # Only blend when signals are close; amplify strong signals
 
-        home_prob = mc_probs['home_win'] if mc_probs else base_probs['home_win']
-        away_prob = mc_probs['away_win'] if mc_probs else base_probs['away_win']
-        draw_prob = mc_probs['draw'] if mc_probs else base_probs['draw']
+        home_prob = mc_probs['home_win'] if mc_probs else primary_probs['home_win']
+        away_prob = mc_probs['away_win'] if mc_probs else primary_probs['away_win']
+        draw_prob = mc_probs['draw'] if mc_probs else primary_probs['draw']
 
         # ── Calibrated confidence (industry standard: Brier-skill score) ────────
         # Confidence = 1 - (model Brier score / reference Brier score)
@@ -523,10 +604,9 @@ class BetNeuralPredictor:
             # So BS_reference = 2/9 ≈ 0.2222 — NOT 2/3.
             brier_reference = 2.0 / 9.0   # correct multi-class reference
             bss = max(0.0, 1.0 - brier_from_model / brier_reference)
-            # Scale BSS (practical range 0–0.15 for football) into confidence.
-            # BSS=0 → conf=0.45 (no skill), BSS=0.15 → conf=0.60 (strong model)
+            # Scale BSS into confidence. BSS=0 → conf=0.45 (no skill), higher BSS → higher confidence
+            # Remove artificial ceiling - let the model's actual performance determine confidence
             confidence = round(0.45 + bss * 1.0, 3)
-            confidence = min(confidence, 0.65)   # honest ceiling for football models
         else:
             # Fallback: entropy-based decisiveness, conservatively bounded.
             # H = -sum(p * log(p)); max entropy for 3 classes = log(3) ≈ 1.099
@@ -537,16 +617,30 @@ class BetNeuralPredictor:
             # Map to [0.33, 0.58] — honest range when no calibration data exists
             confidence = round(0.33 + decisiveness * 0.25, 3)
 
-        # Simple weighted blend: prioritize Monte Carlo with calibration
-        if mc_probs:
-            # Weighted average: 60% MC (if available), 40% base
+        # Intelligent blending: prioritize ML ensemble when available
+        if mc_probs and ensemble_probs:
+            # Both MC and ML available: weighted average
+            final_probs = {
+                'home_win': 0.50 * mc_probs['home_win'] + 0.50 * ensemble_probs['home_win'],
+                'away_win': 0.50 * mc_probs['away_win'] + 0.50 * ensemble_probs['away_win'],
+                'draw': 0.50 * mc_probs['draw'] + 0.50 * ensemble_probs['draw']
+            }
+        elif ensemble_probs:
+            # ML ensemble available: use it as primary with slight MC/Elo blend
+            final_probs = {
+                'home_win': 0.80 * ensemble_probs['home_win'] + 0.20 * base_probs['home_win'],
+                'away_win': 0.80 * ensemble_probs['away_win'] + 0.20 * base_probs['away_win'], 
+                'draw': 0.80 * ensemble_probs['draw'] + 0.20 * base_probs['draw']
+            }
+        elif mc_probs:
+            # Only MC available: blend with base Elo
             final_probs = {
                 'home_win': 0.60 * mc_probs['home_win'] + 0.40 * base_probs['home_win'],
                 'away_win': 0.60 * mc_probs['away_win'] + 0.40 * base_probs['away_win'],
                 'draw': 0.60 * mc_probs['draw'] + 0.40 * base_probs['draw']
             }
         else:
-            # Only base probabilities
+            # Only base Elo probabilities available
             final_probs = base_probs
 
         # Normalize
@@ -571,11 +665,13 @@ class BetNeuralPredictor:
             "prediction_engine": "deterministic_v4",
             "prediction_time": datetime.now().isoformat(),
             "warnings": warnings_out,
+            "form_analysis": form_adjustments,  # Add form analysis results
             "improvements": {
                 "calibration": bool(self.calibrator),
                 "dynamic_weights": bool(self.weight_optimizer),
                 "home_away_models": league in self.home_away_models,
                 "form_decay": True,
+                "form_analysis": bool(form_adjustments),  # Track form analysis availability
                 "sos": sos_diff != 0.0,
                 "player_availability": bool(self.availability),
                 "weather": bool(self.weather),

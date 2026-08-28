@@ -80,6 +80,21 @@ def _display_prediction(result: Dict, verbose: bool = True) -> None:
     h_name, a_name = result["match"].split(" vs ")
     print(f"   🏠 {h_name:<25} {elo['home']:.0f}")
     print(f"   ✈️  {a_name:<25} {elo['away']:.0f}")
+    
+    # Display form analysis if available
+    form_analysis = result.get("form_analysis", {})
+    if form_analysis:
+        print()
+        print("📈 FORM ANALYSIS:")
+        if 'home_summary' in form_analysis:
+            print(f"   🏠 {h_name:<25} {form_analysis['home_summary']}")
+        if 'away_summary' in form_analysis:
+            print(f"   ✈️  {a_name:<25} {form_analysis['away_summary']}")
+        if 'home_factor' in form_analysis and 'away_factor' in form_analysis:
+            home_adj = "📈" if form_analysis['home_factor'] > 1.0 else "📉" if form_analysis['home_factor'] < 0.95 else "➡️"
+            away_adj = "📈" if form_analysis['away_factor'] > 1.0 else "📉" if form_analysis['away_factor'] < 0.95 else "➡️"
+            print(f"   🔧 Adjustments: {home_adj} Home {form_analysis['home_factor']:.2f}x  |  {away_adj} Away {form_analysis['away_factor']:.2f}x")
+    
     print()
 
     print("🎲 OUTCOME PROBABILITIES:")
